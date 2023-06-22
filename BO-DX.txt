@@ -17,10 +17,6 @@
 {"name":"☃️蚂蚁JS","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
 {"name":"📿神器","url":"https://神器每日推送.tk/pz.json"},
 {"name":"🚒运输车","url":"https://weixine.net/ysc.json"},
-{"name":"🏡蜂蜜","url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
-{"name":"🔞小武哥JAR=18+🔞","url":"https://dpaste.com/CGHKS23B9.txt"},
-{"name":"🔞18+1🔞","url":"https://go.owen10086.repl.co/upload/TVBox/nbsy.json"},
-{"name":"🔞18+2🔞","url":"https://dpaste.com/A7GBUR3BP.txt"},
-{"name":"🔞18+3🔞","url":"http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt"},
-{"name":"🔞蜂蜜18+🔞","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"}
+{"name":"🏡蜂蜜","url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"}
+
 ]}
