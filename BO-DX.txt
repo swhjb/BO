@@ -14,6 +14,10 @@
         {
             "url": "https://gh.t4tv.hz.cz/newtang.bmp",
             "name": "✌️唐三✌️"
+        },       
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🚀小米XBPQ🚀"
         },
 
         {
@@ -22,23 +26,18 @@
         },
 
         {
-            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
-            "name": "✌️jar采集线路✌"
+            "url": "https://agit.ai/tsparkour/nmys/raw/branch/master/qt/lxys.json",
+            "name": "🚀蚂蚁的烦恼🚀"
         },
 
         {
-            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
-            "name": "✌️jar采集线路✌"
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🌨高天流云JS🌨"
         },
 
         {
-            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
-            "name": "✌️jar采集线路✌"
-        },
-
-        {
-            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
-            "name": "✌️jar采集线路✌"
+            "url": "http://rihou.cc:88/荷城茶秀",
+            "name": "🏆荷城茶秀🏆"
         },
 
         {
@@ -88,3 +87,4 @@
         }
     ]
 }
+
