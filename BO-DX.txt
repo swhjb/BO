@@ -98,10 +98,6 @@
             "name": "️😘道长drpy😄"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
-            "name": "🔞蜂蜜18+🔞"
-        }
-        {
             "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/c18.json",
             "name": "🔞性用社🔞"
         },
