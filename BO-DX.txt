@@ -98,10 +98,6 @@
             "name": "️😘道长drpy😄"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
-            "name": "🔞蜂蜜18+🔞"
-        }
-        {
             "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/c18.json",
             "name": "🔞性用社🔞"
         },
@@ -116,24 +112,7 @@
         {
             "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
             "name": "🔞🈲线路④🔞"
-        },
-        {
-            "url": "https://dpaste.com/CGHKS23B9.txt",
-            "name": "🔞小武哥JAR=18+🔞"
-        },
-        {
-            "url": "https://go.owen10086.repl.co/upload/TVBox/nbsy.json",
-            "name": "🔞18+1🔞"
-        },
-        {
-            "url": "https://dpaste.com/A7GBUR3BP.txt",
-            "name": "🔞18+2🔞"
-        },
-        {
-            "url": "http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt",
-            "name": "🔞18+3🔞"
         }
-
     ]
 }
 
