@@ -1,34 +1,93 @@
 {
-{"urls":[
+    "urls": [   
+       
+         {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
+            "name": "✌️jar采集线路✌"
+        },
 
-{"name": "🚀饭太硬","url":"http://饭太硬.top/tv"},
-{"name": "🏡骚0","url":"https://xhdwc.tk/0"},
-{"name": "💛唐三","url":"https://gh.t4tv.hz.cz/newtang.bmp"},
-{"name": "☃️小苹果","url":"https://api.ys66.repl.co/?url=http://m35.grelighting.cn/a001.asp"},
-{"name": "🚀蚂蚁的烦恼","url":"https://agit.ai/tsparkour/nmys/raw/branch/master/qt/lxys.json"},
-{"name": "🚀小米XBPQ","url":"http://xhww.fun:63/小米/DEMO.json"},
-{"name": "🌨高天流云JS","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
-{"name": "🏆荷城茶秀","url":"http://rihou.cc:88/荷城茶秀"},
-{"name": "🌼菜妮丝","url":"https://tvbox.cainisi.cf"},
-{"name": "🐼肥猫","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
-{"name": "💦巧技","url":"http://pandown.pro/tvbox/tvbox.json"},
-{"name": "🌪南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
-{"name": "👭多多","url":"https://yydsys.top/duo"},
-{"name": "☃️蚂蚁JS","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
-{"name": "📿神器","url":"https://神器每日推送.tk/pz.json"},
-{"name": "🚒运输车","url":"https://weixine.net/ysc.json"},
-{"name": "🏡蜂蜜","url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
-{"name": "✌️jar采集线路✌","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json"},
-{"name": "✌️育儿教育央视栏目✌","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json"},
-{"name": "👍体育直播xbiu🔫","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/ty.json"},
-{"name": "️😘道长drpy😄","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json"},
-{"name": "🔞性用社🔞","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/c18.json"},
-{"name": "🔞FMCR🔞","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/qiaoj.json"},
-{"name": "🔞私人收集🔞","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/nbsy.json"},
-{"name": "🔞🈲线路④🔞""url":"https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg"},
-{"name": "🔞小武哥JAR=18+🔞","url":"https://dpaste.com/CGHKS23B9.txt"},
-{"name": "🔞18+1🔞","url":"https://go.owen10086.repl.co/upload/TVBox/nbsy.json"},
-{"name": "🔞18+2🔞","url":"https://dpaste.com/A7GBUR3BP.txt"},
-{"name": "🔞18+3🔞","url":"http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt"},
-{"name": "🔞蜂蜜18+🔞","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"}
-]}
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
+            "name": "✌️jar采集线路✌"
+        },
+
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
+            "name": "✌️jar采集线路✌"
+        },
+
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
+            "name": "✌️jar采集线路✌"
+        },
+
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
+            "name": "✌️jar采集线路✌"
+        },
+
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
+            "name": "✌️jar采集线路✌"
+        },
+
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
+            "name": "✌️jar采集线路✌"
+        },
+
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
+            "name": "✌️jar采集线路✌"
+        },
+
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
+            "name": "✌️jar采集线路✌"
+        },
+
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
+            "name": "✌️jar采集线路✌"
+        },
+
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
+            "name": "✌️jar采集线路✌"
+        },
+
+
+
+
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json",
+            "name": "✌️育儿教育央视栏目✌"
+        },
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/ty.json",
+            "name": "👍体育直播xbiu🔫"
+        },
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/cpy.json",
+            "name": "🌝纯PY🌝"
+        },
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json",
+            "name": "️😘道长drpy😄"
+        },
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/c18.json",
+            "name": "🔞性用社🔞"
+        },
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/qiaoj.json",
+            "name": "🔞FMCR🔞"
+        },{
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/nbsy.json",
+            "name": "🔞私人收集🔞"
+        },{
+            "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
+            "name": "🔞🈲线路④🔞"
+        }
+    ]
+}
