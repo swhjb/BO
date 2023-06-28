@@ -23,10 +23,6 @@
             "name": "🔞🈲蜂蜜🔞"
         },
         {
-            "url": "https://api.ys66.repl.co?url=https://qu.ax/VdkQ.%E5%B1%8C",
-            "name": "🔞🈲小武哥🔞"
-        },
-        {
             "url": "https://agit.ai/376242575/zzh/raw/branch/master/A.txt",
             "name": "🔞🈲A佬🔞"
         },
