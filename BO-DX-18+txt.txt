@@ -27,6 +27,10 @@
             "name": "🔞🈲A佬🔞"
         },
         {
+            "url": "https://api.ys66.repl.co/?url=https://qu.ax/VdkQ.%E5%B1%8C",
+            "name": "🔞🈲小武哥🔞"
+        },
+        {
             "url": "https://go.owen10086.repl.co/upload/TVBox/nbsy.json",
             "name": "🔞🈲18+1🔞"
         },
