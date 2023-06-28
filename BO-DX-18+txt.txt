@@ -23,7 +23,7 @@
             "name": "🔞🈲蜂蜜🔞"
         },
         {
-            "url": "https://qu.ax/VdkQ.%E5%B1%8C",
+            "url": "https://api.ys66.repl.co?url=https://qu.ax/VdkQ.%E5%B1%8C",
             "name": "🔞🈲小武哥🔞"
         },
         {
