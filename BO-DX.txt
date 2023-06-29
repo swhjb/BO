@@ -22,6 +22,10 @@
             "name": "🚀欧歌JS🚀"
         },
         {
+            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=js&jar=js&b=欧歌",
+            "name": "🚀欧歌JS🚀"
+        },
+        {
             "url": "https://xhdwc.tk/0",
             "name": "🏡骚0🏡"
         },
@@ -34,19 +38,9 @@
             "name": "🐼肥猫🐼"
         },
         {
-            "url": "https://api.ys66.repl.co/?url=http://m35.grelighting.cn/a001.asp",
-            "name": "☃️小苹果☃️"
-        },
-        {
-            "url": "https://agit.ai/tsparkour/nmys/raw/branch/master/qt/lxys.json",
-            "name": "🚀蚂蚁的烦恼🚀"
-        },
-
-        {
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🌨高天流云JS🌨"
         },
-
         {
             "url": "http://rihou.cc:88/荷城茶秀",
             "name": "🏆荷城茶秀🏆"
