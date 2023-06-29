@@ -10,6 +10,14 @@
             "name": "🚀小米XBPQ🚀"
         },
         {
+            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&321&b=欧歌",
+            "name": "🚀欧歌🚀"
+        },
+        {
+            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&jar=XBiu&mz=XBiu&b=欧歌",
+            "name": "🚀欧歌XBPQ🚀"
+        },
+        {
             "url": "https://xhdwc.tk/0",
             "name": "🏡骚0🏡"
         },
