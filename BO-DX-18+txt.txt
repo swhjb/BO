@@ -23,6 +23,10 @@
             "name": "🔞🈲蜂蜜🔞"
         },
         {
+            "url": "http://lzoq.hk3c.ml/tvbox/shuangbo.json",
+            "name": "🔞🈲刘公子🔞"
+        },
+        {
             "url": "https://agit.ai/376242575/zzh/raw/branch/master/A.txt",
             "name": "🔞🈲A佬🔞"
         },
