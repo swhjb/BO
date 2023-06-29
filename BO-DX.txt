@@ -18,6 +18,10 @@
             "name": "🚀欧歌XBPQ🚀"
         },
         {
+            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=js&jar=js&b=欧歌",
+            "name": "🚀欧歌JS🚀"
+        },
+        {
             "url": "https://xhdwc.tk/0",
             "name": "🏡骚0🏡"
         },
