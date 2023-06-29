@@ -76,10 +76,13 @@
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🏡蜂蜜🏡"
-        },       
+        },          {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🏡蜂蜜🏡"
+        },  
         {
-            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
-            "name": "✌️jar采集线路✌"
+            "url": "http://52bsj.vip:98/cl",
+            "name": "✌️月光宝盒✌"
         },
         {
             "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json",
