@@ -54,7 +54,7 @@
             "name": "🌪南风🌪"
         },
         {
-            "url": "https://yydsys.top/duo",
+            "url": "http://cdn.yydsys.top/duo",
             "name": "👭多多👭"
         },
         {
