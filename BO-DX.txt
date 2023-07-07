@@ -6,12 +6,16 @@
             "name": "🚀饭太硬🚀"
         },
         {
+            "url": "https://jihulab.com/sisvs/yscbox/-/raw/main/ysc.json",
+            "name": "✌4K✌"
+        },
+        {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "🚀小米XBPQ🚀"
         },
         {
             "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&321&b=欧歌",
-            "name": "🚀欧歌🚀"
+            "name": "✌欧歌✌"
         },
         {
             "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&jar=XBiu&mz=XBiu&b=欧歌",
