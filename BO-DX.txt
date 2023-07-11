@@ -1,3 +1,5 @@
+
+
 {
     "urls": [   
        
@@ -6,12 +8,8 @@
             "name": "🚀饭太硬🚀"
         },
         {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "🐼肥猫🐼"
-        },
-        {
-            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json",
-            "name": "️😘道长drpy😄"
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🚀小米XBPQ🚀"
         },
         {
             "url": "https://jihulab.com/sisvs/yscbox/-/raw/main/ysc.json",
@@ -22,8 +20,12 @@
             "name": "🌨高天流云JS🌨"
         },
         {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🚀小米XBPQ🚀"
+            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
+            "name": "✌️唐三✌️"
+        },       
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "🐼肥猫🐼"
         },
         {
             "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&321&b=欧歌",
@@ -42,9 +44,9 @@
             "name": "🏡骚0🏡"
         },
         {
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "✌️唐三✌️"
-        },       
+            "url": "https://agit.ai/tsparkour/nmys/raw/branch/master/qt/lxys.json",
+            "name": "🚀蚂蚁的烦恼🚀"
+        },
         {
             "url": "http://rihou.cc:88/荷城茶秀",
             "name": "🏆荷城茶秀🏆"
@@ -58,7 +60,7 @@
             "name": "🌪南风🌪"
         },
         {
-            "url": "http://cdn.yydsys.top/duo",
+            "url": "https://yydsys.top/duo",
             "name": "👭多多👭"
         },
         {
@@ -80,7 +82,11 @@
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🏡蜂蜜🏡"
-        },          {
+        },       
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/spcj.json",
+            "name": "✌️jar采集线路✌"
+        },
         {
             "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json",
             "name": "✌️育儿教育央视栏目✌"
@@ -92,16 +98,10 @@
         {
             "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/cpy.json",
             "name": "🌝纯PY🌝"
-        }
-        
-
-    ],
-    "vip": [
+        },
         {
-            "url": "",
-            "name": "默认"
-        }
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json",
+            "name": "️😘道长drpy😄"
+         }
     ]
 }
-
-
