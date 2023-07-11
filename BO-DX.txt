@@ -6,8 +6,20 @@
             "name": "🚀饭太硬🚀"
         },
         {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "🐼肥猫🐼"
+        },
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json",
+            "name": "️😘道长drpy😄"
+        },
+        {
             "url": "https://jihulab.com/sisvs/yscbox/-/raw/main/ysc.json",
             "name": "✌4K✌"
+        },
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🌨高天流云JS🌨"
         },
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
@@ -26,10 +38,6 @@
             "name": "🚀欧歌JS🚀"
         },
         {
-            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=js&jar=js&b=欧歌",
-            "name": "🚀欧歌JS🚀"
-        },
-        {
             "url": "https://xhdwc.tk/0",
             "name": "🏡骚0🏡"
         },
@@ -37,14 +45,6 @@
             "url": "https://gh.t4tv.hz.cz/newtang.bmp",
             "name": "✌️唐三✌️"
         },       
-        {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "🐼肥猫🐼"
-        },
-        {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🌨高天流云JS🌨"
-        },
         {
             "url": "http://rihou.cc:88/荷城茶秀",
             "name": "🏆荷城茶秀🏆"
@@ -81,13 +81,6 @@
             "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🏡蜂蜜🏡"
         },          {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
-            "name": "🏡蜂蜜🏡"
-        },  
-        {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
-            "name": "✌️月光宝盒✌"
-        },
         {
             "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json",
             "name": "✌️育儿教育央视栏目✌"
@@ -99,11 +92,8 @@
         {
             "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/cpy.json",
             "name": "🌝纯PY🌝"
-        },
-        {
-            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json",
-            "name": "️😘道长drpy😄"
         }
+
     ]
 }
 
