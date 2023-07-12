@@ -16,9 +16,15 @@
             "name": "🐼肥猫🐼"
         },
         {
+            "url": "https://ghproxy.comhttps://raw.githubusercontent.com/swhjb/BO/main/BO.json",
+            "name": "☃️小武哥☃️"
+        },
+        {
             "url": "https://jihulab.com/sisvs/yscbox/-/raw/main/ysc.json",
             "name": "✌4K✌"
         },
+
+
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🌈道长线路〔多条线路〕"
