@@ -1,74 +1,3 @@
-/*
-              🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝
-
--------APP下载链接--注释--范例--交流群--频道----------
-
-手機版 - 正式版
-https://gh-proxy.com/https://github.com/FongMi/TV/releases/download/mobile/mobile-java-armeabi_v7a.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/releases/download/mobile/mobile-python-armeabi_v7a.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/releases/download/mobile/mobile-java-arm64_v8a.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/releases/download/mobile/mobile-python-arm64_v8a.apk
-https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/TV/release/release/mobile.json
-
-電視版 - 正式版
-Android 4.1https://gh-proxy.com/https://github.com/FongMi/TV/releases/download/leanback/leanback-4.1.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/releases/download/leanback/leanback-java-armeabi_v7a.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/releases/download/leanback/leanback-python-armeabi_v7a.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/releases/download/leanback/leanback-java-arm64_v8a.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/releases/download/leanback/leanback-python-arm64_v8a.apk
-https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/TV/release/release/leanback.json
-
-電視版 - 测试版
-https://gh-proxy.com/https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/release/leanback-java-arm64_v8a.apk
-https://gh-proxy.com/https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/release/leanback-java-armeabi_v7a.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/release/leanback-python-arm64_v8a.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/release/leanback-python-armeabi_v7a.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/release/leanback.json
-
-
-手機版 - 测试版
-https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/release/mobile-java-arm64_v8a.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/release/mobile-java-armeabi_v7a.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/release/mobile-python-arm64_v8a.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/release/mobile-python-armeabi_v7a.apk
-https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/release/mobile.json
-
-
-点播栏位
-
-searchable：搜索    (0：關閉、1：啟用)  
-changeable：換源    (0：關閉、1：啟用)
-playerType：播放器  (1：IJK、2：EXO)
-
-直播栏位
-
-ua：用戶代理
-referer：參照位址
-epg：節目網址
-logo：台標網址
-pass：是否免密碼
-boot：是否自動開啟
-playerType：播放器
-
-配置范例
-
-点播-线上
-https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/vod/online.json
-点播-本地
-https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/vod/offline.json
-直播-线上
-https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/online.json
-直播-本地
-https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/offline.json
-
-
-飞机群
-讨论群发
-https://t.me/fongmi_offical
-频道
-https://t.me/fongmi_release
-
-
 */
 {
   "sites": [
@@ -98,25 +27,7 @@ https://t.me/fongmi_release
       "filterable": 1,
       "ext": "https://download.kstore.space/download/4127/js/电影港.json","jar":""
     },
-       {
-      "key": "MV_vod_1",
-      "name": "👀┃18┃视频",
-      "type": 1,
-      "api": "https://mv.plcxg.repl.co/vod/18",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "MV_vod",
-      "name": "👀┃19┃视频",
-      "type": 1,
-      "api": "https://sousu.popefih902.repl.co/vod/19",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
+     {
       "key": "路人甲影视",
       "name": "❤路人甲",
       "type": 3,
@@ -142,37 +53,7 @@ https://t.me/fongmi_release
       "type": 1, 
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories": ["电影", "电视剧", "综艺", "动漫"]
     },
-    {
-      "key": "本地",
-      "name": "❤本地",
-      "type": 3,
-      "api": "csp_Local",
-      "searchable": 0,
-      "changeable": 0,
-      "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
-    },
-    {
-      "key":"csp_Bili",
-      "name":"🅱️哔哩哔哩",
-      "type":3,
-      "api":"csp_Bili",
-      "searchable":1,
-      "quickSearch":0,
-      "filterable":1,
-      "ext":"https://qu.ax/nVpb.json",
-      "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
-    },
-    {
-      "key":"戏 曲",
-      "name":"🅱️戏曲",
-      "type":3,
-      "api":"csp_Bili",
-      "searchable":0,
-      "quickSearch":0,
-      "filterable":1,
-      "ext":"https://qu.ax/kjiy.txt",
-      "jar":"https://qu.ax/GFua.png"
-    },
+   
     {
       "key": "csp_Nbys",
       "name": "❤蜂蜜新泥巴",
@@ -181,26 +62,6 @@ https://t.me/fongmi_release
       "searchable": 1,
       "changeable": 1,
       "jar": "https://qu.ax/XTuU.jpg"
-    },
-    {
-      "key": "csp_XYQHiker_虎牙直播",
-      "name": "❤🐯虎牙直播(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://qu.ax/uNjv.json"
-    }, 
-    {
-      "key":"csp_XYQBiu_斗鱼",
-      "name":"❤🐟┃斗鱼┃直播",
-      "type":3,
-      "api":"csp_XYQBiu",
-      "searchable":0,
-      "quickSearch":0,
-      "filterable":0,
-      "ext":"https://qu.ax/SQqd.json"
     },
     {
       "key": "csp_XYQHikerAL_阿里云盘网",
@@ -661,49 +522,24 @@ https://t.me/fongmi_release
       "quickSearch": 1
     },
     {
-      "key": "蜂蜜旧泥巴",
-      "name": "❤蜂蜜旧泥巴",
+      "key": "本地",
+      "name": "❤本地",
       "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "ext": 1,
-      "jar":"https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
+      "api": "csp_Local",
+      "searchable": 0,
+      "changeable": 0,
+      "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
     },
     {
-      "key":"路飞直播2点播",
-      "name":"❤电视 | 路飞[js]",
+      "key":"csp_Bili",
+      "name":"🅱️哔哩哔哩",
       "type":3,
-      "api":"https://qu.ax/bzoe.js",
-      "ext":"https://qu.ax/kPgt.json"
-    },
-    {
-      "key": "MV_vod",
-      "name": "❤电视┃MTV",
-      "type": 1,
-      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod"
-    },
-    {
-      "key": "Youtube",
-      "name": "❤Youtube",
-      "type": 3,
-      "api": "https://qu.ax/Mud.js",
-      /*"searchable": 1,
-      "changeable": 1,*/
-      "ext": "https://qu.ax/USvO.txt"
-    },
-    {
-      "key":"网络直播转点播",
-      "name":"❤💻电视 | 直播",
-      "type":3,
-      "api":"https://qu.ax/dFpK.js",
-      "ext":"https://qu.ax/uChb.json"
-    },
-    {
-      "key": "MV",
-      "name": "❤十六万MTV",
-      "type": 3,
-      "api": "https://qu.ax/bzoe.js",
-      "ext":"https://qu.ax/gxhY.txt"
+      "api":"csp_Bili",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":1,
+      "ext":"https://qu.ax/nVpb.json",
+      "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
     },
     {
       "key": "雲搜",
@@ -741,16 +577,6 @@ https://t.me/fongmi_release
       "changeable": 0,
       "ext": "影視天下第一$$$test2$$$test2",
       "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
-    },
-	   {
-      "key": "drpy_js_DJ音乐",
-      "name": " DJ音乐",
-      "type": 3,
-      "api": "https://m.lianyingtv.com/uploads/itvbox/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://m.lianyingtv.com/uploads/itvbox/js/DJ音乐.js"
     },
     {
       "key": "AList",
