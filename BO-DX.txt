@@ -16,7 +16,7 @@
             "name": "🐼肥猫🐼"
         },
         {
-            "url": "https://ghproxy.comhttps://raw.githubusercontent.com/swhjb/BO/main/BO.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/swhjb/BO/main/BO.json",
             "name": "☃️小武哥☃️"
         },
         {
