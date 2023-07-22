@@ -2,8 +2,6 @@
    
 {"name":"🚀饭太硬🚀","url":"http://饭太硬.top/tv"},
 
-{"name":"🚀帅锅","url":"https://agit.ai/swhjb/TVBOX/raw/branch/master/BO.json"},
-
 {"name":"🐼肥猫🐼","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
 
 {"name":"🌹小米🌹","url":"http://xhww.fun:63/小米/DEMO.json"},
@@ -15,6 +13,10 @@
 {"name":"🌨高天JS🌨","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
 
 {"name":"💛唐三💛","url":"https://gh.t4tv.hz.cz/newtang.bmp"},
+
+{"name":"💞多多💞","url":"https://yydsys.top"},
+
+{"name":"✌欧歌✌","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&321&b=欧歌"},
 
 {"name": "🌈道长线路🌈","url":"https://pastebin.com/raw/5NHaxyGR"},
 
@@ -30,14 +32,12 @@
 
 {"name":"💦巧技💦","url":"http://pandown.pro/tvbox/tvbox.json"},
 
-{"name":"✌️育儿教育央视栏目","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json"},
+{"name":"✌️育儿教育央视栏目✌️","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json"},
 
-{"name":"👍体育直播xbiu","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/ty.json"},
+{"name":"👍体育直播xbiu👍","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/ty.json"},
 
-{"name":"💞多多💞","url":"https://yydsys.top"},
+{"name":"🏡帅锅🏡","url":"https://agit.ai/swhjb/TVBOX/raw/branch/master/BO.json"},
 
-{"name":"✌欧歌✌","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&321&b=欧歌"},
-
-{"name":"🐯精简","url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"}
+{"name":"🐯精简🐯","url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"}
 
 ]}
