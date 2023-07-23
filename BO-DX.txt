@@ -8,19 +8,17 @@
 
 {"name":"🌪南风🌪","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
+{"name":"💞多多💞","url":"https://yydsys.top"},
+
+{"name":"✌欧歌✌","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&321&b=欧歌"},
+
 {"name":"💝菜妮丝💝","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
 {"name":"🌨高天JS🌨","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
 
 {"name":"💛唐三💛","url":"https://gh.t4tv.hz.cz/newtang.bmp"},
 
-{"name":"💞多多💞","url":"https://yydsys.top"},
-
-{"name":"✌欧歌✌","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&321&b=欧歌"},
-
 {"name": "🌈道长线路🌈","url":"https://pastebin.com/raw/5NHaxyGR"},
-
-{"name": "🚀欧歌JS🚀","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=js&jar=js&b=欧歌"},
 
 {"name":"🏡骚0🏡","url":"https://xhdwc.tk/0"},
 
@@ -32,12 +30,17 @@
 
 {"name":"💦巧技💦","url":"http://pandown.pro/tvbox/tvbox.json"},
 
+{"name":"👍月明👍","url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
+
+{"name":"💝PG💝","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"},
+
+{"name":"🌿蜂蜜🌿","url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
+
 {"name":"✌️育儿教育央视栏目✌️","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json"},
 
-{"name":"👍体育直播xbiu👍","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/ty.json"},
+{"name":"👍体育直播👍","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/ty.json"},
 
-{"name":"🏡帅锅🏡","url":"https://agit.ai/swhjb/TVBOX/raw/branch/master/BO.json"},
-
-{"name":"🐯精简🐯","url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"}
+{"name":"🚀帅锅","url":"https://agit.ai/swhjb/TVBOX/raw/branch/master/BO.json"}
 
 ]}
+
