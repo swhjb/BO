@@ -6,6 +6,10 @@
 
 {"name":"🌹小米🌹","url":"http://xhww.fun:63/小米/DEMO.json"},
 
+{"name":"🌿阿里🌿","url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"},
+
+{"name":"🌼白虾🌼","url":"https://agit.ai/ddx/TVBox/raw/branch/master/m.json"},
+
 {"name":"🌪南风🌪","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
 {"name":"💞多多💞","url":"https://yydsys.top"},
@@ -30,15 +34,9 @@
 
 {"name":"💦巧技💦","url":"http://pandown.pro/tvbox/tvbox.json"},
 
-{"name":"👍月明👍","url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
-
-{"name":"💝PG💝","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"},
-
 {"name":"🌿蜂蜜🌿","url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 
 {"name":"✌️育儿教育央视栏目✌️","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json"},
-
-{"name":"👍体育直播👍","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/ty.json"},
 
 {"name":"🚀帅锅","url":"https://agit.ai/swhjb/TVBOX/raw/branch/master/BO.json"}
 
