@@ -2,7 +2,7 @@
     "urls": [   
        
         {
-            "url": "https://api.ys66.repl.co/?url=https://qu.ax/VdkQ.%E5%B1%8C",
+            "url": "https://qu.ax/LTdq.json",
             "name": "🔞🈲小武哥🔞"
         },
         {
