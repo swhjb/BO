@@ -2,7 +2,7 @@
     "urls": [   
        
         {
-            "url": "https://qu.ax/LTdq.json",
+            "url": "http://shuyuan.miaogongzi.net/shuyuan/1691105958.json",
             "name": "🔞🈲小武哥🔞"
         },
         {
