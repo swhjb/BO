@@ -6,15 +6,11 @@
 
 {"name":"🌹小米🌹","url":"http://xhww.fun:63/小米/DEMO.json"},
 
-{"name":"🌿阿里🌿","url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"},
-
-{"name":"🌼白虾🌼","url":"https://agit.ai/ddx/TVBox/raw/branch/master/m.json"},
+{"name":"✌精简✌","url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"},
 
 {"name":"🌪南风🌪","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
-{"name":"💞多多💞","url":"https://yydsys.top"},
-
-{"name":"✌欧歌✌","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&321&b=欧歌"},
+{"name":"💞多多💞","url":"https://yydsys.top/duo"},
 
 {"name":"💝菜妮丝💝","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
@@ -25,6 +21,8 @@
 {"name": "🌈道长线路🌈","url":"https://pastebin.com/raw/5NHaxyGR"},
 
 {"name":"🏡骚0🏡","url":"https://xhdwc.tk/0"},
+
+{"name":"✌️香雅情✌️","url":"https://gitee.com/ajin0913/gao/raw/master/XYQ.json"},
 
 {"name":"🌿荷城茶秀🌿","url":"http://rihou.cc:88/荷城茶秀"},
 
@@ -38,6 +36,6 @@
 
 {"name":"✌️育儿教育央视栏目✌️","url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json"},
 
-{"name":"🚀帅锅","url":"https://agit.ai/swhjb/TVBOX/raw/branch/master/BO.json"}
+{"name":"👭小武哥👭","url":"http://shuyuan.miaogongzi.net/shuyuan/1691105958.json"}
 
 ]}
