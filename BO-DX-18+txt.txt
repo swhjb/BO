@@ -1,51 +1,18 @@
-{
-    "urls": [   
-       
-        {
-            "url": "http://shuyuan.miaogongzi.net/shuyuan/1691105958.json",
-            "name": "🔞🈲小武哥🔞"
-        },
-        {
-            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/c18.json",
-            "name": "🔞🈲性用社🔞"
-        },
-        {
-            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/qiaoj.json",
-            "name": "🔞🈲FMCR🔞"
-        },
-        {
-            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/nbsy.json",
-            "name": "🔞🈲私人收集🔞"
-        },
-        {
-            "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
-            "name": "🔞🈲线路④🔞"
-        },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
-            "name": "🔞🈲蜂蜜🔞"
-        },
-        {
-            "url": "http://lzoq.hk3c.ml/tvbox/shuangbo.json",
-            "name": "🔞🈲刘公子🔞"
-        },
-        {
-            "url": "https://agit.ai/376242575/zzh/raw/branch/master/A.txt",
-            "name": "🔞🈲A佬🔞"
-        },
-        {
-            "url": "https://go.owen10086.repl.co/upload/TVBox/nbsy.json",
-            "name": "🔞🈲18+1🔞"
-        },
-        {
-            "url": "https://dpaste.com/A7GBUR3BP.txt",
-            "name": "🔞🈲18+2🔞"
-        },
-        {
-            "url": "http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt",
-            "name": "🔞🈲18+3🔞"
-        }
-    ]
-}
+{"urls":[
+   
+{"name":"🔞NEW1🔞","url":"https://agit.ai/weigs/w/raw/branch/master/18.json"},
 
+{"name":"🔞NEW2🔞","url":"https://ghproxy.com/raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json"},
+
+{"name":"🔞NEW3🔞","url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"},
+
+{"name":"🔞高天18🔞","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
+
+{"name":"🔞蜂蜜18🔞","url":"http://大屌蜂蜜.eu.org"},
+
+{"name":"🔞二哈18🔞","url":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"},
+
+{"name":"🔞小武哥🔞","url":"https://qu.ax/RzXr.json"}
+
+]}
 
