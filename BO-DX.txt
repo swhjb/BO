@@ -34,7 +34,7 @@
 
 {"name": "🌈潇洒🌈","url":"https://download.kstore.space/download/2863/01.txt"},
 
-{"name":"🌼蜂蜜🌼","url":"https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json"},
+{"name":"🌼蜂蜜🌼","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 
 {"name":"💞帅锅💞","url":"https://agit.ai/swhjb/TVBOX/raw/branch/master/BO.json"},
 
