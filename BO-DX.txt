@@ -33,8 +33,6 @@
 {"name":"🌿小雅JS🌿","url":"http://drpy.site/js1"},
 
 {"name":"🌼蜂蜜🌼","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
-
-{"name":"🐰猫爪js_0715","url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json"},
        
 {"name":"🐎小米","url":"http://xhww.fun:63/小米/DEMO.json"},
 
