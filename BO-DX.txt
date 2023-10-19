@@ -12,7 +12,7 @@
 
 {"name":"💞多多💞","url":"https://yydsys.top/duo"},
 
-{"name":"🐎小武哥🐎","url":"https://raw.gitcode.com/linshao/ys/raw/main/1.json"}
+{"name":"🐎小武哥🐎","url":"https://raw.gitcode.com/linshao/ys/raw/main/1.json"},
 {"name":"💝菜妮丝💝","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
 {"name":"👭菜妮丝XBPQ👭","url":"https://tvbox.cainisi.cf"},
