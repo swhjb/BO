@@ -44,6 +44,8 @@
 
 {"name":"🦚月光宝盒","url":"https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92"},
 
+{"name":"🌹小武哥🌹","url":"https://raw.gitcode.com/linshao/ys/raw/main/1.json"},
+
 {"name":"🦅吾爱","url":"http://52bsj.vip:98/wuai"}
 
 
