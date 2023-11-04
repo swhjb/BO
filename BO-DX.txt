@@ -8,7 +8,7 @@
 
 {"name":"🌪南风🌪","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
-{"name":"💞多多💞","url":"http://yydsys.top/duo},
+{"name":"💞多多💞","url":"http://yydsys.top/duo"},
 
 {"name":"💝菜妮丝💝","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
