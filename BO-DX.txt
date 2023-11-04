@@ -6,11 +6,10 @@
 
 {"name":"🐼肥猫🐼","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
 
-{"name":"🌿荷城茶秀🌿","url":"http://rihou.cc:88/荷城茶秀"},
 
 {"name":"🌪南风🌪","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
-{"name":"💞多多💞","url":"http://yydsys.top/duo"},
+{"name":"💞多多💞","url":"http://yydsys.top/duo},
 
 {"name":"💝菜妮丝💝","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
@@ -30,19 +29,13 @@
 
 {"name": "🌈二哈🌈","url":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"},
 
-{"name":"🌿小雅JS🌿","url":"http://drpy.site/js1"},
-
 {"name":"🌼蜂蜜🌼","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
        
 {"name":"🐎小米","url":"http://xhww.fun:63/小米/DEMO.json"},
 
 {"name":"🦜运输车","url":"https://weixine.net/ysc.json"},
 
-{"name":"🦅月光宝盒","url":"https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92"},
-
 {"name":"🦆俊于","url":"http://home.jundie.top:81/top98.json"},
-
-{"name":"🦚月光宝盒","url":"https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92"},
 
 {"name":"🌹小武哥🌹","url":"https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"},
 
