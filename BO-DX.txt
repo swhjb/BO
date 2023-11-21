@@ -14,9 +14,7 @@
 
 {"name":"👭菜妮丝XBPQ👭","url":"https://tvbox.cainisi.cf"},
 
-{"name":"🌨高天JS🌨","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
-
-{"name":"🌼高天XYQ🌼","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},
+{"name":"🌨oK佬🌨","url":"https://gh-proxy.com/raw.githubusercontent.com/okcaptain/okjar/rm/ok.json"},
 
 {"name":"🌹小米🌹","url":"http://xhww.fun:63/小米/DEMO.json"},
 
