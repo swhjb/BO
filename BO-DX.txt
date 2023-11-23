@@ -4,7 +4,7 @@
 
 {"name":"🏡骚0🏡","url":"https://xhdwc.tk/0"},
 
-{"name":"🐼肥猫🐼","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
+{"name":"🐼肥猫🐼","url":"http://肥猫.live/"},
 
 {"name":"🌪南风🌪","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
