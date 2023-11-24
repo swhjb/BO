@@ -10,6 +10,8 @@
 
 {"name":"💞多多💞","url":"http://yydsys.top/duo"},
 
+{"name":"🌹小武哥🌹","url":"https://ghproxy.com//https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"},
+
 {"name":"💝菜妮丝💝","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
 {"name":"👭菜妮丝XBPQ👭","url":"https://tvbox.cainisi.cf"},
@@ -34,7 +36,7 @@
 
 {"name":"🦆俊于","url":"http://home.jundie.top:81/top98.json"},
 
-{"name":"🌹小武哥🌹","url":"https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"},
+
 
 {"name":"🦅吾爱","url":"http://52bsj.vip:98/wuai"}
 
