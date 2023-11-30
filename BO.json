@@ -561,6 +561,10 @@
 "lives":[
 
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+  
+{"name":"帅锅IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+
+{"name":"帅锅•综合","type":0,"url":"https://dashu0754.com/api/v3/file/get/167/%E9%A6%99%E8%95%894.0.txt?sign=lrgzoZuXIMNvWtJtCK3lBAxDzyHQNKePujFVFLeHapM%3D%3A0","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"半路捡来的","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
