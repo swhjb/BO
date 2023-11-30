@@ -1,19 +1,19 @@
 {"urls":[
 {"name":"🔞蜂蜜18🔞","url":"fm.t4tv.hz.cz/json/adult.json"},
 
-{"name":"🔞高天18🔞","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
+{"name":"🔞高天18🔞","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
 
 {"name":"🔞蜂蜜18🔞","url":"http://大屌蜂蜜.eu.org"},
 
-{"name":"🔞二哈18🔞","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"},
+{"name":"🔞二哈18🔞","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"},
 
-{"name":"🔞小武哥🔞","url":"https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"},
+{"name":"🔞小武哥🔞","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"},
 
 {"name":"🔞NEW1🔞","url":"https://agit.ai/weigs/w/raw/branch/master/18.json"},
 
-{"name":"🔞NEW2🔞","url":"https://raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json"},
+{"name":"🔞NEW2🔞","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json"},
 
-{"name":"🔞NEW3🔞","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"}
+{"name":"🔞NEW3🔞","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"}
 
 
 
