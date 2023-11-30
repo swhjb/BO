@@ -12,17 +12,17 @@
 
 {"name":"💞多多💞","url":"http://yydsys.top/duo"},
 
-{"name":"🌹小武哥🌹","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"},
+{"name":"🌹小武哥🌹","url":"https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"},
 
-{"name":"💝小雅JS💝","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json"},
+{"name":"💝小雅JS💝","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json"},
 
 {"name":"👭菜妮丝XBPQ👭","url":"https://tvbox.cainisi.cf"},
 
-{"name":"🌨帅锅🌨","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/swhjb/BO/main/BO.json"},
+{"name":"🌨帅锅🌨","url":"https://raw.githubusercontent.com/swhjb/BO/main/BO.json"},
 
 {"name":"💦巧技💦","url":"http://pandown.pro/tvbox/tvbox.json"},
 
-{"name": "🌈二哈🌈","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"},
+{"name": "🌈二哈🌈","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"},
 
 {"name":"🌼蜂蜜🌼","url":"http://蜂蜜.eu.org"},
        
