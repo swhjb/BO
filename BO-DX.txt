@@ -18,7 +18,7 @@
 
 {"name":"👭菜妮丝XBPQ👭","url":"https://tvbox.cainisi.cf"},
 
-{"name":"🌨oK佬🌨","url":"http://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json"},
+{"name":"🌨帅锅🌨","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/swhjb/BO/main/BO.json"},
 
 {"name":"💦巧技💦","url":"http://pandown.pro/tvbox/tvbox.json"},
 
