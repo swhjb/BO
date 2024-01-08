@@ -62,9 +62,14 @@
 
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-{"name":"帅锅V1","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"帅锅V6-1","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-{"name":"帅锅V2","type":0,"url":"https://pan.shangui.cc/f/pj3ghL/YD1126IPv6-.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"帅锅V6-2","type":0,"url":"https://pan.shangui.cc/f/pj3ghL/YD1126IPv6-.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+
+{"name":"帅锅广东","type":0,"url":"https://gyssi.link/iptv/chinaiptv/%E5%B9%BF%E4%B8%9C.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjg5NTY0MjkxNywiaWF0IjoxNzA0MTgxNTE4LCJleHAiOjE3MDY3NzM1MTh9.3LvfzFpmiUs4cwCHf8_iROpQkj13s1K7jfrSGlo3Mkk"},
+
+
+{"name":"悠哉V6","type":0,"url":"https://raw.gitcode.com/swhjb/BO/raw/main/%E6%82%A0%E5%93%89APTV%E5%97%AFIPTV6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"帅锅•综合","type":0,"url":"https://dashu0754.com/api/v3/file/get/167/%E9%A6%99%E8%95%894.0.txt?sign=lrgzoZuXIMNvWtJtCK3lBAxDzyHQNKePujFVFLeHapM%3D%3A0","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
@@ -85,18 +90,6 @@
 {"name":"四千加","type":0,"url":"https://qu.ax/kBip.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"AK47","type":0,"url":"https://qu.ax/HtMB.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"玩偶姐姐全套","type":0,"url":"https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u","epg":"http://epg.hklive.tv","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"蜂蜜18+","type":0,"url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"三哥偷蜂蜜大屌18+","type":0,"url":"https://qu.ax/fMNM.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"罗汉果","type":0,"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"type":0,"pass":true,"name":"影子TV","url":"https://raw.githubusercontent.com/lystv/short/main/影视/tvb/影子TV.txt","logo":"http://epg.51zmt.top:8000/{logo}","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","playerType":1},
-
-{"name":"四k数毛TV","type":0,"header":{"user-agent":"Mozilla/5.0(SymbianOS/9.4;Series60/5.0NokiaN97-1/20.0.019;Profile/MIDP-2.1Configuration/CLDC-1.1)AppleWebKit/525(KHTML,likeGecko)BrowserNG/7.1.18124","referer":"https://github.com/"},"url":"https://dpaste.com/AY5T5QPUX.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"垃圾堆成山","type":0,"url":"https://qu.ax/ktVO.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
