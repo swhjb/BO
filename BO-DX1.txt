@@ -10,8 +10,6 @@
 
 {"name":"🌨帅锅🌨","url":"https://raw.gitcode.com/swhjb/BO/raw/main/BO.json"},
 
-{"name":"🦜OK佬🦜","url":"https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json"},
-
 {"name":"🦆小武哥🦆","url":"http://qu.ax/mpok.json"},
 
 {"name":"💝小雅JS💝","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json"},
