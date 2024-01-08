@@ -1,4 +1,4 @@
-{{"urls":[
+{"urls":[
    
 {"name":"🚀饭太硬🚀","url":"http://饭太硬.top/tv"},
 
@@ -10,19 +10,25 @@
 
 {"name":"🌨帅锅🌨","url":"https://raw.gitcode.com/swhjb/BO/raw/main/BO.json"},
 
+{"name":"🦜OK佬🦜","url":"https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json"},
+
+{"name":"🦆小武哥🦆","url":"http://qu.ax/mpok.json"},
+
 {"name":"💝小雅JS💝","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json"},
 
 {"name":"👭菜妮丝XBPQ👭","url":"https://tvbox.cainisi.cf"},
 
 {"name":"💦巧技💦","url":"http://cdn.qiaoji8.com/tvbox.json"},
 
+{"name":"🌼月佬🌼","url":"https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
+
 {"name": "🌈二哈🌈","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"},
 
 {"name":"🌼蜂蜜🌼","url":"http://蜂蜜.eu.org"},
        
-{"name":"🦜运输车","url":"https://weixine.net/ysc.json"},
+{"name":"🦜运输车🦜","url":"https://weixine.net/ysc.json"},
 
-{"name":"🦆俊于","url":"http://home.jundie.top:81/top98.json"},
+{"name":"🦆俊于🦆","url":"http://home.jundie.top:81/top98.json"},
 
 {"name":"🌪南风🌪","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
