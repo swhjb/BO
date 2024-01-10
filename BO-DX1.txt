@@ -32,8 +32,6 @@
 
 {"name":"🦜蜂蜜🦜","url":"https://蜂蜜.eu.org"},
 
-{"name":"🌼蜂蜜🌼","url":"http://蜂蜜.eu.org"},
-
 {"name":"🦆小武哥🦆","url":"http://qu.ax/mpok.json"},
 
 {"name": "🌈道长线路🌈","url":"https://pastebin.com/raw/5NHaxyGR"}
