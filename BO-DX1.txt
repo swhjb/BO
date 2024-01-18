@@ -30,6 +30,8 @@
 
 {"name":"🦆俊于🦆","url":"http://home.jundie.top:81/top98.json"},
 
+{"name":"🦜唐三T4🦜","url":"https://api-lmteam.koyeb.app/PythonT4"},
+
 {"name":"🌨帅锅🌨","url":"https://raw.gitcode.com/swhjb/BO/raw/main/BO.json"},
 
 {"name":"🌪南风🌪","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
