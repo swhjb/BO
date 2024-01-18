@@ -4,6 +4,8 @@
 
 {"name":"🐼肥猫🐼","url":"http://肥猫.live/"},
 
+{"name":"💦巧技💦","url":"http://cdn.qiaoji8.com/tvbox.json"},
+
 {"name":"🌹小米🌹","url":"http://xhww.fun:63/小米/DEMO.json"},
 
 {"name":"🏡骚0🏡","url":"https://xhdwc.tk/0"},
@@ -16,7 +18,9 @@
 
 {"name":"👭菜妮丝XBPQ👭","url":"https://tvbox.cainisi.cf"},
 
-{"name":"💦巧技💦","url":"http://cdn.qiaoji8.com/tvbox.json"},
+{"name":"🦜PG1🦜","url":"https://already.free.hr/gaotianliuyun/gao/master/0821.json"},
+
+{"name":"🦜PG2🦜","url":"https://agit.ai/leevi/PG/raw/branch/master/jsm.json"},
 
 {"name":"🌼月佬🌼","url":"https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
 
@@ -28,9 +32,13 @@
 
 {"name":"🦆俊于🦆","url":"http://home.jundie.top:81/top98.json"},
 
+{"name":"🌨帅锅🌨","url":"https://raw.gitcode.com/swhjb/BO/raw/main/BO.json"},
+
 {"name":"🌪南风🌪","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
 {"name":"🦜蜂蜜🦜","url":"https://蜂蜜.eu.org"},
+
+{"name":"🌼老刘备线路🌼","url":"https://raw.liucn.cc/box/m.json"},
 
 {"name":"🦆小武哥🦆","url":"http://qu.ax/mpok.json"},
 
