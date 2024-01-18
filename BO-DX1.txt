@@ -10,8 +10,6 @@
 
 {"name":"🏡骚0🏡","url":"https://xhdwc.tk/0"},
 
-{"name":"🌨帅锅🌨","url":"https://raw.gitcode.com/swhjb/BO/raw/main/BO.json"},
-
 {"name":"🌼荷城茶秀🌼","url":"http://rihou.cc:88"},
 
 {"name":"💝小雅JS💝","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json"},
