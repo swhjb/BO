@@ -12,7 +12,7 @@
 
 {"name":"🏡骚0🏡","url":"https://xhdwc.tk/0"},
 
-{"name":"🦆OK佬🦆","url":"https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt"},
+{"name":"🦆OK佬🦆","url":"http://ok321.top/tv"},
 
 {"name":"🌪南风🌪","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
@@ -20,32 +20,19 @@
 
 {"name":"🦆俊于🦆","url":"http://home.jundie.top:81/top98.json"},
 
-{"name":"🌿PG🌿","url":"https://agit.ai/leevi/PlG/raw/branch/master/jsm.json"},
+{"name":"🌿摸鱼儿🌿","url":"http://我不是.摸鱼儿.top"},
+
+{"name":"🌿爱尚影视🌿","url":"https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json"},
 
 {"name":"🌨帅锅🌨","url":"https://raw.gitcode.com/swhjb/BO/raw/main/BO.json"},
 
 {"name":"🌿Cat接口🌿","url":"https://agit.ai/ddx/TVBox/raw/branch/master/catbox.json"},
 
-{"name":"🦞荷城茶秀🦞","url":"http://rihou.cc:88/荷城茶秀"},
+{"name":"🦞荷城茶秀🦞","url":"http://rihou.cc:88/荷城茶秀"}, 
 
-{"name":"😹4K影院😹","url":"https://atomgit.com/lxhfans/ZZ/raw/master/tv.txt"},
+{"name":"🦆小武哥🦆","url":"http://qu.ax/mpok.json"}
 
-{"name":"🌼黄金授权仓🌼","url":"https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json"},
-
-{"name": "🌈业余PG🌈","url":"http://yydf.540734621.xyz/yydf/yydf/bd/pg.json"},
-
-{"name":"🌼香雅情🌼","url":"http://yydf.540734621.xyz/yydf/yydf/bd/xyq.json"},
-   
-{"name":"🦜蜂蜜🦜","url":"http://yingshi.fongmi.eu.org"},
-
-{"name":"🌼D佬大🌼","url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8"},
-
-{"name":"🦆小武哥🦆","url":"http://qu.ax/mpok.json"},
-
-{"name": "🌈道长线路🌈","url":"https://pastebin.com/raw/5NHaxyGR"}
 
 
 
 ]}
-
-
