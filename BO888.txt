@@ -2,7 +2,7 @@
    
 {"name":"🚀饭太硬🚀","url":"http://饭太硬.com/tv"},
 
-{"name":"🌨帅锅🌨","url":"https://raw.gitcode.com/swhjb/BO/raw/main/BO.json"},
+{"name":"🌨帅锅🌨","url":"https://raw.gitmirror.com/swhjb/BO/main/BO.json"},
 
 {"name":"🦆放牛娃🦆","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/"},
 
