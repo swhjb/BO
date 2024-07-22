@@ -1,35 +1,24 @@
 {
  "lives": [
 
-{"name":"🐼易发🐼","type":0,"url":"https://raw.gitmirror.com/zgyd11/xiangjiao/main/yifa.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"🌹看电视呗","type":0,"url":"http://tvbox6.icu/7.php?all=1","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-{"name":"🌹网友1🌹","type":0,"url":"https://www.huichunniao.cn/xh/lib/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"🌹七星TV","type":0,"url":"https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt","playerType":1,"epg":"https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-######{"name":"🦞DIY🦞","type":0,"url":"http://0tt118.getenjoyment.net/iptvplus.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"🌹网友","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/leyan1987/iptv/main/iptv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-{"name":"🦆网友2🦆","type":0,"url":"https://yang-1989.eu.org/m3u/Gather","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"🌹测试","type":0,"url":"http://0tt118.getenjoyment.net/iptvplus.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-{"name":"💦香港💦","type":0,"url":"https://www.sv6-douyin-cloudfare.cloudns.ch/duanwukl.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"🌹安博","type":0,"url":"https://04294298.fss-my.addlink.cn/4302807.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+  
+{"name":"🌹Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+  
+{"name":"🌹境外","type":0,"url":"http://0tt118.getenjoyment.net/iptvplus.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-{"name":"🦜看电视呗🦜","type":0,"url":"http://biaozhun114.com/6.php","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"🌹港台1(VPN)","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-{"name":"🦆春盈-爱尚🦆","type":0,"url":"https://files.catbox.moe/feyax3.txt","playerType":1,"epg":"https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"🌹MyTvb(VPN)","type":0,"url":"http://epg.doube.eu.org/MyTvSuper.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 
-{"name":"🦞安博🦞","type":0,"url":"https://04294298.fss-my.addlink.cn/4302807.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"🦆七星TV🦆","type":0,"url":"https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt","playerType":1,"epg":"https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-######{"name":"💦斯玛特💦","type":0,"url":"https://fm1077.serv00.net/SmartTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-######{"name":"🌹LiTv🌹","type":0,"url":"https://fm1077.serv00.net/litv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"🚀港台1(VPN)🚀","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"🚀港台2(VPN)🚀","type":0,"url":"https://fm1077.serv00.net/SmartTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"💦MyTvb(VPN)💦","type":0,"url":"http://epg.doube.eu.org/MyTvSuper.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"💦Ray•综合💦","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 
 
 
