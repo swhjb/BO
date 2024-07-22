@@ -4,7 +4,7 @@
 
 {"name":"🌨帅锅🌨","url":"https://raw.gitmirror.com/swhjb/BO/main/BO.json"},
 
-{"name":"🦆放牛娃🦆","url":"http://tv.999888987.xyz"},
+{"name":"🦆放牛娃🦆","url":" http://tvbox.xn--4kq62z5rby2qupq9ub.xyz"},
 
 {"name":"🦆OK佬🦆","url":"http://ok321.top/tv"},
 
