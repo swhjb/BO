@@ -2,7 +2,7 @@
    
 {"name":"🚀饭太硬🚀","url":"http://饭太硬.com/tv"},
 
-{"name":"🌨帅锅🌨","url":"https://9368.kstore.space/BO.txt"},
+{"name":"🌨帅锅🌨","url":"https://raw.gitmirror.com/swhjb/BO/main/BO.json"},
 
 {"name":"🦆放牛娃🦆","url":"http://tv.999888987.xyz"},
 
