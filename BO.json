@@ -18,6 +18,16 @@
 			"epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
+		
+	        {
+			"name": "🌹斯玛特(VPN)",
+			"type": 0,
+			"url": "https://tang.hz.cz/zb/stv?token=9fa45d18",
+			"playerType": 1,
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},        
+        
 
 		{
 			"name": "🌹网友",
