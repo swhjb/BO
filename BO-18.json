@@ -1,6 +1,16 @@
-{"urls":[
+//此多仓接口为波仔维护
+
+{ "urls": [
 
 {"name":"🔞18+1🔞","url":"http://akun.work.gd/upload/kk.json"},
+
+{"name":"🔞黑木耳🔞","url":"https://t4.doube.eu.org/t4.php"},
+
+{"name":"🚀X1","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
+
+{"name":"🚀X2","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"},
+
+{"name":"🚀帅锅","url":"https://9368.kstore.space/18BO.txt"},
 
 {"name":"🔞18+2🔞","url":"https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json"},
   
@@ -29,10 +39,7 @@
 {"name":"🔞18+4🔞","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json"}
 
 
-
-
-
-
-]}
+]
+}
 
 
