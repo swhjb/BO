@@ -1,96 +1,107 @@
 {
 	"lives": [
-
+     
+         {
+      "name": "🌹LR直播",
+      "type": 0,
+      "url": "http://175.178.251.183:6689/live.m3u",
+      "playerType": 1
+    },      
+             {
+      "name": "🌹MyTVB",
+      "type": 0,
+      "url": "https://judy.567852.xyz/live/playlist.m3u?token=395626593003854",
+      "playerType": 1
+    },
+     {
+      "name": "🌹52源",
+      "type": 0,
+      "url": "https://s.netimed.cn/iptv",
+      "playerType": 1
+    },
+    {
+      "name": "🌹看电视呗",
+      "type": 0,
+      "url": "http://b.tvbox6.icu/8.php",
+      "playerType": 1,
+      "epg": "https://epg.zhoujie218.top/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+     {
+      "name": "🌹七星TV",
+      "type": 0,
+      "url": "https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt",
+      "playerType": 1,
+      "epg": "https://epg.zhoujie218.top/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+     {
+      "name": "🌹安博",
+      "type": 0,
+      "url": "https://04294298.fss-my.addlink.cn/4302807.m3u",
+      "playerType": 1,
+      "epg": "https://epg.zhoujie218.top/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+     {
+      "name": "🌹IILL",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Gather",
+      "playerType": 1
+    },
+      {
+      "name": "🌹天微直播",
+      "type": 0,
+      "url": "https://gitlab.com/tvtg/vip/-/raw/main/log.txt",
+      "playerType": 1
+    },
+    {
+      "name": "🌹世界直播",
+	  "type": 0,
+	  "url": "https://anbox118.serv00.net/m3u.php",
+	  "playerType": 1,
+      "epg": "https://epg.zhoujie218.top/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    }, 
+     {
+      "name": "🌹境外",
+      "type": 0,
+      "url": "http://free.xiptv.x10.bz/p3p.php",
+      "playerType": 1
+    },
+    {
+			"name": "🌹IPTV",
+			"type": 0,
+			"url": "https://iptv-org.github.io/iptv/index.m3u",
+			"playerType": 1,
+      "epg": "https://epg.zhoujie218.top/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },   
 		{
-			"name": "🌹看电视呗",
+			"name": "🌹52W",
 			"type": 0,
-			"url": "http://tvbox6.icu/7.php?all=1",
+			"url": "http://www.52sw.top:678/play/mytvsuper",
 			"playerType": 1,
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-
-		{
-			"name": "🌹七星TV",
-			"type": 0,
-			"url": "https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt",
-			"playerType": 1,
-			"epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		
-	        {
-			"name": "🌹斯玛特(VPN)",
-			"type": 0,
-			"url": "https://tang.hz.cz/zb/stv?token=9fa45d18",
-			"playerType": 1,
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},        
-        
-
-		{
-			"name": "🌹网友",
-			"type": 0,
-			"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leyan1987/iptv/main/iptv.txt",
-			"playerType": 1,
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-
-		{
-			"name": "🌹测试",
-			"type": 0,
-			"url": "http://0tt118.getenjoyment.net/iptvplus.m3u",
-			"playerType": 1,
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-
-		{
-			"name": "🌹安博",
-			"type": 0,
-			"url": "https://04294298.fss-my.addlink.cn/4302807.m3u",
-			"playerType": 1,
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-
-		{
-			"name": "🌹Ray•综合",
-			"type": 0,
-			"url": "https://xhdwc.tk/tvlive.txt",
-			"playerType": 1,
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-
-		{
-			"name": "🌹境外",
-			"type": 0,
-			"url": "http://0tt118.getenjoyment.net/iptvplus.m3u",
-			"playerType": 1,
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
+      "epg": "https://epg.zhoujie218.top/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
 
 		{
 			"name": "🌹港台1(VPN)",
 			"type": 0,
-			"url": "https://www.stream-link.org/stream-link.m3u",
+			"url": "https://anbox118.serv00.net/mytvbplus.php",
 			"playerType": 1,
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-
-		{
+      "epg": "https://epg.zhoujie218.top/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+	{
 			"name": "🌹MyTvb(VPN)",
 			"type": 0,
 			"url": "http://epg.doube.eu.org/MyTvSuper.m3u",
 			"playerType": 1,
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		}
+      "epg": "https://epg.zhoujie218.top/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    }
 
 
 
