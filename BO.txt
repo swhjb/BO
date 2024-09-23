@@ -19,13 +19,6 @@
       "url": "https://s.netimed.cn/iptv",
       "playerType": 1
     },
-     {
-      "name": "🌹52SW",
-      "type": 0,
-      "url": "http://www.52sw.top:678/play/mytvsuper",
-      "playerType": 1
-    },
-		
     {
       "name": "🌹看电视呗",
       "type": 0,
@@ -113,6 +106,20 @@
 			"name": "🌹MyTvb(VPN)",
 			"type": 0,
 			"url": "http://epg.doube.eu.org/MyTvSuper.m3u",
+			"playerType": 1,
+      "epg": "https://epg.zhoujie218.top/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+         {
+      "name": "🌹52SW",
+      "type": 0,
+      "url": "http://www.52sw.top:678/play/mytvsuper",
+      "playerType": 1
+    },
+  {
+			"name": "🌹9+9(VPN)",
+			"type": 0,
+			"url": "http://adultiptv.net/lists/all.m3u",
 			"playerType": 1,
       "epg": "https://epg.zhoujie218.top/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
