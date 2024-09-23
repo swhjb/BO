@@ -19,6 +19,13 @@
       "url": "https://s.netimed.cn/iptv",
       "playerType": 1
     },
+     {
+      "name": "🌹52SW",
+      "type": 0,
+      "url": "http://www.52sw.top:678/play/mytvsuper",
+      "playerType": 1
+    },
+		
     {
       "name": "🌹看电视呗",
       "type": 0,
@@ -39,6 +46,14 @@
       "name": "🌹安博",
       "type": 0,
       "url": "https://04294298.fss-my.addlink.cn/4302807.m3u",
+      "playerType": 1,
+      "epg": "https://epg.zhoujie218.top/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+ {
+      "name": "🌹IPTV6",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "epg": "https://epg.zhoujie218.top/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
