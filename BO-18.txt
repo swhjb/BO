@@ -7,7 +7,7 @@
 {"name":"🚀OK线路","url":"http://ok321.top/ok"},
 {"name":"🚀肥猫线路","url":"http://肥猫.com"}, 
 {"name":"🚀巧技线路","url":"http://cdn.qiaoji8.com/tvbox.json"},	    
-{"name":"🌨帅锅🌨","url":"https://9368.kstore.space/BO1.txt"},
+{"name":"🌨帅锅🌨","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/swhjb/BO/main/BO1.txt"},
 {"name":"🚀欧歌线路","url":"http://v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌"},
 {"name":"🚀潇洒线路","url":"https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json"},	
 {"name":"🚀小米线路","url":"http://www.mpanso.com/小米/DEMO.json"},   
