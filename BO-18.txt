@@ -2,12 +2,12 @@
 
 { "urls": [
 	       
-{"name":"🚀饭太硬","url":"http://www.饭太硬.com/tv"},
+{"name":"🚀饭太硬","url":"http://饭太硬.com/tv"},
 {"name":"🚀王二小线路","url":"http://tvbox.王二小放牛娃.top"},		
 {"name":"🚀OK线路","url":"http://ok321.top/ok"},
 {"name":"🚀肥猫线路","url":"http://肥猫.com"}, 
 {"name":"🚀巧技线路","url":"http://cdn.qiaoji8.com/tvbox.json"},	    
-{"name":"🌨帅锅🌨","url":"https://9368.kstore.space/BO.txt"},
+{"name":"🌨帅锅🌨","url":"https://9368.kstore.space/BO1.txt"},
 {"name":"🚀欧歌线路","url":"http://v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌"},
 {"name":"🚀潇洒线路","url":"https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json"},	
 {"name":"🚀小米线路","url":"http://www.mpanso.com/小米/DEMO.json"},   
@@ -17,9 +17,6 @@
 {"name":"🚀喵影视线路","url":"http://meowtv.top/tv"},		
 {"name":"🚀吾爱线路","url":"http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"},
 {"name":"🔞帅锅18+","url":"https://9368.kstore.space/BO1.txt"},   
-
-{"name":"🔞18+","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json"}, 
-
 {"name":"🔞老王资源","url":"https://dalao168.top/TVBOX-main/0914-only-sex.json"},  
 {"name":"🔞91私密" ,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json"},	
 {"name":"🔞missav","url":"http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"},		
@@ -61,4 +58,5 @@
 
     ]
 }
+
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
