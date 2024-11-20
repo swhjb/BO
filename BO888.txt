@@ -17,7 +17,7 @@
 {"name":"🚀道长","url":"https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"},
 {"name":"🚀PG备用","url":"https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json"},     
 {"name":"🚀高天流云","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
-{"name":"🚀anbox118","url":"https://anbox118.serv00.net/vod.json"}
+{"name":"🚀anbox118(香港专用）","url":"https://anbox118.serv00.net/vod.json"}
 
 
     ]
