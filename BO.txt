@@ -7,12 +7,6 @@
       "url": "http://rihou.cc:567/gggg.nzk",
       "playerType": 2
     },  
-    {
-      "name": "直播2",
-      "type": 0,
-      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u",
-      "playerType": 2
-    },  
     
      {
       "name": "🌹LR直播",
@@ -20,6 +14,19 @@
       "url": "http://175.178.251.183:6689/live.m3u",
       "playerType": 2
     },  
+     {
+      "name": "🌹IPTV研究所",
+      "type": 0,
+      "url": "https://www.mytvsuper.xyz/m3u/Live.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "直播2",
+      "type": 0,
+      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u",
+      "playerType": 2
+    },  
+
             {
       "name": "🌹AKTV",
       "type": 0,
@@ -33,10 +40,18 @@
       "playerType": 2
     },
 
-     {
-      "name": "🌹IPTV研究所",
+    
+         {
+      "name": "🌹肥羊IPV6",
       "type": 0,
-      "url": "https://dingyue.mytvsuper.xyz/myiptv.m3u",
+      "url": "https://live.wqwqwq.sbs/tv.m3u",
+      "playerType": 2
+    },
+    
+         {
+      "name": "🌹4gtv 免梯",
+      "type": 0,
+      "url": "https://4g.wqwqwq.sbs/iptv.m3u",
       "playerType": 2
     },
      {
@@ -91,6 +106,19 @@
 			"playerType": 2
     }
 
+
+
+
+	],
+	"sites": [{
+			"key": "豆豆",
+			"name": "📚┃波仔┃【只更新直播，点播换其它源】📚",
+			"type": 3,
+			"api": "csp_DouDou",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0
+		}
 
 
 
