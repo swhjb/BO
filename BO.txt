@@ -10,7 +10,7 @@
     {
       "name": "🌹IPTV研究所",
       "type": 0,
-      "url": "https://www.mytvsuper.xyz/m3u/Live.m3u",
+      "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
       "playerType": 2
     },
          {
@@ -25,7 +25,16 @@
       "url": "http://175.178.251.183:6689/live.m3u",
       "playerType": 2
     },  
-     
+    
+  {
+            "name": "肥羊国内直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "tv.m3u",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+        },
+   
     {
       "name": "直播2",
       "type": 0,
@@ -88,7 +97,7 @@
        {
       "name": "🌹境外(VPN)",
       "type": 0,
-      "url": "https://www.stream-link.org/stream-link.m3u",
+      "url": "https://www.stream-link.org/playlist.m3u?token=4b47d28f-1f18-4958-99f8-062ad67957e0&hmac=10b108858746410b683953a487df378b",
       "playerType": 2
     },
 
@@ -97,21 +106,7 @@
 			"type": 0,
 			"url": "http://epg.doube.eu.org/MyTvSuper.m3u",
 			"playerType": 2
-    }
-
-
-
-
-	],
-	"sites": [{
-			"key": "豆豆",
-			"name": "📚┃波仔┃【只更新直播，点播换其它源】📚",
-			"type": 3,
-			"api": "csp_DouDou",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		}
+}
 
 
 
