@@ -15,6 +15,8 @@
 
 {"name":"🔞18+1🔞","url":"https://s3.tebi.io/mhq/tv/jsm18.json"},
 
+{"name":"🌨帅锅18直播🌨","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/BO1.txt"},
+
 {"name":"🔞小武哥🔞","url":"http://qu.ax/mpok.json"},
 
 {"name":"🔞NEW1🔞","url":"https://gitcode.net/u012349622/js/-/raw/master/jsm.json"},
