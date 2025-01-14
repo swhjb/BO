@@ -2,109 +2,117 @@
 	"lives": [
     
        {
-      "name": "推荐直播1",
+      "name": "🌹推荐直播1",
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 2
+      "playerType": 1
     },  
     {
       "name": "🌹IPTV研究所",
       "type": 0,
       "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
-      "playerType": 2
+      "playerType": 1
     },
          {
       "name": "🌹IILL",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Gather",
-      "playerType": 2
+      "playerType": 1
     },   
      {
       "name": "🌹LR直播",
       "type": 0,
       "url": "http://175.178.251.183:6689/live.m3u",
-      "playerType": 2
+      "playerType": 1
     },  
-    
-  {
-            "name": "肥羊国内直播",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "tv.m3u",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-        },
+       {
+      "name": "🌹365直播",
+      "type": 0,
+      "url": "https://live.iptv365.org/live.m3u",
+      "playerType": 1
+    },  
    
     {
-      "name": "直播2",
+      "name": "🌹直播2",
       "type": 0,
       "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u",
-      "playerType": 2
+      "playerType": 1
     },  
 
             {
-      "name": "🌹AKTV",
+      "name": "🌹开心直播",
       "type": 0,
-      "url": "http://aktv.top/live.txt",
-      "playerType": 2
+      "url": "http://kxrj.site:55/lib/kx2024.txt",
+      "playerType": 1
     },
 
-         {
-      "name": "🌹4gtv 免梯",
-      "type": 0,
-      "url": "https://4g.wqwqwq.sbs/iptv.m3u",
-      "playerType": 2
-    },
-     {
-      "name": "🌹52源",
-      "type": 0,
-      "url": "https://s.netimed.cn/iptv",
-      "playerType": 2
-    },
-    
-         {
-      "name": "🌹易发直播",
-      "type": 0,
-      "url": "https://gitea.moe/xiangjiao-ge/yifa169/raw/branch/main/yiyifafa.txt",
-      "playerType": 2
-    },
+   
        {
-      "name": "直播3",
+      "name": "🌹直播3",
       "type": 0,
       "url": "https://live.zbds.top/tv/iptv4.txt",
-      "playerType": 2
+      "playerType": 1
     },
     {
       "name": "🌹看电视呗",
       "type": 0,
       "url": "http://8.138.7.223/live.txt",
-      "playerType": 2
+      "playerType": 1
     },
-     
+       
+       {
+      "name": "🌹内网直播",
+      "type": 0,
+      "url": "http://172.17.0.1:50001/Sub?type=m3u",
+      "playerType": 1
+    },   
+           {
+      "name": "🌹内网ofiii",
+      "type": 0,
+      "url": "http://172.17.0.1:50002/Sub?type=m3u",
+      "playerType": 1
+    }, 
+               {
+      "name": "🌹体育直播",
+      "type": 0,
+      "url": "https://www.mytvsuper.com.mp/m3u/judy.m3u
+     ",
+      "playerType": 1
+    },   
+    
      {
       "name": "🌹IPV6直播",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-      "playerType": 2
+      "playerType": 1
     },      
         {
       "name": "🌹境外118（VPN）",
       "type": 0,
-      "url": "https://tv.anbox118.workers.dev/live",
-      "playerType": 2
+      "url": "http://tv.anbox118.workers.dev/live",
+      "playerType": 1
+    },
+
+       {
+			"name": "🌹MyTvb(VPN)NEW",
+			"type": 0,
+			"url": "https://www.mytvsuper.com.mp/m3u/MyTV.m3u",
+			"playerType": 2
     },
 
        {
       "name": "🌹境外(VPN)",
       "type": 0,
       "url": "https://www.stream-link.org/playlist.m3u?token=4b47d28f-1f18-4958-99f8-062ad67957e0&hmac=10b108858746410b683953a487df378b",
-      "playerType": 2
+      "playerType": 1
     },
 
    {
 			"name": "🌹MyTvb(VPN)",
 			"type": 0,
-			"url": "http://epg.doube.eu.org/MyTvSuper.m3u",
+			"url": "https://tv.iill.top/m3u/MyTV",
+            
+            
 			"playerType": 2
 }
 
