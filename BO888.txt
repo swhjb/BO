@@ -3,25 +3,26 @@
 { "urls": [
 	       
 {"name":"🚀饭太硬","url":"http://www.饭太硬.com/tv"},
-{"name":"🚀王二小","url":"http://tvbox.王二小放牛娃.top"},
-{"name":"🚀OK","url":"http://ok321.top/ok"},
-{"name":"🚀肥猫","url":"http://肥猫.com"}, 
-{"name":"🚀巧技","url":"http://cdn.qiaoji8.com/tvbox.json"},	    
-{"name":"🌨帅锅🌨","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/BO.txt"},
 {"name":"🚀小米","url":"https://mpanso.me/DEMO.json"}, 
-{"name":"🚀唐三T4","url":"https://tang.hz.cz/api/user?token=b855e9d9"},
+{"name":"🚀王二小","url":"http://tvbox.王二小放牛娃.top"},
+{"name":"🚀巧技","url":"http://cdn.qiaoji8.com/tvbox.json"},
+{"name":"🌨帅锅🌨","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/BO.txt"},
+{"name":"🚀肥猫","url":"http://肥猫.com"},  
+{"name":"🚀OK","url":"http://ok321.top/ok"},
 {"name":"🚀饭小米","url":"http://tv.饭小米.top"},
-{"name":"🚀南风","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},		
-{"name":"🚀Ray","url":"https://100km.top/0"},  
+{"name":"🚀潇洒哥","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/001.json"}, 
+{"name":"🚀摸鱼儿","url":"http://我不是.摸鱼儿.com"}, 
+{"name":"🚀南风","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},	
+{"name":"🚀天天开心","url":"http://ttkx.cc:999/天天开心"}, 
+{"name":"🚀Ray","url":"https://100km.top/0"}, 
+{"name":"🚀真心","url":"https://tvbox.catvod.com/FongMi.json"}, 
 {"name":"🚀4K专线","url":"http://tv.laohu.cool/tvbox.json"},  
 {"name":"🚀沐辰T4","url":"https://json.doube.eu.org/t4.php"}, 
-{"name":"🚀蓝天白云","url":"https://10085.kstore.space/蓝天白云VIP.json"},
-{"name":"🚀张老板","url":"http://zhangqun66.com/zq/api.json"},
-{"name":"🚀LR","url":"http://175.178.251.183:6689/tv.txt"},
-{"name":"🚀道长","url":"https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"},
+{"name":"🚀唐三T4","url":"https://tang.hz.cz/api/user?token=b855e9d9"},
 {"name":"🚀PG","url":"http://www.fish2018.us.kg/p/jsm.json"},     
 {"name":"🚀高天流云","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}
 
+
     ]
 }
-    
+
