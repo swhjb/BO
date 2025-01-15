@@ -73,6 +73,12 @@
       "playerType": 1
     }, 
                {
+      "name": "🌹内网PG",
+      "type": 0,
+      "url": "file://jsm.json",
+      "playerType": 1
+    },     
+               {
       "name": "🌹体育直播",
       "type": 0,
       "url": "https://www.mytvsuper.com.mp/m3u/judy.m3u
