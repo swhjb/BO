@@ -71,7 +71,13 @@
       "url": "http://8.138.7.223/live.txt",
       "playerType": 2
     },
-     
+
+     {
+      "name": "🌹体育直播",
+      "type": 0,
+      "url": "https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=395626593195248",
+      "playerType": 2
+    },      
      {
       "name": "🌹IPV6直播",
       "type": 0,
