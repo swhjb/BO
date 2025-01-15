@@ -73,9 +73,9 @@
       "playerType": 1
     }, 
                {
-      "name": "🌹内网PG",
+      "name": "🌹PG最强直播",
       "type": 0,
-      "url": "file://jsm.json",
+      "url": "http://www.fish2018.us.kg/p/jsm.json",
       "playerType": 1
     },     
                {
