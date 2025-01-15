@@ -25,14 +25,7 @@
       "url": "http://175.178.251.183:6689/live.m3u",
       "playerType": 1
     }, 
-               {
-      "name": "🌹PG最强直播",
-      "type": 0,
-      "url": "http://www.fish2018.us.kg/p/jsm.json",
-      "playerType": 1
-    },     
-         
-       {
+   {
       "name": "🌹365直播",
       "type": 0,
       "url": "https://live.iptv365.org/live.m3u",
