@@ -84,7 +84,28 @@
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
       "playerType": 1
-    },      
+    },    
+
+            {
+      "name": "🌹AKTV",
+      "type": 0,
+      "url": "http://aktv.top/live.txt",
+      "playerType": 2
+    },
+
+     {
+      "name": "🌹52源",
+      "type": 0,
+      "url": "https://s.netimed.cn/iptv",
+      "playerType": 2
+    },
+    
+         {
+      "name": "🌹易发直播",
+      "type": 0,
+      "url": "https://gitea.moe/xiangjiao-ge/yifa169/raw/branch/main/yiyifafa.txt",
+      "playerType": 2
+    },
         {
       "name": "🌹境外118（VPN）",
       "type": 0,
