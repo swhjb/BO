@@ -31,7 +31,13 @@
       "url": "https://live.iptv365.org/live.m3u",
       "playerType": 1
     },  
-   
+              {
+      "name": "🌹7337直播",
+      "type": 0,
+      "url": "https://7337.kstore.space/twkj/tvzb.txt",
+      "playerType": 1
+    }, 
+     
     {
       "name": "🌹直播2",
       "type": 0,
