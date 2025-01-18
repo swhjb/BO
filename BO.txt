@@ -37,20 +37,6 @@
       "url": "https://7337.kstore.space/twkj/tvzb.txt",
       "playerType": 1
     }, 
-     
-    {
-      "name": "🌹直播2",
-      "type": 0,
-      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u",
-      "playerType": 1
-    },  
-
-            {
-      "name": "🌹开心直播",
-      "type": 0,
-      "url": "http://kxrj.site:55/lib/kx2024.txt",
-      "playerType": 1
-    },
 
    
        {
@@ -96,13 +82,6 @@
       "name": "🌹AKTV",
       "type": 0,
       "url": "http://aktv.top/live.txt",
-      "playerType": 2
-    },
-
-     {
-      "name": "🌹52源",
-      "type": 0,
-      "url": "https://s.netimed.cn/iptv",
       "playerType": 2
     },
     
