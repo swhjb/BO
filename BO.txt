@@ -37,7 +37,7 @@
     },  
 
             {
-      "name": "🌹开心直播",
+      "name": "🌹7337直播",
       "type": 0,
       "url": "http://kxrj.site:55/lib/kx2024.txt",
       "playerType": 1
