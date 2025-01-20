@@ -58,13 +58,6 @@
       "url": "http://172.17.0.1:50001/Sub?type=m3u",
       "playerType": 1
     },  
-  {
-      "name": "🌹小宇哥哥",
-      "type": 0,
-      "url": "https://live.kilvn.com/iptv.m3u",
-      "playerType": 2
-    },
-
       {
       "name": "🌹体育直播",
       "type": 0,
