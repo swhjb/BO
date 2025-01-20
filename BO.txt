@@ -7,36 +7,41 @@
       "url": "http://rihou.cc:567/gggg.nzk",
       "playerType": 1
     },  
-    {
-      "name": "🌹IPTV研究所",
-      "type": 0,
-      "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
-      "playerType": 1
-    },
+   
          {
       "name": "🌹IILL",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Gather",
       "playerType": 1
     },   
+
      {
       "name": "🌹LR直播",
       "type": 0,
       "url": "http://175.178.251.183:6689/live.m3u",
       "playerType": 1
-    }, 
-   {
-      "name": "🌹365直播",
-      "type": 0,
-      "url": "https://live.iptv365.org/live.m3u",
-      "playerType": 1
     },  
-              {
-      "name": "🌹7337直播",
+  
+           {
+      "name": "🌹天天开心",
       "type": 0,
       "url": "https://7337.kstore.space/twkj/tvzb.txt",
       "playerType": 1
     }, 
+     
+    {
+      "name": "🌹直播2",
+      "type": 0,
+      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u",
+      "playerType": 1
+    },  
+
+            {
+      "name": "🌹开心直播",
+      "type": 0,
+      "url": "http://kxrj.site:55/lib/kx2024.txt",
+      "playerType": 1
+    },
 
    
        {
@@ -57,34 +62,26 @@
       "type": 0,
       "url": "http://172.17.0.1:50001/Sub?type=m3u",
       "playerType": 1
-    },  
-      {
-      "name": "🌹体育直播",
-      "type": 0,
-      "url": "https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=395626593195248",
-      "playerType": 1
     },   
-
-            {
+                {
       "name": "🌹AKTV",
       "type": 0,
       "url": "http://aktv.top/live.txt",
       "playerType": 2
     },
-    
-         {
-      "name": "🌹易发直播",
+ {
+      "name": "🌹IPTV研究所",
       "type": 0,
-      "url": "https://gitea.moe/xiangjiao-ge/yifa169/raw/branch/main/yiyifafa.txt",
-      "playerType": 2
-    },
-        {
-      "name": "🌹境外118（VPN）",
-      "type": 0,
-      "url": "http://tv.anbox118.workers.dev/live",
+      "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
       "playerType": 1
     },
-
+           {
+      "name": "🌹365直播",
+      "type": 0,
+      "url": "https://live.iptv365.org/live.m3u",
+      "playerType": 1
+    },
+    
        {
 			"name": "🌹MyTvb(VPN)NEW",
 			"type": 0,
