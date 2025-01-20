@@ -57,26 +57,20 @@
       "type": 0,
       "url": "http://172.17.0.1:50001/Sub?type=m3u",
       "playerType": 1
-    },   
-           {
-      "name": "🌹内网ofiii",
+    },  
+  {
+      "name": "🌹小宇哥哥",
       "type": 0,
-      "url": "http://172.17.0.1:50002/Sub?type=m3u",
-      "playerType": 1
-    }, 
+      "url": "https://live.kilvn.com/iptv.m3u",
+      "playerType": 2
+    },
+
       {
       "name": "🌹体育直播",
       "type": 0,
       "url": "https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=395626593195248",
       "playerType": 1
     },   
-    
-     {
-      "name": "🌹IPV6直播",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-      "playerType": 1
-    },    
 
             {
       "name": "🌹AKTV",
