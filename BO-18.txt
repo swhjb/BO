@@ -1,7 +1,7 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         //此多仓接口为波仔维护
 
 { "urls": [
-
+{"name":"🔞18","url":"https://git.acwing.com/abai/tv/-/raw/main/a18.json"}, 
 {"name":"🔞挺好专享","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lndsqhj/zblive/main/tvbox-akun.json"},
 {"name":"🔞18+1🔞","url":"http://akun.work.gd/upload/kk.json"},
 
