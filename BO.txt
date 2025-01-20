@@ -1,6 +1,12 @@
 {
 	"lives": [
-    
+             {
+      "name": "🌹IILL",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Gather",
+      "playerType": 1
+    },   
+
        {
       "name": "🌹推荐直播1",
       "type": 0,
@@ -8,12 +14,6 @@
       "playerType": 1
     },  
    
-         {
-      "name": "🌹IILL",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Gather",
-      "playerType": 1
-    },   
 
      {
       "name": "🌹LR直播",
