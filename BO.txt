@@ -72,9 +72,15 @@
  {
       "name": "🌹IPTV研究所",
       "type": 0,
-      "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
+      "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248",
       "playerType": 1
     },
+                   {
+      "name": "🌹体育直播",
+      "type": 0,
+      "url": "https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=395626593195248",
+      "playerType": 1
+    },   
            {
       "name": "🌹365直播",
       "type": 0,
