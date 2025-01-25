@@ -60,7 +60,7 @@
        {
       "name": "🌹内网直播",
       "type": 0,
-      "url": "http://172.17.0.1:50001/Sub?type=m3u",
+      "url": "http://172.17.0.1:50002/Sub?type=m3u",
       "playerType": 1
     },   
                 {
