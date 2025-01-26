@@ -69,7 +69,7 @@
       "url": "http://aktv.top/live.txt",
       "playerType": 2
     },
- {
+  {
       "name": "🌹IPTV研究所",
       "type": 0,
       "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248",
@@ -81,19 +81,35 @@
       "url": "https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=395626593195248",
       "playerType": 1
     },   
-           {
+       
+  {
+      "name": "🌹央视卫视",
+      "type": 0,
+      "url": " https://video.mytvsuper.xyz/playlist/yang-shi-wei-shi.m3u?token=395626593195248",
+      "playerType": 1
+    }, 
+                   
+ {
       "name": "🌹365直播",
       "type": 0,
       "url": "https://live.iptv365.org/live.m3u",
       "playerType": 1
     },
     
+        {
+      "name": "🌹境外118（VPN）",
+      "type": 0,
+      "url": "http://tv.anbox118.workers.dev/live",
+      "playerType": 1
+    },
+
        {
 			"name": "🌹MyTvb(VPN)NEW",
 			"type": 0,
-			"url": "https://www.mytvsuper.com.mp/m3u/MyTV.m3u",
+			"url": "https://video.mytvsuper.xyz/playlist/mytvding-yue-an-zhuo-zhuan-yong.m3u?token=395626593195248",
 			"playerType": 2
     },
+
 
        {
       "name": "🌹境外(VPN)",
