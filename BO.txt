@@ -66,6 +66,19 @@
       "url": "http://172.17.0.1:50001/Sub?type=m3u",
       "playerType": 1
     },   
+
+       {
+      "name": "🌹肥羊直播",
+      "type": 0,
+      "url": "http://172.17.0.1:50002/Sub?type=txt&sd=1080",
+      "playerType": 1
+    },   
+       {
+      "name": "🌹4GTV+LALL",
+      "type": 0,
+      "url": "http://172.17.0.1:50007/?type=m3u",
+      "playerType": 1
+    },   
            {
       "name": "🌹内网ofiii",
       "type": 0,
