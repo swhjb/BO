@@ -8,7 +8,7 @@
 {"name":"🚀王二小","url":"http://tvbox.王二小放牛娃.top"},
 {"name":"🚀OK","url":"http://ok321.top/ok"},
 {"name":"🚀肥猫","url":"http://肥猫.com"},     
-{"name":"🌨帅锅🌨","url":"https://d.kstore.dev/download/9368/BO.txt"},
+{"name":"🌨帅锅直播🌨","url":"https://d.kstore.dev/download/9368/BO.txt"},
 {"name":"🚀唐三T4","url":"https://tang.hz.cz/api/user?token=b855e9d9"},
 {"name":"🚀测试","url":"http://tv.laohu.cool/tvbox.json"},
 {"name":"🚀PG","url":"http://www.fish2018.us.kg/p/jsm.json"}  
