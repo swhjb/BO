@@ -1,15 +1,16 @@
 //此多仓接口为波仔维护
 
 { "urls": [
-
-{"name":"🚀小米","url":"http://www.mpanso.com/小米/DEMO.json"}, 	       
+	       
 {"name":"🚀饭太硬","url":"http://www.饭太硬.com/tv"},
+{"name":"🚀小米","url":"https://mpanso.me/DEMO.json"}, 
 {"name":"🚀巧技","url":"http://cdn.qiaoji8.com/tvbox.json"},	
 {"name":"🚀王二小","url":"http://tvbox.王二小放牛娃.top"},
 {"name":"🚀OK","url":"http://ok321.top/ok"},
 {"name":"🚀肥猫","url":"http://肥猫.com"},     
-{"name":"🌨帅锅🌨","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/BO.txt"},
+{"name":"🌨帅锅🌨","url":"https://d.kstore.dev/download/9368/BO.txt"},
 {"name":"🚀唐三T4","url":"https://tang.hz.cz/api/user?token=b855e9d9"},
+{"name":"🚀测试","url":"http://tv.laohu.cool/tvbox.json"},
 {"name":"🚀PG","url":"http://www.fish2018.us.kg/p/jsm.json"}  
 
 
