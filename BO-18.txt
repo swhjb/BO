@@ -1,37 +1,54 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        //此多仓接口为波仔维护
+//此多仓接口为波仔维护
 
 { "urls": [
 {"name":"🔞18","url":"https://git.acwing.com/abai/tv/-/raw/main/a18.json"}, 
-{"name":"🔞挺好专享","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lndsqhj/zblive/main/tvbox-akun.json"},
-{"name":"🔞18+1🔞","url":"http://akun.work.gd/upload/kk.json"},
-
-{"name":"🔞18+2🔞","url":"https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json"},
-  
-{"name":"🔞18+🔞","url":"https://d.kstore.space/download/7708/a18.json"},
-
 {"name":"🔞18+6🔞","url":"https://tg.sjdpay.top/1.json"},
-
+{"name":"🚀喵影视线路","url":"http://meowtv.top/tv"},
 {"name":"🔞黄播🔞","url":"http://akun.work.gd/upload/kk.json"},
 
 {"name":"🔞18+1🔞","url":"https://s3.tebi.io/mhq/tv/jsm18.json"},
 
-{"name":"🌨帅锅18直播🌨","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/BO1.txt"},
-
 {"name":"🔞小武哥🔞","url":"http://qu.ax/mpok.json"},
 
 {"name":"🔞NEW1🔞","url":"https://gitcode.net/u012349622/js/-/raw/master/jsm.json"},
+{"name":"🔞18+10","url":"https://ghfast.top/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/refs/heads/main/json/index18.json"}, 
+{"name":"🔞18+11","url":"https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"},        
 
-{"name":"🔞高天18🔞","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
+{"name":"🔞道长18+","url":"https://drpys-kznt.vercel.app/config/1?pwd="},   
+{"name":"🔞18+","url":"https://ghfast.top/https://raw.githubusercontent.com/wwb521/live/main/video.json"},   
 
-{"name":"🔞18+5🔞","url":"https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json"},
+{"name":"🔞18++","url":"https://ghfast.top/https://raw.githubusercontent.com/wwb521/live/main/video.json"}, 
 
-{"name":"🔞二哈18🔞","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"},
+{"name":"🔞老王资源","url":"https://dalao168.top/TVBOX-main/0914-only-sex.json"},  
+{"name":"🔞91私密" ,"url":"https://ghfast.top/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json"},	
+{"name":"🔞missav","url":"http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"},		
+{"name":"🔞天天综合","url":"https://ghfast.top/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/vip.json"},		
+{"name":"🔞29片库","url":"https://ghfast.top/https://raw.githubusercontent.com/jygldj/jygldj/main/se.txt"},
+{"name":"🔞18av","url":"https://ghfast.top/https://raw.githubusercontent.com/jin19liu5/tvbox-/main/%E6%8C%BA%E5%A5%BD%E4%B8%93%E4%BA%ABplus.txt"},  
+{"name":"🔞155网盘" ,"url":"https://ghfast.top/https://raw.githubusercontent.com/zhoujck/config/master/test"},	
+	
 
-{"name":"🔞18+2🔞","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"},
 
-{"name":"🔞18+3🔞","url":"https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json"},
+{"name":"🔞挺好专享","url":"https://ghfast.top/https://raw.githubusercontent.com/lndsqhj/zblive/main/tvbox-akun.json"},
+{"name":"🔞18+1🔞","url":"http://akun.work.gd/upload/kk.json"},
 
-{"name":"🔞18+4🔞","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json"}
+{"name":"🔞18+2🔞","url":"https://ghfast.top/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json"},
+  
+{"name":"🔞18+🔞","url":"https://d.kstore.space/download/7708/a18.json"},
+
+
+
+
+
+{"name":"🔞18+5🔞","url":"https://ghfast.top/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json"},
+
+{"name":"🔞二哈18🔞","url":"https://ghfast.top/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"},
+
+{"name":"🔞18+2🔞","url":"https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"},
+
+{"name":"🔞18+3🔞","url":"https://ghfast.top/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json"},
+
+{"name":"🔞18+4🔞","url":"https://ghfast.top/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json"}
 
     ]
-}                                                                                                                                                                                                   
+}
