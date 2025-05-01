@@ -20,6 +20,25 @@
       "url": "https://live.iptv365.org/live.m3u",
       "playerType": 2
     },
+
+    {
+      "name": "🌹唐三直播",
+      "type": 0,
+      "url": "https://tang.hz.cz/api/user?token=51297b7d",
+      "playerType": 2
+    },
+    {
+      "name": "🌹iptv",
+      "type": 0,
+      "url": "https://www.livednow.dpdns.org/",
+      "playerType": 2
+    },
+
+
+
+
+
+
     {
       "name": "🌹推荐直播",
       "type": 0,
