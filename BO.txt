@@ -30,7 +30,7 @@
     {
       "name": "🌹iptv",
       "type": 0,
-      "url": "https://www.livednow.dpdns.org/",
+      "url": "https://smart.pendy.dpdns.org/judy.json",
       "playerType": 2
     },
 
