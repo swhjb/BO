@@ -25,7 +25,7 @@
     {
       "name": "🌹看电视呗",
       "type": 0,
-      "url": "http://8.138.7.223/live.txt",
+      "url": "https://pan.quark.cn/s/bcd1d9f2dd88",
       "playerType": 2
     },
 {
