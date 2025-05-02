@@ -39,9 +39,9 @@
       "playerType": 2
     },
     {
-      "name": "🌹AKTV",
+      "name": "🌹唐三直播",
       "type": 0,
-      "url": "https://hao-wu-liao-a.o0o0o0o0o0o.top/epg/live.m3u",
+      "url": "https://tang.hz.cz/api/user?token=51297b7d",
       "playerType": 2
     },
     {
