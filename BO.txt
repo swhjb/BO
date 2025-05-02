@@ -15,19 +15,6 @@
       "url": "http://rihou.cc:567/gggg.nzk",
       "playerType": 2
     },
-
-    {
-      "name": "🌹IILL",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Gather",
-      "playerType": 2
-    },
-    {
-      "name": "🌹看电视呗",
-      "type": 0,
-      "url": "https://pan.quark.cn/s/bcd1d9f2dd88",
-      "playerType": 2
-    },
 {
       "name": "🍼酸奶直播",
       "url": "https://web.banye.tech:7777/tvbus/yogurtTv.txt",
