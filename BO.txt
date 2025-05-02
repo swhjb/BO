@@ -29,6 +29,13 @@
       }
     },
     {
+      "name": "🌹(内网）肥羊ITV",
+      "type": 0,
+      "url": "http://172.17.0.1:35455/tv.m3u",
+      "playerType": 2
+    },
+    {
+    {
       "name": "🌹AKTV",
       "type": 0,
       "url": "https://hao-wu-liao-a.o0o0o0o0o0o.top/epg/live.m3u",
