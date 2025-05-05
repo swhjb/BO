@@ -35,12 +35,7 @@
       "url": "https://live.iptv365.org/live.m3u",
       "playerType": 2
     },
-    {
-      "name": "🌹ANBOX",
-      "type": 0,
-      "url": " http://tv.anbox.ip-ddns.com/live",
-      "playerType": 2
-    },
+
     {
       "name": "🌹推荐直播",
       "type": 0,
