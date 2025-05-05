@@ -17,7 +17,7 @@
     {
       "name": "🌹小云直播",
       "type": 0,
-      "url": "https://gh-proxy.com/https://github.com/swhjb/BO/blob/main/xyzb.jsont",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/xyzb.json",
       "playerType": 2
     },
     {
