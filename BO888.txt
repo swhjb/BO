@@ -3,7 +3,7 @@
 { "urls": [
 	       
 {"name":"🚀饭太硬","url":"http://www.饭太硬.com/tv"},
-{"name":"🚀小米","url":"http://miqk.cc/%E5%B0%8F%E7%B1%B3/DEMO.json"}, 
+{"name":"🚀小米","url":"https://13826.kstore.space/DEMO.json"}, 
 {"name":"🚀巧技","url":"http://cdn.qiaoji8.com/tvbox.json"},	
 {"name":"🚀王二小","url":"https://9280.kstore.space/wex.json"},
 {"name":"🚀OK","url":"http://ok321.top/ok"},
