@@ -42,14 +42,19 @@
       "url": "https://live.iptv365.org/live.m3u",
       "playerType": 2
     },
-
+    {
+      "name": "🌹iill直播",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Gather",
+      "playerType": 2
+    },
     {
       "name": "🌹推荐直播",
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk",
       "playerType": 2
     },
-
+   
     {
       "name": "🌹(内网）肥羊ITV",
       "type": 0,
