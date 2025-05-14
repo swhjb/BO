@@ -35,17 +35,12 @@
       "playerType": 2
     },
 {
-      "name": "🌹港台测试1",
+      "name": "🌹港台测试",
       "type": 0,
       "url": "http://files.catbox.moe/tu9qv3.json",
       "playerType": 2
     },
-{
-      "name": "🌹港台测试2",
-      "type": 0,
-      "url": "http://tv.anbox.ip-ddns.com/live",
-      "playerType": 2
-    },
+
 
     {
       "name": "🌹365直播",
