@@ -11,7 +11,8 @@
 {"name":"🚀肥猫","url":"http://肥猫.com"},   
 {"name":"🚀唐三","url":"https://tang.hz.cz/api/user?token=51297b7d"},
 {"name":"🚀纯电影源","url":"https://json.doube.eu.org/t3.php"},
-{"name":"🌨帅锅🌨","url":"https://d.kstore.dev/download/9368/BO.txt"},
+{"name":"🌨多仓直播1🌨","url":"http://files.catbox.moe/tu9qv3.json"},
+{"name":"🌨多仓直播2🌨","url":"http://tv.anbox.ip-ddns.com/live"},
 {"name":"🌨帅锅（外）🌨","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO.txt"},
 {"name":"🚀PG","url":"http://www.fish2018.us.kg/p/jsm.json"}  
 
