@@ -69,8 +69,7 @@
       "type": 0,
       "url": "https://live.iptv365.org/live.m3u",
       "playerType": 2
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+
     },
     {
       "name": "🌹iill直播",
@@ -83,8 +82,7 @@
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk",
       "playerType": 2
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+
     },
    
     {
@@ -92,24 +90,21 @@
       "type": 0,
       "url": "http://172.17.0.1:35455/tv.m3u",
       "playerType": 2
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+
     },
     {
       "name": "🌹MyTvb(VPN)NEW",
       "type": 0,
       "url": "https://video.mytvsuper.xyz/playlist/mytvding-yue-an-zhuo-zhuan-yong.m3u?token=395626593195248",
       "playerType": 2
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+
     },
     {
       "name": "🌹MyTvb(VPN)",
       "type": 0,
       "url": "https://tv.iill.top/m3u/MyTV",
       "playerType": 2
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+
     }
   ],
   "sites": [
