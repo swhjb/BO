@@ -33,32 +33,24 @@
 			"name": "🌹365直播",
 			"type": 0,
 			"url": "https://live.iptv365.org/live.m3u",
-                        "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"pass": "https://epg.112114.xyz/logo/{name}.png",
 			"playerType": 2
 		},
 		{
 			"name": "🌹推荐直播",
 			"type": 0,
 			"url": "http://rihou.cc:567/gggg.nzk",
-                        "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"pass": "https://epg.112114.xyz/logo/{name}.png",
 			"playerType": 2
 		},
 		{
 			"name": "🌹IILL",
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/Gather",
-                        "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"pass": "https://epg.112114.xyz/logo/{name}.png",
 			"playerType": 2
 		},
 		{
 			"name": "🌹看电视呗",
 			"type": 0,
 			"url": "http://8.138.7.223/live.txt",
-                        "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"pass": "https://epg.112114.xyz/logo/{name}.png",
 			"playerType": 2
 		},
 
@@ -73,16 +65,12 @@
 			"name": "🌹MyTvb(VPN)NEW",
 			"type": 0,
 			"url": "https://video.mytvsuper.xyz/playlist/mytvding-yue-an-zhuo-zhuan-yong.m3u?token=395626593195248",
-                        "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"pass": "https://epg.112114.xyz/logo/{name}.png",
 			"playerType": 2
 		},
 		{
 			"name": "🌹MyTvb(VPN)",
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/MyTV",
-                        "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"pass": "https://epg.112114.xyz/logo/{name}.png",
 			"playerType": 2
 		},
                 {
