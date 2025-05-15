@@ -34,6 +34,19 @@
       "url": "http://晓峰.azip.dpdns.org:5008/?type=txt",
       "playerType": 2
     },
+{
+      "name": "🌹港台测试1",
+      "type": 0,
+      "url": "http://files.catbox.moe/kuugqy.json",
+      "playerType": 2
+    },
+{
+      "name": "🌹港台测试2",
+      "type": 0,
+      "url": "http://rihou.cc:555/nzk/nzk0722.json",
+      "playerType": 2
+    },
+
 
     {
       "name": "🌹365直播",
