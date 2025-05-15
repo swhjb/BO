@@ -84,12 +84,7 @@
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/MyTV",
 			"playerType": 2
-		},
- "params": [
-      {
-        "path": "/云松",
-        "pass": "883188"
-     }
+		}
 
 	],
 	"sites": [{
