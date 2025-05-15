@@ -12,7 +12,6 @@
 {"name":"🚀唐三","url":"https://tang.hz.cz/api/user?token=51297b7d"},
 {"name":"🚀纯电影源","url":"https://json.doube.eu.org/t3.php"},
 {"name":"🌨帅锅（外）🌨","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO.txt"},
-{"name":"🌨多仓直播🌨","url":"hhttp://rihou.cc:555/nzk/nzk0722.jsone"},
 {"name":"🚀PG","url":"http://www.fish2018.us.kg/p/jsm.json"}  
 
 
