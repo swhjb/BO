@@ -72,7 +72,8 @@
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/MyTV",
 			"playerType": 2
-		},{
+		},
+                {
 			"name": "火云邪神",
 			"url": "https://files.catbox.moe/08476d.txt",
 			"core": {
