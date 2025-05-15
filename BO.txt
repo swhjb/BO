@@ -1,6 +1,7 @@
 {
 	"logo": "./logo.gif",
-	"lives": [{
+	"lives": [
+{
 			"name": "🍼酸奶直播",
 			"url": "https://web.banye.tech:7777/tvbus/yogurtTv.txt",
 			"core": {
