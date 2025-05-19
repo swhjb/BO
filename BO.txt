@@ -58,9 +58,9 @@
 		},
 
 		{
-			"name": "🌹(内网）肥羊ITV",
+			"name": "🌹MyTvSuper",
 			"type": 0,
-			"url": "http://172.17.0.1:35455/tv.m3u",
+			"url": "https://json.doube.eu.org/Doubebly/MyTvSuper",
 			"playerType": 2
 		},
 
