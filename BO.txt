@@ -53,6 +53,12 @@
 			"playerType": 2
 		},
 		{
+			"name": "🌹IILL",
+			"type": 0,
+			"url": "https://tv.iill.top/m3u/Gather",
+			"playerType": 2
+		},
+		{
 			"name": "🌹HK",
 			"type": 0,
 			"url": "http://is.is-great.org//ii/1747625942.txt",
