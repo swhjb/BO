@@ -32,44 +32,7 @@
 			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E7%94%B5%E8%A7%86%E5%AE%B6%E4%B8%80%E9%94%85%E7%AB%AF.txt",
 			"playerType": 2
 		},
-		{
-			"name": "🚀唐三",
-			"type": 0,
-			"url": "https://tang.hz.cz/api/user?token=51297b7d",
-			"playerType": 2
-		},
-		{
-			"name": "Herissmon/2016L",
-			"type": 0,
-			"url": "http://iptv.huohuoaa.tech/jiekou/fuckjs96110.txt",
-			"playerType": 2
-		},
-		{
-			"name": "🌹推荐直播",
-			"type": 0,
-			"url": "http://rihou.cc:567/gggg.nzk",
-			"playerType": 2
-		},
-		{
-			"name": "🌹IILL",
-			"type": 0,
-			"url": "https://tv.iill.top/m3u/Gather",
-			"playerType": 2
-		},
-		{
-			"name": "🌹HK",
-			"type": 0,
-			"url": "http://is.is-great.org//ii/1747625942.txt",
-			"playerType": 2
-		},
-
-		{
-			"name": "🌹MyTvSuper(VPN)",
-			"type": 0,
-			"url": "https://json.doube.eu.org/Doubebly/MyTvSuper",
-			"playerType": 2
-		},
-
+		
 		{
 			"name": "🌹MyTvb(VPN)",
 			"type": 0,
