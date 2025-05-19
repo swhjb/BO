@@ -47,9 +47,9 @@
 			"playerType": 2
 		},
 		{
-			"name": "🌹IILL",
+			"name": "🌹IPTv研究",
 			"type": 0,
-			"url": "https://tv.iill.top/m3u/Gather",
+			"url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
 			"playerType": 2
 		},
 		{
