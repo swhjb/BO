@@ -2,7 +2,6 @@
 	"logo": "./logo.gif",
 	"lives": [{
 			
-{
 			
 
                {
