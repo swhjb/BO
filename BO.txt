@@ -39,7 +39,7 @@
 			"url": "http://go8.myartsonline.com/zx/0/ok.txt",
 			"playerType": 2
 		},
-https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90.txt
+
 		{
 			"name": "影视资源",
 			"type": 0,
