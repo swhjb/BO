@@ -10,7 +10,7 @@
 		},
 
 		{
-			"name": "🌹影视资源",
+			"name": "🚀影视资源",
 			"type": 0,
 			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90.txt",
 			"playerType": 2
