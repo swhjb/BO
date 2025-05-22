@@ -27,7 +27,7 @@
 			"playerType": 2
 		},
 		{
-			"name": "Herissmon/2016L",
+			"name": "木雨源",
 			"type": 0,
 			"url": "http://iptv.huohuoaa.tech/jiekou/fuckjs96110.txt",
 			"playerType": 2
