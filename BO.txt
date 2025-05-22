@@ -3,45 +3,45 @@
 	"lives": [			
 
 		{
-			"name": "香港台源",
+			"name": "🚀香港台源",
 			"type": 0,
 			"url": "http://go8.myartsonline.com/zx/0/ok.txt",
 			"playerType": 2
 		},
 
 		{
-			"name": "影视资源",
+			"name": "🚀影视资源",
 			"type": 0,
 			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90.txt",
 			"playerType": 2
 		},
 		{
-			"name": "🌹推荐直播",
+			"name": "🚀推荐直播",
 			"type": 0,
 			"url": "http://rihou.cc:567/gggg.nzk",
 			"playerType": 2
 		},
 
 		{
-			"name": "极速电视",
+			"name": "🚀极速电视",
 			"type": 0,
 			"url": "http://live.nctv.top/x.txt",
 			"playerType": 2
 		},
 		{
-			"name": "秒看",
+			"name": "🚀秒看",
 			"type": 0,
 			"url": "http://api.lmxsd.cn/2485.txt",
 			"playerType": 2
 		},
 		{
-			"name": "零零大师代理源",
+			"name": "🚀零零大师代理源",
 			"type": 0,
 			"url": "https://pan.baidu.re/down.php/6a4917f92a37099ec24394d1e76ff7ba.txt",
 			"playerType": 2
 		},
 		{
-			"name": "木雨源",
+			"name": "🚀木雨源",
 			"type": 0,
 			"url": "http://iptv.huohuoaa.tech/jiekou/fuckjs96110.txt",
 			"playerType": 2
