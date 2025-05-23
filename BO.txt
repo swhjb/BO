@@ -43,6 +43,12 @@
 			"playerType": 2
 		},
 		{
+			"name": "🚀IJUDY",
+			"type": 0,
+			"url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+			"playerType": 2
+		},
+		{
 			"name": "🌹MyTvb(VPN)NEW",
 			"type": 0,
 			"url": "https://video.mytvsuper.xyz/playlist/mytvding-yue-an-zhuo-zhuan-yong.m3u?token=395626593195248",
