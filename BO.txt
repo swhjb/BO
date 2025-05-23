@@ -37,7 +37,7 @@
 		},
 
 		{
-			"name": "🚀IILL",
+			"name": "🚀1989",
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/Gather",
 			"playerType": 2
