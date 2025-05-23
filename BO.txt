@@ -43,7 +43,7 @@
 			"playerType": 2
 		},
 		{
-			"name": "🚀IJUDY",
+			"name": "🚀IPTV研究所",
 			"type": 0,
 			"url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
 			"playerType": 2
