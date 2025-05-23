@@ -48,6 +48,12 @@
 			"url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
 			"playerType": 2
 		},
+		{
+			"name": "🚀测试源",
+			"type": 0,
+			"url": "http://tv.anbox.ip-ddns.com/live",
+			"playerType": 2
+		},
 
 		{
 			"name": "🌹MyTvb(VPN)",
