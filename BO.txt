@@ -28,18 +28,7 @@
 			"url": "http://live.nctv.top/x.txt",
 			"playerType": 2
 		},
-		{
-			"name": "🚀秒看",
-			"type": 0,
-			"url": "http://api.lmxsd.cn/2485.txt",
-			"playerType": 2
-		},
-		{
-			"name": "🚀零零大师代理源",
-			"type": 0,
-			"url": "https://pan.baidu.re/down.php/6a4917f92a37099ec24394d1e76ff7ba.txt",
-			"playerType": 2
-		},
+		
 		{
 			"name": "🚀木雨源",
 			"type": 0,
@@ -51,12 +40,6 @@
 			"name": "🚀IILL",
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/Gather",
-			"playerType": 2
-		},
-                {
-			"name": "🌹电视家",
-			"type": 0,
-			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E7%94%B5%E8%A7%86%E5%AE%B6%E4%B8%80%E9%94%85%E7%AB%AF.txt",
 			"playerType": 2
 		},
 		{
