@@ -88,14 +88,7 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-		{
-			"name": "秘密花园",
-			"type": 0,
-			"url": "http://dimm.in/down.php/187f06f12e2942d85b48fe19c4bb0e07.jpg",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
+
 		{
 			"name": "🌹MyTvb(VPN)",
 			"type": 0,
