@@ -35,6 +35,12 @@
 			"url": "http://iptv.huohuoaa.tech/jiekou/fuckjs96110.txt",
 			"playerType": 2
 		},
+		{
+			"name": "🚀星海源",
+			"type": 0,
+			"url": "http://iptv.herissmon.dpdns.org/jiekou/live.txt",
+			"playerType": 2
+		},
 
 		{
 			"name": "🚀1989",
