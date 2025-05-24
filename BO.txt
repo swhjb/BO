@@ -109,7 +109,7 @@
 	],
 	"sites": [{
 			"key": "不能点播",
-			"name": "┃波仔┃【只更新直播】",
+			"name": "【只更新直播，不能点播】",
 			"type": 3,
 			"api": "csp_DouDou",
 			"searchable": 0,
