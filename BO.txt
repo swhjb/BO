@@ -111,7 +111,7 @@
 	],
 	"sites": [{
 			"key": "豆豆",
-			"name": "豆瓣┃推荐",
+			"name": "┃波仔┃【只更新直播】",
 			"type": 3,
 			"api": "csp_DouDou",
 			"searchable": 0,
