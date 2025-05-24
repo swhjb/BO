@@ -2,90 +2,109 @@
 	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731682555989/fan.txt;md5;6c4ab3a9d232164c75534f9060506ee5",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
-	"logo": "./logo.gif",
+	
 	"lives": [
 
 		{
 			"name": "🚀香港台源",
 			"type": 0,
 			"url": "http://go8.myartsonline.com/zx/0/ok.txt",
-			"playerType": 2
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 
 		{
 			"name": "🚀影视资源",
 			"type": 0,
 			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90.txt",
-			"playerType": 2
-		},
-		{
-			"name": "秘密花园",
-			"type": 0,
-			"url": "http://dimm.in/down.php/187f06f12e2942d85b48fe19c4bb0e07.jpg",
-			"playerType": 1,
+			"playerType": 2,
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
+
 		{
 			"name": "全球TV",
 			"type": 0,
 			"url": "http://pan.losfer.cn/down.php/7eecfe18cd82ce1f5ae915069f5c59bc.jpg",
-			"playerType": 1
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
 			"name": "IPV6",
 			"type": 0,
 			"url": "http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/ipv6.txt",
-			"playerType": 1
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
 			"name": "🚀推荐直播",
 			"type": 0,
 			"url": "http://rihou.cc:567/gggg.nzk",
-			"playerType": 2
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 
 		{
 			"name": "🚀极速电视",
 			"type": 0,
 			"url": "http://live.nctv.top/x.txt",
-			"playerType": 2
+                        "playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 
 		{
 			"name": "🚀木雨源",
 			"type": 0,
 			"url": "http://iptv.huohuoaa.tech/jiekou/fuckjs96110.txt",
-			"playerType": 2
+			"playerType": 2,
+                        "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
 			"name": "🚀星海源",
 			"type": 0,
 			"url": "http://iptv.herissmon.dpdns.org/jiekou/live.txt",
-			"playerType": 2
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 
 		{
 			"name": "🚀1989",
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/Gather",
-			"playerType": 2
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
 			"name": "🚀IPTV研究所",
 			"type": 0,
 			"url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
-			"playerType": 2
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
 			"name": "秘密花园",
-			"url": "http://dimm.in/down.php/9a4f8de640b6c4c26eb5dcc6134644d3.jpg"
+			"type": 0,
+			"url": "http://dimm.in/down.php/187f06f12e2942d85b48fe19c4bb0e07.jpg",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
 			"name": "🌹MyTvb(VPN)",
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/MyTV",
-			"playerType": 2
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
 		}
 
 
