@@ -8,12 +8,7 @@
 			"url": "http://go8.myartsonline.com/zx/0/ok.txt",
 			"playerType": 2
 		},
-{
-  "name": "快直播(python)",
-  "type": 3,
-  "api": "https://json.doube.eu.org/python/live_kzb.py",
-  "ext": "68747470733A2F2F3132336B7A622E6E65742F70726F642D6170692F697074762F676574497074764C697374"
-},
+
 		{
 			"name": "🚀影视资源",
 			"type": 0,
@@ -80,7 +75,13 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0
-		}
+		},
+{
+  "name": "快直播(python)",
+  "type": 3,
+  "api": "https://json.doube.eu.org/python/live_kzb.py",
+  "ext": "68747470733A2F2F3132336B7A622E6E65742F70726F642D6170692F697074762F676574497074764C697374"
+}
 
 	],
 	//=========解析嗅探====================================================
