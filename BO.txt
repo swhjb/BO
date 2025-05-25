@@ -69,7 +69,6 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-http://ocsystech.com:93/netch/gat.txt
 		{
 			"name": "🚀极速电视",
 			"type": 0,
