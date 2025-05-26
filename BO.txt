@@ -62,14 +62,6 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
-			"name": "🚀测试2",
-			"type": 0,
-			"url": "http://ocsystech.com:93/netch/chlist.txt",
-                        "playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		{
 			"name": "🚀极速电视",
 			"type": 0,
 			"url": "http://live.nctv.top/x.txt",
