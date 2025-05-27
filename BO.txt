@@ -46,14 +46,6 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
-			"name": "🚀香港推流",
-			"type": 0,
-			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/Now%20mytv%E6%8E%A8%E6%B5%81.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		{
 			"name": "🚀测试1",
 			"type": 0,
 			"url": "https://qu.ax/TRvGd.txt",
