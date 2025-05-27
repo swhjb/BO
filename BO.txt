@@ -61,6 +61,14 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
+		{
+			"name": "🚀测试3",
+			"type": 0,
+			"url": "http://go8.myartsonline.com/zx/0/NOWTV.txt",
+                        "playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
 
 		{
 			"name": "🚀极速电视",
