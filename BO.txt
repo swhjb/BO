@@ -69,24 +69,6 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-
-		{
-			"name": "🚀木雨源（UA）",
-			"type": 0,
-			"url": "http://iptv.huohuoaa.tech/jiekou/fuckjs96110.txt",
-			"playerType": 2,
-                        "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		{
-			"name": "🚀星海源（UA）",
-			"type": 0,
-			"url": "http://iptv.herissmon.dpdns.org/jiekou/live.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-
 		{
 			"name": "🚀1989",
 			"type": 0,
