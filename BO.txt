@@ -10,6 +10,15 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
+
+		{
+			"name": "🚀测试1",
+			"type": 0,
+			"url": "https://qu.ax/TRvGd.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
 		{
 			"name": "🚀香港台源",
                         "type": 0,
@@ -46,14 +55,6 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 
-		{
-			"name": "🚀测试1",
-			"type": 0,
-			"url": "https://qu.ax/TRvGd.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
 		{
 			"name": "🚀测试2",
 			"type": 0,
