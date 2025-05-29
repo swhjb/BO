@@ -20,7 +20,7 @@
                         "name": "长老edem",
                         "url": "http://zotv.zone.id/8/i/1748419431.txt",
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
+			"logo": "http://diyp5.112114.xyz/{name}.png",
                         "ua": "zhanglao18+"
                 },
 		{
