@@ -21,9 +21,7 @@
                 {
                         "name": "长老edem",
                         "url": "http://zotv.zone.id/8/i/1748419431.txt",
-                        "ua": "zhanglao18+"
-
-
+                        "ua": "zhanglao18+"                
                 },
 		{
 			"name": "🚀影视资源",
