@@ -5,7 +5,9 @@
 
 		{
 			"name": "🚀香港台源",
-			"url": "http://go8.myartsonline.com/zx/0/ok.txt",		
+                        "type": 0,
+			"url": "http://go8.myartsonline.com/zx/0/ok.txt",
+			"playerType": 2,
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
