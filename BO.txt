@@ -14,7 +14,7 @@
 		{
 			"name": "🚀IPTV研究所",
 			"url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
-			"ua": "xieanqishisb/0.0.1"
+			"ua": "xieanqishisb"
 		},
                 {
                         "name": "长老edem",
