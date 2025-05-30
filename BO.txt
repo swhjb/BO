@@ -20,6 +20,15 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
+			"name": "🚀测试2",
+			"type": 0,
+			"url": "http://kkk.jjjj.jiduo.me/user/tttt/api.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+
+		{
 			"name": "🚀香港台源",
                         "type": 0,
 			"url": "http://go8.myartsonline.com/zx/0/ok.txt",
@@ -56,7 +65,7 @@
 		},
 
 		{
-			"name": "🚀测试2",
+			"name": "🚀测试3",
 			"type": 0,
 			"url": "http://live.nctv.top/x.txt",
 			"playerType": 2,
