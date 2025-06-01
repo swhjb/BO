@@ -97,6 +97,17 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
                 },
+                {
+                        "name": "IPTV研究所",
+			"type": 0,
+                        "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+                        "ua": "zhanglao18+",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+                },
+
+
 		{
 			"name": "🌹MyTvb(VPN)",
 			"type": 0,
