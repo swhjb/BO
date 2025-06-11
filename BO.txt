@@ -14,7 +14,7 @@
 		{
 			"name": "🚀推流源",
 			"type": 0,
-			"url": "http://smt.iktv.ddns-ip.net/Smart.php",
+			"url": "https://igdux.top/y8df",
 			"playerType": 2,
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
