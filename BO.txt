@@ -35,17 +35,6 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-
-		{
-			"name": "🚀香港台源",
-                        "type": 0,
-			"url": "http://go8.myartsonline.com/zx/0/ok.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-
-
 		{
 			"name": "🚀影视资源",
 			"type": 0,
