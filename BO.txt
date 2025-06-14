@@ -11,7 +11,16 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-   
+		{
+			"name": "🚀易发直播",
+			"type": 0,
+			"url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+
+
 		{
 			"name": "🚀推荐直播",
 			"type": 0,
@@ -29,6 +38,7 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
+
 		{
 			"name": "🚀测试1",
 			"type": 0,
@@ -75,6 +85,22 @@
 			"name": "🚀测试3",
 			"type": 0,
 			"url": "http://live.nctv.top/x.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+		{
+			"name": "🚀测试4",
+			"type": 0,
+			"url": "https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+		{
+			"name": "🚀体育直播",
+			"type": 0,
+			"url": "https://www.freetv.top/mgevent.m3u",
 			"playerType": 2,
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
