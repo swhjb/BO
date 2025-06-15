@@ -65,32 +65,7 @@
 		},
 
 		{
-			"name": "全球TV",
-			"type": 0,
-			"url": "http://pan.losfer.cn/down.php/7eecfe18cd82ce1f5ae915069f5c59bc.jpg",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		{
-			"name": "IPV6",
-			"type": 0,
-			"url": "http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/ipv6.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-
-		{
 			"name": "🚀测试3",
-			"type": 0,
-			"url": "http://live.nctv.top/x.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		{
-			"name": "🚀测试4",
 			"type": 0,
 			"url": "https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt",
 			"playerType": 2,
@@ -105,14 +80,7 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-		{
-			"name": "🚀极速电视",
-			"type": 0,
-			"url": "http://live.nctv.top/x.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
+		
 		{
 			"name": "🚀1989",
 			"type": 0,
