@@ -89,15 +89,7 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-                {
-                        "name": "长老edem",
-			"type": 0,
-                        "url": "http://zotv.zone.id/8/i/1748419431.txt",
-                        "ua": "zhanglao18+",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-                },
+
                 {
                         "name": "IPTV研究所",
 			"type": 0,
