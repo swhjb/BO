@@ -3,14 +3,7 @@
 
 	"lives": [
     
-               {       
-			"name": "🚀极速港台",
-			"type": 0,
-			"url": "http://kkk.888.3116598.xyz/user/HKTV.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
+
 		{
 			"name": "🚀易发直播",
 			"type": 0,
@@ -75,6 +68,14 @@
 			"name": "🚀测试3",
 			"type": 0,
 			"url": "https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+               {       
+			"name": "🚀极速港台",
+			"type": 0,
+			"url": "http://kkk.888.3116598.xyz/user/HKTV.txt",
 			"playerType": 2,
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
