@@ -1,140 +1,152 @@
 {
+
+
 	"lives": [
     
-       {
-      "name": "推荐直播1",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 2
-    },  
-    {
-      "name": "🌹IPTV研究所",
-      "type": 0,
-      "url": "https://www.mytvsuper.xyz/m3u/Live.m3u",
-      "playerType": 2
-    },
-         {
-      "name": "🌹IILL",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Gather",
-      "playerType": 2
-    },   
-     {
-      "name": "🌹LR直播",
-      "type": 0,
-      "url": "http://175.178.251.183:6689/live.m3u",
-      "playerType": 2
-    },  
-     
-    {
-      "name": "直播2",
-      "type": 0,
-      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u",
-      "playerType": 2
-    },  
+               {       
+			"name": "🚀极速港台",
+			"type": 0,
+			"url": "http://kkk.888.3116598.xyz/user/HKTV.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+		{
+			"name": "🚀易发直播",
+			"type": 0,
+			"url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
 
-            {
-      "name": "🌹AKTV",
-      "type": 0,
-      "url": "http://aktv.top/live.txt",
-      "playerType": 2
-    },
 
-         {
-      "name": "🌹4gtv 免梯",
-      "type": 0,
-      "url": "https://4g.wqwqwq.sbs/iptv.m3u",
-      "playerType": 2
-    },
-     {
-      "name": "🌹52源",
-      "type": 0,
-      "url": "https://s.netimed.cn/iptv",
-      "playerType": 2
-    },
-    
-         {
-      "name": "🌹易发直播",
-      "type": 0,
-      "url": "https://gitea.moe/xiangjiao-ge/yifa169/raw/branch/main/yiyifafa.txt",
-      "playerType": 2
-    },
-       {
-      "name": "直播3",
-      "type": 0,
-      "url": "https://live.zbds.top/tv/iptv4.txt",
-      "playerType": 2
-    },
-    {
-      "name": "🌹看电视呗",
-      "type": 0,
-      "url": "http://8.138.7.223/live.txt",
-      "playerType": 2
-    },
+		{
+			"name": "🚀推荐直播",
+			"type": 0,
+			"url": "http://rihou.cc:567/gggg.nzk",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
 
-     {
-      "name": "🌹体育直播",
-      "type": 0,
-      "url": "https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=395626593195248",
-      "playerType": 2
-    },      
-     {
-      "name": "🌹IPV6直播",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-      "playerType": 2
-    },      
-        {
-      "name": "🌹境外118（VPN）",
-      "type": 0,
-      "url": "https://tv.anbox118.workers.dev/live",
-      "playerType": 2
-    },
+		{
+			"name": "🚀推流源",
+			"type": 0,
+			"url": "https://igdux.top/y8df",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
 
-       {
-      "name": "🌹境外(VPN)",
-      "type": 0,
-      "url": "https://www.stream-link.org/stream-link.m3u",
-      "playerType": 2
-    },
+		{
+			"name": "🚀测试1",
+			"type": 0,
+			"url": "https://qu.ax/TRvGd.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+		{
+			"name": "🚀测试2",
+			"type": 0,
+			"url": "http://kkk.jjjj.jiduo.me/user/tttt/api.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+		{
+			"name": "🚀影视资源",
+			"type": 0,
+			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
 
-   {
+		{
+			"name": "🚀测试3",
+			"type": 0,
+			"url": "https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+		{
+			"name": "🚀体育直播1",
+			"type": 0,
+			"url": "https://www.freetv.top/mgevent.m3u",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+		{
+			"name": "🚀体育直播2",
+			"type": 0,
+			"url": "https://smart.pendy.dpdns.org/m3u/gongyi_judy.m3u",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+		
+		{
+			"name": "🚀1989",
+			"type": 0,
+			"url": "https://tv.iill.top/m3u/Gather",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+
+                {
+                        "name": "IPTV研究所",
+			"type": 0,
+                        "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+                        "ua": "zhanglao18+",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+                },
+
+
+		{
 			"name": "🌹MyTvb(VPN)",
 			"type": 0,
-			"url": "http://epg.doube.eu.org/MyTvSuper.m3u",
-			"playerType": 2
-},
-   {
-			"name": "🌹18+1",
+			"url": "https://tv.iill.top/m3u/MyTV",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+		{
+			"name": "🚀18+直播1",
 			"type": 0,
-			"url": "http://8.134.83.224:666/live/live.txt",
-			"playerType": 2
-},
-   {
-			"name": "🌹18+2",
+			"url": "https://www.252035.xyz/p/jsm.json?pwd=18x",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+		{
+			"name": "🚀18+直播2",
 			"type": 0,
-			"url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
-			"playerType": 2
-},
-   {
-			"name": "🌹18+3",
+			"url": "https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tvlist.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+		{
+			"name": "🌹境外(VPN)",
 			"type": 0,
-			"url": "https://www.now61.com/f/kjedhy/mytv.txt",
-			"playerType": 2
-},
-   {
-			"name": "🌹18+(VPN)",
-			"type": 0,
-			"url": "http://adultiptv.net/lists/all.m3u",
-			"playerType": 2
-}
-
+			"url": "http://firebase.anbox118.workers.dev",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		}
 
 
 	],
 	"sites": [{
-			"key": "豆豆",
-			"name": "📚┃波仔┃【只更新直播，点播换其它源】📚",
+			"key": "只更新直播",
+			"name": "【直播菜单键换源，不能点播】",
 			"type": 3,
 			"api": "csp_DouDou",
 			"searchable": 0,
@@ -142,277 +154,5 @@
 			"filterable": 0
 		}
 
-	],	//=========解析嗅探====================================================
-	"parses": [{
-				"name": "拾光m3u8嗅探",
-				"type": 0,
-				"url": "https://jx.m3u8.tv/jiexi/?url=",
-				"ext": {
-					"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "yk", "优
-							酷 ","
-							mgtv ","
-							imgo ","
-							芒果 "]}}, {
-								"name": "拾光探",
-								"type": 0,
-								"url": "https://jx.xmflv.com/?url="
-							},
-							{
-								"name": "拾光7777",
-								"type": 0,
-								"url": "https://jx.777jiexi.com/player/?url="
-							},
-							{
-								"name": "🍭环宇|小种",
-								"type": 0,
-								"url": "https://jx.jsonplayer.com/player/?url=",
-								"flag": [
-									"qq",
-									"腾讯",
-									"qiyi",
-									"爱奇艺",
-									"奇艺",
-									"youku",
-									"优",
-									"mgtv",
-									"芒果",
-									"letv",
-									"leshi",
-									"LS",
-									"乐视",
-									"pptv",
-									"PPTV",
-									"sohu",
-									"bilibili",
-									"哔哩哔哩",
-									"哔哩"
-								]
-							},
-							{
-								"name": "拾光闲鱼嗅探",
-								"type": 0,
-								"url": "https://jx.xyflv.com/?url=",
-								"ext": {
-									"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "yk", "优酷", "mgtv", "imgo", "
-										芒果 "]}}, {
-											"name": "天微战狼",
-											"type": 0,
-											"url": "https://jx.zhanlangbu.com/?url="
-										},
-										{
-											"name": "拾光夜幕嗅探",
-											"type": 0,
-											"url": "https://www.yemu.xyz/?url="
-										}
-									],
-
-									//===========解析完成==================================
-									"flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu"],
-
-									"doh": [{
-											"name": "Google",
-											"url": "https://dns.google/dns-query",
-											"ips": ["8.8.4.4", "8.8.8.8"]
-										},
-										{
-											"name": "Cloudflare",
-											"url": "https://cloudflare-dns.com/dns-query",
-											"ips": ["1.1.1.1", "1.0.0.1", "2606:4700:4700::1111", "2606:4700:4700::1001"]
-										},
-										{
-											"name": "AdGuard",
-											"url": "https://dns.adguard.com/dns-query",
-											"ips": ["94.140.14.140", "94.140.14.141"]
-										},
-										{
-											"name": "DNSWatch",
-											"url": "https://resolver2.dns.watch/dns-query",
-											"ips": ["84.200.69.80", "84.200.70.40"]
-										},
-										{
-											"name": "Quad9",
-											"url": "https://dns.quad9.net/dns-quer",
-											"ips": ["9.9.9.9", "149.112.112.112"]
-										}
-									],
-
-									//过滤
-									"rules": [
-
-										{
-											"host": "www.djuu.com",
-											"rule": ["mp4.djuu.com", "m4a"]
-										},
-										{
-											"host": "www.sharenice.net",
-											"rule": ["huoshan.com", "/item/video/"],
-											"filter": []
-										},
-										{
-											"host": "www.sharenice.net",
-											"rule": ["sovv.qianpailive.com", "vid="],
-											"filter": []
-										},
-										{
-											"host": "www.sharenice.net",
-											"rule": ["douyin.com", "/play/"]
-										},
-										{
-											"host": "m.ysxs8.vip",
-											"rule": ["ysting.ysxs8.vip:81", "xmcdn.com"],
-											"filter": []
-										},
-										{
-											"host": "hdmoli.com",
-											"rule": [".m3u8"]
-										}, {
-											"host": "https://api.live.bilibili.com",
-											"rule": ["bilivideo.com", "/index.m3u8"],
-											"filter": ["data.bilibili.com/log/web", "i0.hdslb.com/bfs/live/"]
-										},
-										{
-											"host": "www.agemys.cc",
-											"rule": ["cdn-tos", "obj/tos-cn"]
-										},
-										{
-											"host": "www.fun4k.com",
-											"rule": ["https://hd.ijycnd.com/play", "index.m3u8"]
-										},
-										{
-											"host": "zjmiao.com",
-											"rule": ["play.videomiao.vip/API.php", "time=", "key=", "path="]
-										}
-									],
-
-									//解码
-									"ijk": [{
-											"group": "软解码",
-											"options": [{
-												"category": 4,
-												"name": "opensles",
-												"value": "0"
-											}, {
-												"category": 4,
-												"name": "overlay-format",
-												"value": "842225234"
-											}, {
-												"category": 4,
-												"name": "framedrop",
-												"value": "1"
-											}, {
-												"category": 4,
-												"name": "soundtouch",
-												"value": "1"
-											}, {
-												"category": 4,
-												"name": "start-on-prepared",
-												"value": "1"
-											}, {
-												"category": 1,
-												"name": "http-detect-rangeupport",
-												"value": "0"
-											}, {
-												"category": 1,
-												"name": "fflags",
-												"value": "fastseek"
-											}, {
-												"category": 2,
-												"name": "skip_loop_filter",
-												"value": "48"
-											}, {
-												"category": 4,
-												"name": "reconnect",
-												"value": "1"
-											}, {
-												"category": 4,
-												"name": "enable-accurateeek",
-												"value": "0"
-											}, {
-												"category": 4,
-												"name": "mediacodec",
-												"value": "0"
-											}, {
-												"category": 4,
-												"name": "mediacodec-auto-rotate",
-												"value": "0"
-											}, {
-												"category": 4,
-												"name": "mediacodec-handle-resolution-change",
-												"value": "0"
-											}, {
-												"category": 4,
-												"name": "mediacodec-hevc",
-												"value": "0"
-											}, {
-												"category": 1,
-												"name": "dns_cache_timeout",
-												"value": "600000000"
-											}]
-										},
-										{
-											"group": "硬解码",
-											"options": [{
-												"category": 4,
-												"name": "opensles",
-												"value": "0"
-											}, {
-												"category": 4,
-												"name": "overlay-format",
-												"value": "842225234"
-											}, {
-												"category": 4,
-												"name": "framedrop",
-												"value": "1"
-											}, {
-												"category": 4,
-												"name": "soundtouch",
-												"value": "1"
-											}, {
-												"category": 4,
-												"name": "start-on-prepared",
-												"value": "1"
-											}, {
-												"category": 1,
-												"name": "http-detect-rangeupport",
-												"value": "0"
-											}, {
-												"category": 1,
-												"name": "fflags",
-												"value": "fastseek"
-											}, {
-												"category": 2,
-												"name": "skip_loop_filter",
-												"value": "48"
-											}, {
-												"category": 4,
-												"name": "reconnect",
-												"value": "1"
-											}, {
-												"category": 4,
-												"name": "enable-accurateeek",
-												"value": "0"
-											}, {
-												"category": 4,
-												"name": "mediacodec",
-												"value": "1"
-											}, {
-												"category": 4,
-												"name": "mediacodec-auto-rotate",
-												"value": "1"
-											}, {
-												"category": 4,
-												"name": "mediacodec-handle-resolution-change",
-												"value": "1"
-											}, {
-												"category": 4,
-												"name": "mediacodec-hevc",
-												"value": "1"
-											}, {
-												"category": 1,
-												"name": "dns_cache_timeout",
-												"value": "600000000"
-											}]
-										}
-									],
-									"ads": ["mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com", "mc.usihnbcq.cn", "mg.g1mm3d.cn", "mscs.svaeuzh.cn", "cnzz.hhttm.top", "tp.vinuxhome.com", "cnzz.mmstat.com", "www.baihuillq.com", "s23.cnzz.com", "z3.cnzz.com", "c.cnzz.com", "stj.v1vo.top", "z12.cnzz.com", "img.mosflower.cn", "tips.gamevvip.com", "ehwe.yhdtns.com", "xdn.cqqc3.com", "www.jixunkyy.cn", "sp.chemacid.cn", "hm.baidu.com", "s9.cnzz.com", "z6.cnzz.com", "um.cavuc.com", "mav.mavuz.com", "wofwk.aoidf3.com", "z5.cnzz.com", "xc.hubeijieshikj.cn", "tj.tianwenhu.com", "xg.gars57.cn", "k.jinxiuzhilv.com", "cdn.bootcss.com", "ppl.xunzhuo123.com", "xomk.jiangjunmh.top", "img.xunzhuo123.com", "z1.cnzz.com", "s13.cnzz.com", "xg.huataisangao.cn", "z7.cnzz.com", "xg.huataisangao.cn", "z2.cnzz.com", "s96.cnzz.com", "q11.cnzz.com", "thy.dacedsfa.cn", "xg.whsbpw.cn", "s19.cnzz.com", "z8.cnzz.com", "s4.cnzz.com", "f5w.as12df.top", "ae01.alicdn.com", "www.92424.cn", "k.wudejia.com", "vivovip.mmszxc.top", "qiu.xixiqiu.com", "cdnjs.hnfenxun.com", "cms.qdwght.com"]
-								}
+	]
+}
