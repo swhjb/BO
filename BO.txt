@@ -38,7 +38,14 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-
+		{
+			"name": "🚀澜露TV",
+			"type": 0,
+			"url": "http://gg.7749.org/z/0/dzh.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
 		{
 			"name": "🚀测试1",
 			"type": 0,
