@@ -30,14 +30,7 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 
-		{
-			"name": "🚀推流源",
-			"type": 0,
-			"url": "https://igdux.top/y8df",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
+
 		{
 			"name": "🚀澜露TV",
 			"type": 0,
@@ -79,18 +72,19 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-               {       
-			"name": "🚀极速港台",
+
+		{
+			"name": "🚀体育直播1",
 			"type": 0,
-			"url": "http://kkk.888.3116598.xyz/user/HKTV.txt",
+			"url": "https://www.freetv.top/mgevent.m3u",
 			"playerType": 2,
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
-			"name": "🚀体育直播",
+			"name": "🚀体育直播2",
 			"type": 0,
-			"url": "https://www.freetv.top/mgevent.m3u",
+			"url": "https://smart.pendy.dpdns.org/m3u/gongyi_judy.m3u",
 			"playerType": 2,
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
@@ -114,8 +108,23 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
                 },
+               {       
+			"name": "🚀极速港台",
+			"type": 0,
+			"url": "http://kkk.888.3116598.xyz/user/HKTV.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
 
-
+		{
+			"name": "🚀推流源",
+			"type": 0,
+			"url": "https://igdux.top/y8df",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
 		{
 			"name": "🌹MyTvb(VPN)",
 			"type": 0,
