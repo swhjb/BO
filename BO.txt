@@ -29,7 +29,14 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-
+		{
+			"name": "🚀测试",
+			"type": 0,
+			"url": "https://yk95.yymmiptv.top",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
 
 		{
 			"name": "🚀澜露TV",
