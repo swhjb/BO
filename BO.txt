@@ -4,14 +4,6 @@
 	"lives": [
     		
                 {
-			"name": "🚀极速港台",
-			"type": 0,
-			"url": "http://go8.myartsonline.com/zx/0/TVBTV28.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-                {
 			"name": "🚀AKTV直播",
 			"type": 0,
 			"url": "https://aktv.space/live.m3u",
