@@ -86,14 +86,7 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-		{
-			"name": "🚀体育直播2",
-			"type": 0,
-			"url": "https://smart.pendy.dpdns.org/m3u/gongyi_judy.m3u",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
+
 		
 		{
 			"name": "🚀1989",
