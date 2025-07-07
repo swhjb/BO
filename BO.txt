@@ -11,6 +11,15 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
                 {
+			"name": "🚀新测试直播",
+			"type": 0,
+			"url": "http://gg.7749.org//i/%E7%94%B5%E8%A7%86%E5%A4%9A.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+
+                {
 			"name": "🚀AKTV直播",
 			"type": 0,
 			"url": "https://aktv.space/live.m3u",
