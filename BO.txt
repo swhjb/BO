@@ -10,14 +10,6 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-                {
-			"name": "🚀新测试直播",
-			"type": 0,
-			"url": "http://gg.7749.org//i/%E7%94%B5%E8%A7%86%E5%A4%9A.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
 
                 {
 			"name": "🚀AKTV直播",
@@ -36,14 +28,7 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-		{
-			"name": "🚀测试",
-			"type": 0,
-			"url": "https://qu.ax/QKXFU",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
+
 
 		{
 			"name": "🚀澜露TV",
@@ -64,7 +49,7 @@
 		},
 
 		{
-			"name": "🚀测试3",
+			"name": "🚀测试",
 			"type": 0,
 			"url": "https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt",
 			"playerType": 2,
