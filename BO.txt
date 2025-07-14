@@ -58,7 +58,7 @@
 		},
 
 		{
-			"name": "🚀体育直播1",
+			"name": "🚀体育直播",
 			"type": 0,
 			"url": "https://www.freetv.top/mgevent.m3u",
 			"playerType": 2,
