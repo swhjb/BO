@@ -39,7 +39,7 @@
 		{
 			"name": "🚀测试",
 			"type": 0,
-			"url": "https://yk95.yymmiptv.top",
+			"url": "https://qu.ax/QKXFU",
 			"playerType": 2,
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
@@ -53,22 +53,7 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
-		{
-			"name": "🚀测试1",
-			"type": 0,
-			"url": "https://qu.ax/TRvGd.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		{
-			"name": "🚀测试2",
-			"type": 0,
-			"url": "http://kkk.jjjj.jiduo.me/user/tttt/api.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
+		
 		{
 			"name": "🚀影视资源",
 			"type": 0,
