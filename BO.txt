@@ -43,6 +43,14 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
+			"name": "🚀咸鱼翻生源",
+			"type": 0,
+			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E5%92%B8%E9%B1%BC%E7%BF%BB%E7%94%9F%E6%BA%90.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+		{
 			"name": "🚀测试",
 			"type": 0,
 			"url": "https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt",
