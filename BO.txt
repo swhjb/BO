@@ -42,6 +42,14 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
+                {
+                "name": "🚀宝盒没宝",
+                "type": 0,
+                "url": "https://3043.kstore.space/bhvip/bh/bh2.json",
+                "playerType": 2,
+                "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+                "logo": "http://diyp5.112114.xyz/{name}.png"
+                },  
 		{
 			"name": "🚀咸鱼翻生源",
 			"type": 0,
