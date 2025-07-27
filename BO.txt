@@ -2,10 +2,18 @@
 
 
 	"lives": [
-    				{
+    		{
 			"name": "🚀易发直播",
 			"type": 0,
 			"url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+    		{
+			"name": "🚀要饭源",
+			"type": 0,
+			"url": "https://d.kstore.dev/download/9368/%E8%A6%81%E9%A5%AD%E6%BA%90.txt",
 			"playerType": 2,
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
