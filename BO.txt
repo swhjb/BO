@@ -102,6 +102,14 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
                 },
          	{
+			"name": "🌹VPN源",
+			"type": 0,
+			"url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+         	{
 			"name": "🌹MyTvb(VPN)",
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/MyTV",
