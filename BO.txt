@@ -36,14 +36,6 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
-			"name": "🚀澜露TV",
-			"type": 0,
-			"url": "http://gg.7749.org/z/0/dzh.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},		
-		{
 			"name": "🚀影视资源",
 			"type": 0,
 			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90.txt",
