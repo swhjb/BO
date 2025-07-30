@@ -53,8 +53,6 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
-
-		{
 			"name": "🚀1989",
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/Gather",
