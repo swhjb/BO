@@ -95,7 +95,15 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
          	{
-			"name": "🌹MyTvb(VPN)",
+			"name": "🌹MyTvb1(VPN)",
+			"type": 0,
+			"url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+         	{
+			"name": "🌹MyTvb2(VPN)",
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/MyTV",
 			"playerType": 2,
