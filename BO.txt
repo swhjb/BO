@@ -18,6 +18,14 @@
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
+    		{
+			"name": "🚀港台推流",
+			"type": 0,
+			"url": "https://bxtv.3a.ink/live.m3u",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		}, 
                 {
                 "name": "🚀国内直播",
                 "type": 0,
