@@ -27,9 +27,9 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		}, 
                 {
-                "name": "🚀肥羊国内",
+                "name": "🚀国内",
                 "type": 0,
-                "url": "https://mursor.ottiptv.cc/iptv.m3u",
+                "url": "https://sub.ottiptv.cc/iptv.m3u",
                 "playerType": 2,
                 "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
                 "logo": "http://diyp5.112114.xyz/{name}.png"
@@ -140,5 +140,6 @@
 
 	]
 }
+
 
 
