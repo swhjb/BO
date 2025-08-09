@@ -2,123 +2,27 @@
 
 
 	"lives": [
-    
-               {       
-			"name": "🚀极速港台",
-			"type": 0,
-			"url": "http://kkk.888.3116598.xyz/user/HKTV.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		{
-			"name": "🚀易发直播",
-			"type": 0,
-			"url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
 
-
-		{
-			"name": "🚀推荐直播",
+    		{
+			"name": "🚀18+1",
 			"type": 0,
-			"url": "http://rihou.cc:567/gggg.nzk",
+			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E7%A6%8F%E5%88%A9.txt",
 			"playerType": 2,
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 
 		{
-			"name": "🚀推流源",
+			"name": "🚀18+2",
 			"type": 0,
-			"url": "https://igdux.top/y8df",
+			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E8%8A%B1%E5%9B%AD20250809.txt",
 			"playerType": 2,
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 
 		{
-			"name": "🚀测试1",
-			"type": 0,
-			"url": "https://qu.ax/TRvGd.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		{
-			"name": "🚀测试2",
-			"type": 0,
-			"url": "http://kkk.jjjj.jiduo.me/user/tttt/api.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		{
-			"name": "🚀影视资源",
-			"type": 0,
-			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-
-		{
-			"name": "🚀测试3",
-			"type": 0,
-			"url": "https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		{
-			"name": "🚀体育直播1",
-			"type": 0,
-			"url": "https://www.freetv.top/mgevent.m3u",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		{
-			"name": "🚀体育直播2",
-			"type": 0,
-			"url": "https://smart.pendy.dpdns.org/m3u/gongyi_judy.m3u",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		
-		{
-			"name": "🚀1989",
-			"type": 0,
-			"url": "https://tv.iill.top/m3u/Gather",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-
-                {
-                        "name": "IPTV研究所",
-			"type": 0,
-                        "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
-                        "ua": "zhanglao18+",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-                },
-
-
-		{
-			"name": "🌹MyTvb(VPN)",
-			"type": 0,
-			"url": "https://tv.iill.top/m3u/MyTV",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		{
-			"name": "🚀18+直播1",
+			"name": "🚀18+3",
 			"type": 0,
 			"url": "https://www.252035.xyz/p/jsm.json?pwd=18x",
 			"playerType": 2,
@@ -126,17 +30,9 @@
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
 		{
-			"name": "🚀18+直播2",
+			"name": "🚀18+4",
 			"type": 0,
 			"url": "https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tvlist.txt",
-			"playerType": 2,
-			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://diyp5.112114.xyz/{name}.png"
-		},
-		{
-			"name": "🌹境外(VPN)",
-			"type": 0,
-			"url": "http://firebase.anbox118.workers.dev",
 			"playerType": 2,
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
@@ -156,3 +52,4 @@
 
 	]
 }
+
