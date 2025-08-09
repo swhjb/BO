@@ -6,11 +6,21 @@
     		{
 			"name": "🚀18+1",
 			"type": 0,
+			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/18-20250809.txt",
+			"playerType": 2,
+			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp5.112114.xyz/{name}.png"
+		},
+    		{
+			"name": "🚀18+1",
+			"type": 0,
 			"url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E7%A6%8F%E5%88%A9.txt",
 			"playerType": 2,
 			"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 			"logo": "http://diyp5.112114.xyz/{name}.png"
 		},
+
+https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/18-20250809.txt
 
 		{
 			"name": "🚀18+2",
@@ -52,4 +62,5 @@
 
 	]
 }
+
 
