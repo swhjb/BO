@@ -10,7 +10,7 @@
 {"name":"🚀潇洒","url":"https://9877.kstore.space/AnotherD/api.json"},
 {"name":"🚀肥猫","url":"http://肥猫.com"},   
 {"name":"🚀宝盒没宝","url":"https://3043.kstore.space/bhvip/bh/bh2.json"},
-{"name":"🚀王大湿猫","url":"http://rihou.cc:555/nzk/nzk0722.json"},
+{"name":"🚀王大湿（直播）","url":"http://rihou.cc:555/nzk/nzk0722.json"},
 {"name":"🌨帅锅（外）🌨","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO.txt"},
 {"name":"🚀唐三","url":"https://tang.hz.cz/api/user?token=51297b7d"},
 {"name":"🚀PG","url":"http://www.fish2018.us.kg/p/jsm.json"}  
