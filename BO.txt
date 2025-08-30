@@ -78,6 +78,81 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
+      "name": "咪咕体育",
+      "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
+      "ua": "judy/5.2.1"
+    },
+    {
+      "name": "海星体育",
+      "type": 3,
+      "api": "http://rihou.cc:555/海星体育.py",
+      "ext": {}
+    },
+    {
+      "name": "高清体育",
+      "type": 3,
+      "api": "http://rihou.cc:555/高清体育.py",
+      "ext": {}
+    },
+    {
+      "name": "高清直播",
+      "type": 3,
+      "api": "https://json.doube.eu.org/python/live_smt.py",
+      "ext": {}
+    },
+    {
+      "name": "直播体育",
+      "boot": true,
+      "type": 0,
+      "url": "http://web9916.w.computerqwq.cf/kqt.php?公众号【医工学习日志】",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "🚀肥羊国内",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/iptv.m3u",
+      "ua": "okHttp/Mod-1.2.0 ",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "🚀推荐直播",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "🚀影视资源",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90.txt",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "🚀AKTV直播",
+      "type": 0,
+      "url": "https://aktv.space/live.m3u",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "IPTV研究所",
+      "type": 0,
+      "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+      "ua": "zhanglao18+",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
       "name": "外置综合",
       "type": 0,
       "url": "http://tv.iill.top/m3u/Gather",
@@ -113,39 +188,6 @@
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "playerType": 1
-    },
-    {
-      "name": "咪咕体育",
-      "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
-      "ua": "judy/5.2.1"
-    },
-    {
-      "name": "海星体育",
-      "type": 3,
-      "api": "http://rihou.cc:555/海星体育.py",
-      "ext": {}
-    },
-    {
-      "name": "高清体育",
-      "type": 3,
-      "api": "http://rihou.cc:555/高清体育.py",
-      "ext": {}
-    },
-    {
-      "name": "高清直播",
-      "type": 3,
-      "api": "https://json.doube.eu.org/python/live_smt.py",
-      "ext": {}
-    },
-    {
-      "name": "直播体育",
-      "boot": true,
-      "type": 0,
-      "url": "http://web9916.w.computerqwq.cf/kqt.php?公众号【医工学习日志】",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
       "name": "外置频测",
@@ -192,48 +234,6 @@
       "logo": "https://live.fanmingming.cn/tv/{name}.png"
     },
     {
-      "name": "🚀肥羊国内",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/iptv.m3u",
-      "ua": "okHttp/Mod-1.2.0 ",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
-    },
-    {
-      "name": "🚀推荐直播",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
-    },
-    {
-      "name": "🚀影视资源",
-      "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90.txt",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
-    },
-    {
-      "name": "🚀AKTV直播",
-      "type": 0,
-      "url": "https://aktv.space/live.m3u",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
-    },
-    {
-      "name": "IPTV研究所",
-      "type": 0,
-      "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
-      "ua": "zhanglao18+",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
-    },
-    {
       "name": "🌹MyTvb1(VPN)",
       "type": 0,
       "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
@@ -278,5 +278,3 @@
     }
   ]
 }
-
-
