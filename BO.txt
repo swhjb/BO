@@ -123,7 +123,7 @@
       "name": "🚀肥羊国内",
       "type": 0,
       "url": "https://sub.ottiptv.cc/iptv.m3u",
-      "ua": "okHttp/Mod-1.2.0 ",
+      "ua": "okHttp/Mod-1.2.0.1",
       "playerType": 2,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp5.112114.xyz/{name}.png"
@@ -266,14 +266,6 @@
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp5.112114.xyz/{name}.png"
     },
-       {
-      "name": "🚀风云TV",
-      "type": 0,
-      "url": "http://iptv.4666888.xyz/FYTV.m3u",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
-    },
     {
       "name": "🌹境外(VPN)",
       "type": 0,
@@ -295,5 +287,6 @@
     }
   ]
 }
+
 
 
