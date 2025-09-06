@@ -80,7 +80,7 @@
     {
       "name": "🌨IPTV研究所🌨",
       "type": 0,
-      "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+      "url": "hhttps://tv-1.iill.top/m3u/Gather",
       "ua": "zhanglao18+",
       "playerType": 2,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
@@ -212,6 +212,7 @@
     }
   ]
 }
+
 
 
 
