@@ -48,7 +48,7 @@
     {
       "name": "🚀肥羊国内🚀",
       "type": 0,
-      "url": "https://mursor.ottiptv.cc/iptv.m3u?userid=895642917&sign=49af1c9cd82a92cf18c3984c8a289fad2ca360099fccb9a419f390f99a9f50b032e2c334d08e360980a45ee7a9346e7cf9e2e4aa66ca6fc7e5fb8810f1598ff9f5ee1dfecf3d&auth_token=5423ce8a9aa7f25d85733a2233d5e885",
+      "url": "https://live.ottiptv.cc/iptv.m3u?userid=895642917&sign=c20121451c3281b4b9921edf7884094be45a96d17a7188a9145ea23eed031f0ededefe3485314b18272023ea52daa8ab0df5252937f523aa5848f6c8cd66719e29142ae84b1f&auth_token=7bd68f589dd57be44397cae6e387d1a2",
       "ua": "okHttp/Mod-1.4.0.0",
       "playerType": 2,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
@@ -82,3 +82,4 @@
     }
   ]
 }
+
