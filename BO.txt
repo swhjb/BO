@@ -68,7 +68,7 @@
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
+      "logo": "http://diyp5.112114.xyz/{name}.png",
       "playerType": 2,
       "timeout": 10
     },
@@ -125,4 +125,5 @@
     }
   ]
 }
+
 
