@@ -2,8 +2,8 @@
 
 { "urls": [
 
-{"name":"🚀潇洒","url":"https://9877.kstore.space/AnotherD/api.json"},
 {"name":"🚀饭太硬","url":"http://www.饭太硬.com/tv"},
+{"name":"🚀潇洒","url":"https://9877.kstore.space/AnotherD/api.json"},
 {"name":"🚀小米","url":"https://13826.kstore.space/DEMO.json"}, 
 {"name":"🚀巧技","url":"http://cdn.qiaoji8.com/tvbox.json"},	
 {"name":"🚀王二小","url":"https://9280.kstore.space/wex.json"},
