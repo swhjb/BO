@@ -1,5 +1,4 @@
 {
-
   "lives": [
     {
       "name": "🚀易发直播🚀",
@@ -11,7 +10,7 @@
     {
       "name": "🚀冰茶直播🚀",
       "type": 0,
-      "url": "https://fy.188766.xyz/?ip=&mishitong=true&json=true",
+      "url": "https://fy.188766.xyz/?ip=&mishitong=true&mima=bingchawusifengxian",
       "ua": "bingcha/1.1"
     },
     {
@@ -23,9 +22,17 @@
       "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
-      "name": "🚀HKTV🚀",
+      "name": "🚀BXTV🚀",
       "type": 0,
-      "url": "http://txt.gt.tc/users/HKTV.txt",
+      "url": "http://bxtv.3a.ink/live.m3u",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "🚀jackTV🚀",
+      "type": 0,
+      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
       "playerType": 2,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp5.112114.xyz/{name}.png"
@@ -47,6 +54,14 @@
       "type": 0,
       "url": "https://live.ottiptv.cc/iptv.m3u?userid=895642917&sign=c20121451c3281b4b9921edf7884094be45a96d17a7188a9145ea23eed031f0ededefe3485314b18272023ea52daa8ab0df5252937f523aa5848f6c8cd66719e29142ae84b1f&auth_token=7bd68f589dd57be44397cae6e387d1a2",
       "ua": "okHttp/Mod-1.4.0.0",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "🚀香港直播🚀",
+      "type": 0,
+      "url": "http://bxtv.3a.ink/live.m3u",
       "playerType": 2,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp5.112114.xyz/{name}.png"
@@ -101,8 +116,8 @@
   ],
   "sites": [
     {
-      "key": "只更新直播",
-      "name": "【直播菜单键换源，不能点播】",
+      "key": "只能直播",
+      "name": "只能直播,菜单键换源，点播设置换",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -111,6 +126,3 @@
     }
   ]
 }
-
-
-
