@@ -4,14 +4,18 @@
 
 {"name":"🚀饭太硬","url":"http://www.饭太硬.com/tv"},
 {"name":"🚀潇洒","url":"https://9877.kstore.space/AnotherD/api.json"},
-{"name":"🚀帅锅直播（外）","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO888.txt"},
 {"name":"🚀小米","url":"https://13826.kstore.space/DEMO.json"}, 
 {"name":"🚀巧技","url":"http://cdn.qiaoji8.com/tvbox.json"},	
 {"name":"🚀王二小","url":"https://9280.kstore.space/wex.json"},
-{"name":"🚀王大湿（直播）","url":"http://rihou.cc:555/nzk/nzk0722.json"},
 {"name":"🚀OK","url":"http://ok321.top/ok"},
 {"name":"🚀肥猫","url":"http://肥猫.com"},   
-{"name":"🚀月佬🚀","url":"https://tvbot.dpdns.org/config.json"},
+{"name":"🚀盒子迷","url":"https://盒子迷.top/禁止贩卖"}, 
+{"name":"🚀摸鱼儿","url":"http://我不是.摸鱼儿.com"},  
+{"name":"🚀天天","url":"http://cdn.qiaoji8.com/tvbox.json"},  
+{"name":"🚀帅锅🚀","url":"https://d.kstore.dev/download/9368/BO.txt"},
+{"name":"🚀唐三🚀","url":"https://tang.hz.cz/api/user?token=51297b7d"},
+{"name":"🚀月佬","url":"https://tvbot.dpdns.org/config.json"},
+{"name":"🚀帅锅直播（外）","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO888.txt"},
 {"name":"🚀PG","url":"http://www.fish2018.us.kg/p/jsm.json"}  
 
 
