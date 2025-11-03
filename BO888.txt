@@ -10,8 +10,6 @@
 {"name":"🚀王大湿（直播）","url":"http://rihou.cc:555/nzk/nzk0722.json"},
 {"name":"🚀OK","url":"http://ok321.top/ok"},
 {"name":"🚀肥猫","url":"http://肥猫.com"},   
-{"name":"🚀宝盒没宝","url":"https://3043.kstore.space/bhvip/bh/bh2.json"},
-{"name":"🚀帅锅（外）🚀","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO.txt"},
 {"name":"🚀月佬🚀","url":"https://tvbot.dpdns.org/config.json"},
 {"name":"🚀PG","url":"http://www.fish2018.us.kg/p/jsm.json"}  
 
