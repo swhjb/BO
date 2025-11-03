@@ -4,6 +4,7 @@
 
 {"name":"🚀饭太硬","url":"http://www.饭太硬.com/tv"},
 {"name":"🚀潇洒","url":"https://9877.kstore.space/AnotherD/api.json"},
+{"name":"🚀帅锅直播（外）","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO888.txt"},
 {"name":"🚀小米","url":"https://13826.kstore.space/DEMO.json"}, 
 {"name":"🚀巧技","url":"http://cdn.qiaoji8.com/tvbox.json"},	
 {"name":"🚀王二小","url":"https://9280.kstore.space/wex.json"},
