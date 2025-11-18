@@ -10,8 +10,24 @@
     {
       "name": "🚀冰茶直播🚀",
       "type": 0,
-      "url": "https://fy.188766.xyz/?ip=&mishitong=true&mima=bingchawusifengxian",
+      "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian",
       "ua": "bingcha/1.1"
+    },
+    {
+      "name": "🚀福直播🚀",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "🚀测试直播🚀",
+      "type": 0,
+      "url": "http://xo.html-5.me/i/2301510.txt",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
       "name": "🚀风云港台🚀",
@@ -22,28 +38,12 @@
       "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
-      "name": "🚀BXTV🚀",
-      "type": 0,
-      "url": "http://bxtv.3a.ink/live.m3u",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
+      "name": "🚀国内直播🚀",
+      "url": "http://httop.top/hotel.m3u"
     },
     {
-      "name": "🚀jackTV🚀",
-      "type": 0,
-      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
-    },
-    {
-      "name": "🌨IPTV研究所🌨",
-      "type": 0,
-      "url": "https://iptv.mydiver.eu.org/get.php?username=tg_at1uqlok&password=tbuhfrlv8b67&type=m3u_plus",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
+      "name": "🚀港台组播源🚀",
+      "url": "http://ok.zoho.to/z/=港台组播源"
     },
     {
       "name": "🚀咪咕直播🚀",
@@ -67,51 +67,20 @@
       "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
-      "name": "AI直播",
+      "name": "🚀BXTV🚀",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "http://bxtv.3a.ink/live.m3u",
       "playerType": 2,
-      "timeout": 10
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
-      "name": "一起看",
-      "type": 3,
-      "api": "csp_HuyaGuard",
-      "url": "yqk",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "肥羊虎牙一起看",
+      "name": "🚀jackTV🚀",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/huyayqk.m3u",
+      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
       "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
-    },
-    {
-      "name": "肥羊B站直播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/bililive.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
-    },
-    {
-      "name": "肥羊斗鱼一起看",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/douyuyqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
-    },
-    {
-      "name": "肥羊YY轮播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/yylunbo.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
     }
   ],
   "sites": [
