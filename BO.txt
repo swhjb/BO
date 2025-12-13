@@ -4,6 +4,8 @@
       "name": "易发直播",
       "type": 0,
       "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png",
       "playerType": 2,
       "timeout": 10
     },
@@ -21,21 +23,27 @@
       "url": "https://live.ottiptv.cc/iptv.m3u?userid=895642917&sign=c20121451c3281b4b9921edf7884094be45a96d17a7188a9145ea23eed031f0ededefe3485314b18272023ea52daa8ab0df5252937f523aa5848f6c8cd66719e29142ae84b1f&auth_token=7bd68f589dd57be44397cae6e387d1a2",
       "ua": "okHttp/Mod-1.4.0.0",
       "playerType": 2,
-      "timeout": 10
+      "timeout": 10,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
       "name": "推流直播",
       "type": 0,
       "url": "http://txt.gt.tc/users/HKTV.txt",
       "playerType": 2,
-      "timeout": 10
+      "timeout": 10,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
       "name": "推荐直播",
       "type": 0,
       "url": "https://2099.tv12.xyz/list.txt",
       "playerType": 2,
-      "timeout": 10
+      "timeout": 10,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
       "name": "BXTV",
@@ -49,35 +57,45 @@
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
       "playerType": 2,
-      "timeout": 10
+      "timeout": 10,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
       "name": "风云港台",
       "type": 0,
       "url": "http://iptv.4666888.xyz/FYTV.m3u",
       "playerType": 2,
-      "timeout": 10
+      "timeout": 10,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
       "name": "catvod",
       "type": 0,
       "url": "https://live.catvod.com/tv.m3u",
       "playerType": 2,
-      "timeout": 10
+      "timeout": 10,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
       "name": "益力多",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Gather",
       "playerType": 2,
-      "timeout": 10
+      "timeout": 10,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
       "name": "jackTV",
       "type": 0,
       "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
       "playerType": 2,
-      "timeout": 10
+      "timeout": 10,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
     }
   ],
   "sites": [
