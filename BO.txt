@@ -45,6 +45,14 @@
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp5.112114.xyz/{name}.png"
     },
+
+    {
+      "name": "BXTV",
+      "type": 0,
+      "url": "http://bxtv.3a.ink/live.m3u",
+      "playerType": 2,
+      "timeout": 10
+    },
     {
       "name": "推荐直播",
       "type": 0,
@@ -53,13 +61,6 @@
       "timeout": 10,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp5.112114.xyz/{name}.png"
-    },
-    {
-      "name": "BXTV",
-      "type": 0,
-      "url": "http://bxtv.3a.ink/live.m3u",
-      "playerType": 2,
-      "timeout": 10
     },
     {
       "name": "福直播",
@@ -119,4 +120,5 @@
     }
   ]
 }
+
 
