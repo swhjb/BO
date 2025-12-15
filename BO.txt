@@ -10,6 +10,15 @@
       "timeout": 10
     },
     {
+      "name": "港台免翻频道",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/9368/%E6%B8%AF%E5%8F%B0%E5%85%8D%E7%BF%BB%E9%A2%91%E9%81%93.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
       "name": "冰茶直播",
       "type": 0,
       "url": "https://bc.188766.xyz/?ip=&lunbo=false&mima=mianfeibuhuaqian&huikan=en",
@@ -110,3 +119,4 @@
     }
   ]
 }
+
