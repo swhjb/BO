@@ -27,6 +27,14 @@
       "ua": "bingcha/1.1"
     },
     {
+      "name": "HKTV",
+      "type": 0,
+      "url": "http://txt.gt.tc/users/HKTV.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "bingcha/1.1"
+    },
+    {
       "name": "肥羊国内",
       "type": 0,
       "url": "https://live.ottiptv.cc/iptv.m3u?userid=895642917&sign=c20121451c3281b4b9921edf7884094be45a96d17a7188a9145ea23eed031f0ededefe3485314b18272023ea52daa8ab0df5252937f523aa5848f6c8cd66719e29142ae84b1f&auth_token=7bd68f589dd57be44397cae6e387d1a2",
@@ -45,7 +53,6 @@
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp5.112114.xyz/{name}.png"
     },
-
     {
       "name": "BXTV",
       "type": 0,
@@ -106,7 +113,17 @@
       "timeout": 10,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "测试1",
+      "type": 0,
+      "url": "http://tv.html-5.me/ii/197147.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
     }
+
   ],
   "sites": [
     {
@@ -120,5 +137,3 @@
     }
   ]
 }
-
-
