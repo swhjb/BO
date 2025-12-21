@@ -1,14 +1,24 @@
 //此多仓接口为波仔维护
 
 { "urls": [
+
+{"name":"🔞18+","url":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/me.json"}, 
+
+
+{"name":"🔞18","url":"https://ghfast.top/https://raw.githubusercontent.com/QFDPY/ss/refs/heads/main/%E4%B8%83%E5%93%A5.json"}, 
+
 {"name":"🔞18","url":"https://git.acwing.com/abai/tv/-/raw/main/a18.json"}, 
 
 {"name":"🔞18NEW","url":"http://xn--b9w.l5.ca"}, 
+{"name":"🔞18","url":"https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"}, 
 
 {"name":"🔞18+10","url":"https://ghfast.top/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/refs/heads/main/json/index18.json"}, 
-{"name":"🔞18+11","url":"https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"},     
+{"name":"🔞18+11","url":"https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"},    
 
-{"name":"🔞帅锅18+直播","url":"https://d.kstore.dev/download/9368/BO.txt"},   
+{"name":"🔞18","url":"https://ghfast.top/https://github.com/su147456888444/tvbox/raw/main/18.txt"}, 
+
+
+{"name":"🔞帅锅18+直播","url":"https://d.kstore.dev/download/9368/BO1.txt"},   
 {"name":"🔞道长18+","url":"https://drpys-kznt.vercel.app/config/1?pwd="},   
 {"name":"🔞18+","url":"https://ghfast.top/https://raw.githubusercontent.com/wwb521/live/main/video.json"},   
 
