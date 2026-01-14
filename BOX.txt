@@ -21,7 +21,7 @@
 {"name":"🔞18+6","url":"https://ghfast.top/https://github.com/su147456888444/tvbox/raw/main/18.txt"}, 
 
 
-{"name":"🔞帅锅18+直播","url":"https://d.kstore.dev/download/9368/BO1.txt"},   
+{"name":"🔞帅锅18+直播","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO1.txt"},   
 {"name":"🔞道长18+7","url":"https://drpys-kznt.vercel.app/config/1?pwd="},   
 {"name":"🔞18+8","url":"https://ghfast.top/https://raw.githubusercontent.com/wwb521/live/main/video.json"},   
 
@@ -66,3 +66,4 @@
 
     ]
 }
+
