@@ -7,7 +7,7 @@
 {"name":"🚀小米","url":"https://13826.kstore.space/DEMO.json"}, 
 {"name":"🚀巧技","url":"http://cdn.qiaoji8.com/tvbox.json"},	
 {"name":"🚀王二小","url":"https://9280.kstore.space/wex.json"},
-{"name":"🚀OK","url":"http://ok321.top/ok"},
+{"name":"🚀OK","url":"http://ok321.top/tv"},
 {"name":"🚀王大湿（球类）","url":"http://rihou.cc:555/nzk/nzk0722.json"},
 {"name":"🚀肥猫","url":"http://肥猫.com"},   
 {"name":"🚀盒子迷","url":"https://盒子迷.top/禁止贩卖"}, 
