@@ -15,7 +15,7 @@
 {"name":"🚀JS测试","url":"https://gitee.com/sd-live/zb/raw/master/js.json"},
 {"name":"🚀天天","url":"http://cdn.qiaoji8.com/tvbox.json"},  
 {"name":"🚀帅锅直播","url":"https://d.kstore.dev/download/9368/BO.txt"},
-{"name":"🚀唐三","url":"https://tang.hz.cz/api/user?token=51297b7d"},
+{"name":"🚀唐三","url":"https://tang.hz.cz/api/user?token=6c6a6fe8"},
 {"name":"🚀月佬","url":"https://tvbot.dpdns.org/config.json"},
 {"name":"🚀帅锅直播（外）","url":"https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO.txt"},
 {"name":"🚀PG","url":"http://www.fish2018.us.kg/p/jsm.json"}  
