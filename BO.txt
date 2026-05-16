@@ -1,13 +1,67 @@
 {
   "lives": [
     {
-      "name": "易发直播",
+      "name": "易发",
       "type": 0,
-      "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
-      "logo": "http://diyp5.112114.xyz/{name}.png",
+      "url": "https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
       "playerType": 2,
-      "timeout": 10
+      "timeout": 10,
+      "epg": "https://epg.zsdc.eu.org/t.xml",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "jackTV",
+      "type": 0,
+      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "https://epg.zsdc.eu.org/t.xml",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "福直播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "https://epg.zbds.top",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "小新直播",
+      "type": 0,
+      "url": "http://ko.zoho.to/i/%E5%B0%8F%E6%98%A5%E7%9B%B4%E6%92%AD.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "https://epg.zbds.top",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "港台测试",
+      "type": 0,
+      "url": "http://tv123.vvvv.ee/tv.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "https://epg.zbds.top",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "日后",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "https://epg.zsdc.eu.org/t.xml",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "中国TV",
+      "type": 0,
+      "url": "https://live.264788.xyz/sub/02RPbmeLB8C0HDe7iLrOFHq6xlv9vQ",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "https://epg.zsdc.eu.org/t.xml",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
       "name": "潇雨萌萌",
@@ -15,7 +69,7 @@
       "url": "https://ds65.tv1288.xyz",
       "playerType": 2,
       "timeout": 10,
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "https://epg.zsdc.eu.org/t.xml",
       "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
@@ -24,7 +78,7 @@
       "url": "http://iptv.4666888.xyz/FYTV.m3u",
       "playerType": 2,
       "timeout": 10,
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "https://epg.zbds.top",
       "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
@@ -33,21 +87,13 @@
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
       "playerType": 2,
       "timeout": 10,
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "https://epg.zsdc.eu.org/t.xml",
       "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
       "name": "HKTV",
       "type": 0,
       "url": "https://live.264788.xyz/sub/02RPbmeLB8C0HDe7iLrOFHq6xlv9vQ",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "bingcha/1.1"
-    },
-    {
-      "name": "易老",
-      "type": 0,
-      "url": "https://d.kstore.dev/download/9368/%E6%98%93%E8%80%81.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "bingcha/1.1"
@@ -66,52 +112,7 @@
       "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
       "playerType": 2,
       "timeout": 10,
-      "epg": "http://epg.51zmt.top:8000/e.xml",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
-    },
-    {
-      "name": "福直播",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
-      "playerType": 2,
-      "timeout": 10,
-      "epg": "http://epg.51zmt.top:8000/e.xml",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
-    },
-    {
-      "name": "CATVOD",
-      "type": 0,
-      "url": "https://live.catvod.com/live.php?token=cf3631f051da2194b2d2ecf1a8937270292a2fd16753d513c2b9b78604a691ec",
-      "playerType": 2,
-      "timeout": 10,
-      "epg": "http://epg.51zmt.top:8000/e.xml",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
-    },
-    {
-      "name": "中国TV",
-      "type": 0,
-      "url": "https://live.264788.xyz/sub/02RPbmeLB8C0HDe7iLrOFHq6xlv9vQ",
-      "playerType": 2,
-      "timeout": 10,
-      "epg": "http://epg.51zmt.top:8000/e.xml",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
-    },
-    {
-      "name": "港台直播",
-      "type": 0,
-      "url": "http://gc.gt.tc/o/i/TVB.txt",
-      "playerType": 2,
-      "timeout": 10,
-      "epg": "http://epg.51zmt.top:8000/e.xml",
-      "logo": "http://diyp5.112114.xyz/{name}.png"
-    },
-    {
-      "name": "jackTV",
-      "type": 0,
-      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "https://epg.zsdc.eu.org/t.xml",
       "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
@@ -120,7 +121,7 @@
       "url": "https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt",
       "playerType": 2,
       "timeout": 10,
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "https://epg.zsdc.eu.org/t.xml",
       "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
@@ -129,7 +130,16 @@
       "url": "http://wangziduoqing.com/yuan/zb.txt",
       "playerType": 2,
       "timeout": 10,
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "https://epg.zsdc.eu.org/t.xml",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "CATVOD",
+      "type": 0,
+      "url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "https://epg.zsdc.eu.org/t.xml",
       "logo": "http://diyp5.112114.xyz/{name}.png"
     },
     {
@@ -138,7 +148,7 @@
       "url": "https://d.kstore.dev/download/9368/%E5%B8%85%E9%94%85%E4%B8%93%E7%94%A8.txt",
       "playerType": 2,
       "timeout": 10,
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "https://epg.zbds.top",
       "logo": "http://diyp5.112114.xyz/{name}.png"
     }
   ],
