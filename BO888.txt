@@ -39,7 +39,8 @@
     {"name": "👖真心本地包", "url": "https://www.252035.xyz/z/FongMi.json"},
     {"name": "👖PG本地包", "url": "https://www.252035.xyz/p/jsm.json"},
     {"name": "👖道长", "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"},  
-    {"name": "🌨帅锅🌨","url": "https://d.kstore.dev/download/9368/BO.txt"}
+    {"name": "🌨帅锅🌨","url": "https://d.kstore.dev/download/9368/BO.txt"},
+    {"name": "🌨帅锅（外）🌨","url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO.txt"} 
  
       ]
     }
