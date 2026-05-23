@@ -6,6 +6,7 @@
     {"name": "🚀王二小","url": "https://9280.kstore.vip/newwex.json"},
     {"name": "🚀潇洒","url": "https://9877.kstore.space/ONE/one.json"},
     {"name": "🚀小米","url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"},
+    {"name":"🌏无界Pro版","url":"https://www.xn--rgv465a.top/pro.json"},
     {"name": "🚀无意云","url": "https://ym.wya6.cn/"},
     {"name": "🚀catvod","url": "https://tvbox.catvod.com/catvod.json"},
     {"name": "🚀裤佬","url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"},
@@ -44,4 +45,3 @@
  
       ]
     }
-
