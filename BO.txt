@@ -1,10 +1,17 @@
 {
   "lives": [
     {
+      "name": "🐬王子直播",
+      "type": 0,
+      "url": "http://wangziduoqing.com/yuan/zb.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
       "name": "🐬裤佬TV",
       "type": 0,
       "ua": "okhttp",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
+      "url": "https://seep.eu.org/https://live.445569.xyz/live.m3u"
     },
     {
       "name": "🐬易发源",
@@ -18,13 +25,6 @@
       "name": "🐬国内直播",
       "type": 0,
       "url": "https://live.264788.xyz/sub/02RPbmeLB8C0HDe7iLrOFHq6xlv9vQ",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "🐬王子直播",
-      "type": 0,
-      "url": "http://wangziduoqing.com/yuan/zb.txt",
       "playerType": 2,
       "timeout": 10
     },
