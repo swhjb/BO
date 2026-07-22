@@ -9,7 +9,7 @@
     { "name": "🚀小米", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"},
     { "name": "🚀无意云", "url": "https://ym.wya6.cn/"},
     { "name": "🚀catvod", "url": "https://tvbox.catvod.com/catvod.json"},
-    { "name": "🚀裤佬", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"},
+    { "name": "🚀裤佬", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg"},
     { "name": "🚀王大湿（球类）", "url": "http://rihou.cc:555/nzk/nzk0722.json"},
     { "name": "🚀高兴", "url": "https://18189.kstore.space/高兴/高兴.php"},
     { "name": "🚀小虎斑", "url": "http://hb.小虎斑.site:25252/仅供测试"},
@@ -17,6 +17,7 @@
     { "name": "🚀天微", "url": "https://7337.kstore.vip/tw.json"},
     { "name": "🚀真心", "url": "https://tvbox.catvod.com/FongMi.json"},
     { "name": "👖嗷呜", "url": "http://itv666.cc/aowu/config.webp"},
+    { "name": "🚀海报接口", "url": "https://jk.catvod.site"},
     { "name": "👖盒子迷", "url": "https://盒子迷.top/禁止贩卖"},
     { "name": "👖天天", "url": "http://cdn.qiaoji8.com/tvbox.json"},
     { "name": "👖摸鱼儿", "url": "http://www.小不点.com"},
@@ -24,20 +25,17 @@
     { "name": "👖南风", "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
     { "name": "👖香雅情", "url": "https://play.iptv365.org/香雅情/api.json"},
     { "name": "👖开心", "url": "https://play.iptv365.org/天天开心/api.json"},
-    { "name": "👖雷蒙影视", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/lem.json"},
-    { "name": "👖分享者", "url": "https://gh-proxy.com/raw.githubusercontent.com/maoystv/6/main/001.json"},
-    { "name": "👖残月", "url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json"},
-    { "name": "👖夏天微风", "url": "https://11405.kstore.space/xiaye/qk4k.json"},
     { "name": "👖七星", "url": "http://7337.kstore.space/qxys/禁止传播.json"},
     { "name": "👖少儿", "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"},
     { "name": "👖木鱼黑科技", "url": "https://catbox.n13.club/jk/jsm.json"},
     { "name": "👖沐辰", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/config.json"},
     { "name": "👖T4", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/T4.json"},
     { "name": "👖软件小哥哥", "url": "http://47.96.82.41:5188/svip/svip.json"},
+    { "name": "👖海豚影视", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚.json"},
+    { "name": "👖宝盒", "url": "https://3043.kstore.space/bhvip/bh/bhkj.json"},
     { "name": "👖真心本地包", "url": "https://www.252035.xyz/z/FongMi.json"},
     { "name": "🌨帅锅🌨", "url": "https://d.kstore.dev/download/9368/BO.txt"},
-    { "name": "🚀海豚", "url": "https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚666.json"},
-    { "name": "🌨帅锅（外）🌨", "url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO.txt"    }
+    { "name": "🌨帅锅（外）🌨", "url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO.txt"}
 
   ]
 }
