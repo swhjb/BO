@@ -34,8 +34,7 @@
     { "name": "👖海豚影视", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚.json"},
     { "name": "👖宝盒", "url": "https://3043.kstore.space/bhvip/bh/bhkj.json"},
     { "name": "👖真心本地包", "url": "https://www.252035.xyz/z/FongMi.json"},
-    { "name": "🌨帅锅🌨", "url": "https://d.kstore.dev/download/9368/BO.txt"},
-    { "name": "🌨帅锅（外）🌨", "url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO.txt"}
+    { "name": "🌨帅锅🌨", "url": "https://ghfast.top/https://raw.githubusercontent.com/swhjb/BO/main/BO.txt"}
 
   ]
 }
