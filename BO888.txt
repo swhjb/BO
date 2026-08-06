@@ -90,7 +90,7 @@
     },
     {
       "name": "👖海豚PY",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚.json"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚18"
     },
     {
       "name": "👖宝盒",
