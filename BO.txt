@@ -1,5 +1,14 @@
 {
   "lives": [
+    {
+      "name": "🐬易发源",
+      "type": 0,
+      "ua": "okhttp",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
+      "timeout": 10
+    },
 
 {"name":"Kimentanm","type":0,"url":"https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","playerType":2},
 
@@ -10,15 +19,7 @@
       "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
       "url": "https://iptv.852851.xyz/sub/bwQfdMcUYrjq/playlist.m3u"
     },
-  {
-      "name": "🐬易发源",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
-      "playerType": 2,
-      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
-      "timeout": 10
-    },
+  
 
     {
       "name": "🐬裤佬TV",
