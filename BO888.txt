@@ -102,7 +102,7 @@
     },
     {
       "name": "🌨帅锅🌨",
-      "url": "https://d.kstore.dev/download/9368/BO.txt"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/BO.txt"
     }
   ]
 }
