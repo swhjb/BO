@@ -18,7 +18,7 @@
     },
     {
       "name": "🚀小米",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
+      "url": "https://zzzy.shop/tv/"
     },
     {
       "name": "🧙‍♀️莱妮丝",
@@ -30,7 +30,7 @@
     },
     {
       "name": "👖摸鱼儿",
-      "url": "http://摸鱼儿.cc"
+      "url": "https://6800.kstore.vip/fish.json"
     },
     {
       "name": "🚀海报接口",
@@ -38,7 +38,7 @@
     },
     {
       "name": "👖嗷呜",
-      "url": "http://itv666.cc/aowu/config.webp"
+      "url": "http://www.2525666.xyz/tv"
     },
     {
       "name": "🚀无意云",
@@ -82,15 +82,11 @@
     },
     {
       "name": "👖沐辰",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/config.json"
+      "url": "https://newtv.ggff.net/api/user?token=fhdHunhF"
     },
     {
       "name": "👖软件小哥哥",
       "url": "http://47.96.82.41:5188/svip/svip.json"
-    },
-    {
-      "name": "👖海豚PY",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚665"
     },
     {
       "name": "👖宝盒",
@@ -101,8 +97,8 @@
       "url": "https://www.252035.xyz/z/FongMi.json"
     },
     {
-      "name": "🌨帅锅🌨",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/BO.txt"
+      "name": "🌨帅锅专用🌨",
+      "url": "https://d.kstore.dev/download/9368/BO.txt"
     }
   ]
 }
