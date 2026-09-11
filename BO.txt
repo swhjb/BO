@@ -32,14 +32,8 @@
       "url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
       "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
       "timeout":
-},
-    {
-      "name": "央視官網",
-      "url": "https://tv.cctv.com/live/",
-      "api": "https://d.kstore.dev/download/9368/cctv/cctv.py",
-      "ext": "https://d.kstore.dev/download/9368/cctv/cctv.json",
-      "timeout": 20
     },
+
     {
       "name": "🐬肥羊直播",
       "url": "https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/cctv.m3u",
@@ -63,12 +57,6 @@
       "name": "🐬主力合集",
       "type": 0,
       "url": "http://ke.html-5.me/i/38374.txt"
-    },
-    {
-      "name": "🐬帅锅专用",
-      "url": "https://d.kstore.dev/download/9368/%E5%B8%85%E9%94%85%E4%B8%93%E7%94%A8.txt",
-      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
-      "timeout": 10
     }
   ],
   "sites": [
