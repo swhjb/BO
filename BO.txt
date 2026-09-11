@@ -27,12 +27,6 @@
       "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
       "url": "https://seep.eu.org/https://live.445569.xyz/live.m3u"
     },
-    {
-      "name": "🐬CATVOD",
-      "url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
-      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
-      "timeout": 10
-    },
 
     {
       "name": "🐬肥羊直播",
@@ -83,7 +77,6 @@
     }
   ]
 }
-
 
 
 
