@@ -35,11 +35,9 @@
     },
     {
       "name": "央視頻",
-      "url": "https://capi.yangshipin.cn/api/oms/pc/navigation/home_top_nav",
-      "api": "https://d.kstore.dev/download/9368/cctv/yangshipin.py",
-      "ext": "https://d.kstore.dev/download/9368/cctv/yangshipin.json",
+      "url": "https://gh-proxy.org/https://capi.yangshipin.cn/api/oms/pc/navigation/home_top_nav",
+      json",
       "epg": "https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz",
-      "timeZone": "Asia/Shanghai",
       "timeout": 30
     },
     {
@@ -51,7 +49,7 @@
     },
     {
       "name": "🐬肥羊直播",
-      "url": "https://live.ottiptv.cc/iptv.m3u?userid=895642917&sign=6102d99131e6fccf4085964aa73e017dce6d0405546832c5a7464f7c26e8c792b1bfb7176171ba90696cb726d74e33c1f3ec7781dd30c5a6be699500a911714f2f5448278b88&auth_token=7bd68f589dd57be44397cae6e387d1a2",
+      "url": "https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/cctv.m3u",
       "timeout": 10,
       "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
       "ua": "okHttp/Mod-1.5.0.0 "
