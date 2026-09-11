@@ -31,7 +31,7 @@
       "name": "🐬CATVOD",
       "url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
       "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
-      "timeout":
+      timeout": 10,
     },
 
     {
@@ -52,6 +52,18 @@
       "type": 0,
       "ua": "okhttp",
       "url": "http://tv123.vvvv.ee/tv.m3u"
+    },
+{
+      "name": "🐬央视频",
+      "type": 0,
+      "timeout": 30,
+      "url": "https://gh-proxy.org/https://github.com/swhjb/BO/blob/main/cctv.m3u"
+    },
+{
+      "name": "🐬央视网",
+      "type": 0,
+       "timeout": 20,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/yangshipin.m3u"
     },
     {
       "name": "🐬主力合集",
