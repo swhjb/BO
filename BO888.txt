@@ -29,14 +29,6 @@
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg"
     },
     {
-      "name": "👖摸鱼儿",
-      "url": "https://6800.kstore.vip/fish.json"
-    },
-    {
-      "name": "🚀海报接口",
-      "url": "https://jk.catvod.site"
-    },
-    {
       "name": "👖嗷呜",
       "url": "http://www.2525666.xyz/tv"
     },
