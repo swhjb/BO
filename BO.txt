@@ -31,15 +31,8 @@
       "name": "🐬CATVOD",
       "url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
       "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
-      "timeout": 10
-    },
-    {
-      "name": "央視頻",
-      "url": "https://gh-proxy.org/https://capi.yangshipin.cn/api/oms/pc/navigation/home_top_nav",
-      json",
-      "epg": "https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz",
-      "timeout": 30
-    },
+      "timeout":
+},
     {
       "name": "央視官網",
       "url": "https://tv.cctv.com/live/",
