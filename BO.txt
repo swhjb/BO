@@ -1,73 +1,61 @@
 {
   "lives": [
-    {
-      "name": "🐬王子直播",
-      "type": 0,
-      "url": "http://wangziduoqing.com/yuan/zb.txt",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "🐬裤佬TV",
-      "type": 0,
+      {
+      "name": "🐬ACGF",
       "ua": "okhttp",
-      "url": "https://seep.eu.org/https://live.445569.xyz/live.m3u"
+      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
+      "url": "https://iptv.852851.xyz/sub/bwQfdMcUYrjq/playlist.m3u"
     },
-    {
+  {
       "name": "🐬易发源",
       "type": 0,
       "ua": "okhttp",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
       "playerType": 2,
+      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
+      "timeout": 10
+    },
+
+    {
+      "name": "🐬裤佬TV",
+      "ua": "okhttp",
+      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
+      "url": "https://seep.eu.org/https://live.445569.xyz/live.m3u"
+    },
+    {
+      "name": "🐬CATVOD",
+      "url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
+      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
       "timeout": 10
     },
     {
-      "name": "🐬国内直播",
-      "type": 0,
-      "url": "https://live.264788.xyz/sub/02RPbmeLB8C0HDe7iLrOFHq6xlv9vQ",
-      "playerType": 2,
-      "timeout": 10
+      "name": "央視頻",
+      "url": "https://capi.yangshipin.cn/api/oms/pc/navigation/home_top_nav",
+      "api": "https://d.kstore.dev/download/9368/cctv/yangshipin.py",
+      "ext": "https://d.kstore.dev/download/9368/cctv/yangshipin.json",
+      "epg": "https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz",
+      "timeZone": "Asia/Shanghai",
+      "timeout": 30
     },
     {
-      "name": "🐬世界怀（IPTV源）",
-      "type": 0,
-      "url": "http://82.156.243.185:33389/fwc.m3u",
-      "playerType": 2,
-      "timeout": 10
+      "name": "央視官網",
+      "url": "https://tv.cctv.com/live/",
+      "api": "https://d.kstore.dev/download/9368/cctv/cctv.py",
+      "ext": "https://d.kstore.dev/download/9368/cctv/cctv.json",
+      "timeout": 20
     },
     {
-      "name": "🐬世界怀（咖啡源）",
-      "type": 0,
-      "url": "https://iptv.catvod.com/kf/catvod.m3u",
-      "playerType": 2,
-      "timeout": 10
+      "name": "🐬肥羊直播",
+      "url": "https://live.ottiptv.cc/iptv.m3u?userid=895642917&sign=6102d99131e6fccf4085964aa73e017dce6d0405546832c5a7464f7c26e8c792b1bfb7176171ba90696cb726d74e33c1f3ec7781dd30c5a6be699500a911714f2f5448278b88&auth_token=7bd68f589dd57be44397cae6e387d1a2",
+      "timeout": 10,
+      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
+      "ua": "okHttp/Mod-1.5.0.0 "
     },
-    {
-      "name": "🐬世界怀（OK源）",
-      "type": 0,
-      "url": "https://iptv.catvod.com/ok/catvod.m3u",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "🐬世界怀（88源）",
-      "type": 0,
-      "url": "https://iptv.catvod.com/88/catvod.m3u",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
+ {
       "name": "🐬各大源合集",
       "type": 0,
       "ua": "okhttp/5.3.2",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
-    },
-    {
-      "name": "🐬MYTV",
-      "type": 0,
-      "url": "https://cdn.qd.je/live.m3u",
-      "playerType": 2,
-      "timeout": 10
     },
     {
       "name": "🐬港奥台国际",
@@ -76,72 +64,14 @@
       "url": "http://tv123.vvvv.ee/tv.m3u"
     },
     {
-      "name": "🐬风云源",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "http://iptv.4666888.xyz/FYTV.txt"
-    },
-    {
-      "name": "jackTV",
-      "type": 0,
-      "url": "🐬https://php.946985.filegear-sg.me/jackTV.m3u",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "🐬小新直播",
-      "type": 0,
-      "url": "http://ko.zoho.to/i/%E5%B0%8F%E6%98%A5%E7%9B%B4%E6%92%AD.txt",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "🐬简单直播",
-      "type": 0,
-      "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "🐬澜露直播",
-      "type": 0,
-      "url": "https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "🐬CATVOD",
-      "type": 0,
-      "url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "🐬飞扬源",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "🐬肥羊直播",
-      "type": 0,
-      "url": "https://live.ottiptv.cc/iptv.m3u?userid=895642917&sign=e40f80a1cbede34b3f32e0e137db89b9177cd120e096a6e6f15fbd730015345b7be0f54c33e57886bd03e9f61648e78fc165dd2a47afb9834269fed72a6d8a86f2606dbc77d2&auth_token=7bd68f589dd57be44397cae6e387d1a2",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0 "
-    },
-    {
       "name": "🐬主力合集",
       "type": 0,
       "url": "http://ke.html-5.me/i/38374.txt"
     },
     {
       "name": "🐬帅锅专用",
-      "type": 0,
       "url": "https://d.kstore.dev/download/9368/%E5%B8%85%E9%94%85%E4%B8%93%E7%94%A8.txt",
-      "playerType": 2,
+      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
       "timeout": 10
     }
   ],
@@ -157,3 +87,12 @@
     }
   ]
 }
+
+
+
+
+
+
+
+
+
