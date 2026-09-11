@@ -98,7 +98,7 @@
     },
     {
       "name": "🌨帅锅直播🌨",
-      "url": "https://gh-proxy.org/https://github.com/swhjb/BO/blob/main/BO888.txt"
+      "url": "https://gh-proxy.org/https://github.com/swhjb/BO/blob/main/BO.txt"
     }
   ]
 }
