@@ -98,7 +98,7 @@
     },
     {
       "name": "🌨帅锅专用🌨",
-      "url": "https://d.kstore.dev/download/9368/BO.txt"
+      "url": "https://gh-proxy.org/https://github.com/swhjb/BO/blob/main/BO888.txt"
     }
   ]
 }
