@@ -33,13 +33,6 @@
       "url": "https://seep.eu.org/https://live.445569.xyz/live.m3u"
     },
 
-    {
-      "name": "🐬肥羊直播",
-      "url": "https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/cctv.m3u",
-      "timeout": 10,
-      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
-      "ua": "okHttp/Mod-1.5.0.0 "
-    },
  {
       "name": "🐬各大源合集",
       "type": 0,
