@@ -35,7 +35,7 @@
   "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
 },
 {
-  "name": "地方直播2",
+  "name": "地方直播",
   "type": 0,
   "ua": "okhttp/5.3.2",
   "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
