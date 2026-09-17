@@ -44,12 +44,7 @@
   "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
 },
 
-{
-  "name": "全球直播",
-  "type": 0,
-  "ua": "okhttp/5.3.2",
-  "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/%E5%85%A8%E7%90%83%E7%9B%B4%E6%92%AD.m3u"
-},
+
 {
   "name": "咪咕直播",
   "type": 0,
