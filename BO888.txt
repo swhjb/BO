@@ -49,10 +49,6 @@
       "url": "http://nn.4688888.xyz/common.json"
     },
     {
-      "name": "📺vox",
-      "url": "http://rihou.cc:88/demo.php"
-    },
-    {
       "name": "👖盒子迷",
       "url": "https://盒子迷.top/禁止贩卖"
     },
