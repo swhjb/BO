@@ -22,15 +22,9 @@
       "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
       "timeout": 10
     },
- {
-  "name": "综合直播 ",
-  "type": 0,
-  "playerType": 2,
-  "ua": "okhttp",
-  "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"
-}, 
+
 {
-  "name": "风云源 永久免费如有收费的都是骗子",
+  "name": "风云源",
   "type": 0,
   "ua": "okhttp",
   "url": "http://iptv.4666888.xyz/FYTV.txt"
