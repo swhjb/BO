@@ -21,12 +21,6 @@
   "url": "http://iptv.4666888.xyz/FYTV.txt"
 }, 
 {
-  "name": "各大源合集",
-  "type": 0,
-  "ua": "okhttp/5.3.2",
-  "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
-},
-{
   "name": "地方直播",
   "type": 0,
   "ua": "okhttp/5.3.2",
