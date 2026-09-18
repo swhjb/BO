@@ -1,6 +1,16 @@
 {
   "lives": [
 
+    {
+      "name": "🐬易发源",
+      "type": 0,
+      "ua": "okhttp",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
+      "timeout": 10
+    },
+
 {
 
       "name": "🐬ACGF",
@@ -40,15 +50,7 @@
   "ua": "okhttp/5.3.2",
   "url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
 },
-    {
-      "name": "🐬易发源",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
-      "playerType": 2,
-      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
-      "timeout": 10
-    },
+
  {
       "name": "🐬各大源合集",
       "type": 0,
