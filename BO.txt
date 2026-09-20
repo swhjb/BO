@@ -64,6 +64,15 @@
       "url": "http://tv123.vvvv.ee/tv.m3u"
     },
 {
+      "name": "🐬网页",
+      "type": 0,
+      "timeout": 30,
+      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
+      "url": "https://gh-proxy.org/https://github.com/buhanzhe/webSourceM3U8/releases/latest/download/webview.txt"
+    },
+
+
+{
       "name": "🐬央视频",
       "type": 0,
       "timeout": 30,
