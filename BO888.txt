@@ -13,10 +13,6 @@
       "url": "http://肥猫.net/tv"
     },
     {
-      "name": "🚀潇洒",
-      "url": "https://9877.kstore.space/one.json"
-    },
-    {
       "name": "🧙‍♀️莱妮丝",
       "url": "https://tv.菜妮丝.top"
     },
@@ -24,14 +20,7 @@
       "name": "🚀裤佬",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg"
     },
-    {
-      "name": "👖嗷呜",
-      "url": "http://www.2525666.xyz/tv"
-    },
-    {
-      "name": "🚀无意云",
-      "url": "https://ym.wya6.cn/"
-    },
+
 
     {
       "name": "🚀王大湿（球类）",
@@ -41,10 +30,7 @@
       "name": "🚀小虎斑",
       "url": "http://hb.小虎斑.site:25252/仅供测试"
     },
-{
-      "name": "🚀摸鱼",
-      "url": "http://www.y456y.com"
-    },
+
     {
       "name": "🚀牛马",
       "url": "http://nn.4688888.xyz/common.json"
@@ -80,10 +66,6 @@
     {
       "name": "👖宝盒",
       "url": "https://3043.kstore.space/bhvip/bh/bhkj.json "
-    },
-    {
-      "name": "👖真心本地包",
-      "url": "https://www.252035.xyz/z/FongMi.json"
     },
     {
       "name": "🌨帅锅直播🌨",
