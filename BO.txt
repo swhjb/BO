@@ -13,7 +13,6 @@
 
       "name": "🐬ACGF",
       "ua": "okhttp",
-      "epg": "http://epg.51zmt.top-8000/e1.xml.gz",
       "url": "https://iptv.852851.xyz/sub/bwQfdMcUYrjq/playlist.m3u"
     },
      {
@@ -70,19 +69,19 @@
       "name": "🐬MYTV(翻)",
       "type": 0,
       "timeout": 10,
-      "url": "https://cdn.qd.je/live.m3u",
+      "url": "https://cdn.qd.je/live.m3u"
     },
 {
       "name": "🐬IPTV研究所(翻)",
       "type": 0,
       "timeout": 30,
-      "url": "https://iptv.852851.xyz/sub/bwQfdMcUYrjq/playlist.m3u",
+      "url": "https://iptv.852851.xyz/sub/bwQfdMcUYrjq/playlist.m3u"
     },
 {
       "name": "🐬益力多(翻)",
       "type": 0,
       "timeout": 10,
-      "url": "https://iptv.yang-1989.xyz/playlist.m3u",
+      "url": "https://iptv.yang-1989.xyz/playlist.m3u"
     },
 {
       "name": "🐬央视频",
