@@ -67,19 +67,19 @@
       "url": "https://gh-proxy.org/https://github.com/buhanzhe/webSourceM3U8/releases/latest/download/webview.txt"
     },
 {
-      "name": "🐬MYTV(VPN)",
+      "name": "🐬MYTV(翻)",
       "type": 0,
       "timeout": 10,
       "url": "https://cdn.qd.je/live.m3u",
     },
 {
-      "name": "🐬IPTV研究所",
+      "name": "🐬IPTV研究所(翻)",
       "type": 0,
       "timeout": 30,
       "url": "https://iptv.852851.xyz/sub/bwQfdMcUYrjq/playlist.m3u",
     },
 {
-      "name": "🐬益力多",
+      "name": "🐬益力多(翻)",
       "type": 0,
       "timeout": 10,
       "url": "https://iptv.yang-1989.xyz/playlist.m3u",
