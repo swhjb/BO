@@ -78,7 +78,7 @@
       "url": "https://iptv.yang-1989.xyz/playlist.m3u"
     },
     {
-      "name": "🐬央视频",
+      "name": "🐬央视网源",
       "type": 0,
       "timeout": 10,
       "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
