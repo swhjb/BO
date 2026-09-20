@@ -17,10 +17,6 @@
       "url": "https://9877.kstore.space/one.json"
     },
     {
-      "name": "🚀小米",
-      "url": "https://zzzy.shop/tv/"
-    },
-    {
       "name": "🧙‍♀️莱妮丝",
       "url": "https://tv.菜妮丝.top"
     },
