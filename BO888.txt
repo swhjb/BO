@@ -20,8 +20,10 @@
       "name": "🚀裤佬",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg"
     },
-
-
+    {
+      "name": "🚀嗷呜",
+      "url": "http://www.英格里希嗷呜.top/tv"
+    },
     {
       "name": "🚀王大湿（球类）",
       "url": "http://rihou.cc:555/nzk/nzk0722.json"
