@@ -19,15 +19,7 @@
       "url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
       "timeout": 10
     },
-		{
-            "name": "🐬4GTV",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://4gtv.cnlive.club/4gtv.m3u"
-        },
-
-
-{
+    {  
             "name": "🐬海豚综合",
             "type": 0,
             "playerType": 2,
