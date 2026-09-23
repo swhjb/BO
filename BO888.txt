@@ -32,7 +32,6 @@
       "name": "🚀小虎斑",
       "url": "http://hb.小虎斑.site:25252/仅供测试"
     },
-
     {
       "name": "🚀牛马",
       "url": "http://nn.4688888.xyz/common.json"
@@ -76,6 +75,17 @@
     {
       "name": "🌨帅锅直播🌨",
       "url": "https://gh-proxy.org/https://github.com/swhjb/BO/blob/main/BO.txt"
+    }
+  ],
+  "sites": [
+    {
+      "key": "只能直播",
+      "name": "只能直播,菜单键换源，点播设置换",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     }
   ]
 }
