@@ -202,6 +202,7 @@
       "name": "🐬帅锅专用",
       "url": "https://d.kstore.dev/download/9368/%E5%B8%85%E9%94%85%E4%B8%93%E7%94%A8.txt",
       "timeout": 10
+    },
 		{
 			"name": "🐬jackTV(梯子)",
 			"type": 0,
