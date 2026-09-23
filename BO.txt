@@ -89,12 +89,6 @@
             "ua": "okhttp",
             "url": "https://cdn.qd.je/live.m3u"
         },
-        {
-            "name": "🐬新加坡(梯子)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://xtvantsc.xyz/新加坡.m3u"
-        },
 
        {
             "name": "🐬飞扬源",
