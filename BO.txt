@@ -7,7 +7,7 @@
 			"url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
 		},
     {
-      "name": "🐬易发源",/
+      "name": "🐬易发源",
       "type": 0,
       "ua": "okhttp",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
@@ -83,7 +83,7 @@
             "ua": "okhttp",
             "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
         },
-        {
+      {
             "name": "🐬Mytv",
             "type": 0,
             "ua": "okhttp",
@@ -95,18 +95,7 @@
             "ua": "okhttp",
             "url": "http://xtvantsc.xyz/新加坡.m3u"
         },
-	    {
-            "name": "🐬黄蚂蚁先锋推流源",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt"
-        },
-        {
-            "name": "🐬风云源",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://iptv.4666888.xyz/FYTV.txt"
-        }, 
+
        {
             "name": "🐬飞扬源",
             "type": 0,
