@@ -7,7 +7,7 @@
 			"url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
 		},
     {
-      "name": "🐬易发源",
+      "name": "🐬易发源",/
       "type": 0,
       "ua": "okhttp",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
@@ -58,70 +58,24 @@
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/bhmb.m3u"
         },   
 		{
-            "name": "🐬全球直播",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/%E5%85%A8%E7%90%83%E7%9B%B4%E6%92%AD.m3u"
-        },
-		{
             "name": "🐬咪咕直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "http://www.52top.com.cn:678/downloads/migu.txt"
         },
-		{
-            "name": "🐬iptv直播",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
-        },
+		
 		{
             "name": "🐬juli",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://files.catbox.moe/h3mb5a.txt"
         },	
-	    {
-            "name": "🐬小新TV",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://d.kstore.dev/download/9565/小新TV.txt"
-        },
-	    {
-            "name": "🐬台湾台",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://epg.pw/test_channels_taiwan.m3u"
-        },
-	    {
-            "name": "🐬体育台",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://82.156.243.185:33389/fwc.m3u"
-        },
+
 	    {
             "name": "🐬国际TV",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
-        },
-	    {
-            "name": "🐬裤佬TV",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
-        },
-		{
-            "name": "🐬裤佬TV2",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://tv.tmxk.kdns.fr/ex64181y"
-        },
-		{
-            "name": "🐬live.m3u",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://live.445569.xyz/live.m3u"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
         },
         {
             "name": "🐬Gather",
