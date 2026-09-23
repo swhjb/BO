@@ -51,7 +51,7 @@
     },
     {
       "name": "👖海豚",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/ok海豚常规663"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/ok海豚常规663"
     },
     {
       "name": "👖香雅情",
