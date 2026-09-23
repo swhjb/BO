@@ -1,17 +1,19 @@
 {
   "lives": [
     {
+      "name": "iptv直播",
+      "type": 0,
+      "ua": "okhttp/5.3.2",
+      "url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
+    }, 
+    {
       "name": "🐬易发源",
       "type": 0,
       "ua": "okhttp",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
       "timeout": 10
     },
-    {
-      "name": "🐬ACGF",
-      "ua": "okhttp",
-      "url": "https://iptv.852851.xyz/sub/bwQfdMcUYrjq/playlist.m3u"
-    },
+    
     {
       "name": "🐬CATVOD",
       "url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
@@ -35,13 +37,7 @@
       "ua": "okhttp/5.3.2",
       "url": "http://www.52top.com.cn:678/downloads/migu.txt"
     },
-    {
-      "name": "iptv直播",
-      "type": 0,
-      "ua": "okhttp/5.3.2",
-      "url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
-    },
-
+    
     {
       "name": "🐬港奥台国际",
       "type": 0,
@@ -72,7 +68,11 @@
       "timeout": 10,
       "url": "https://iptv.yang-1989.xyz/playlist.m3u"
     },
-    
+    {
+      "name": "🐬ACGF（翻）",
+      "ua": "okhttp",
+      "url": "https://iptv.852851.xyz/sub/bwQfdMcUYrjq/playlist.m3u"
+    },
     {
       "name": "🐬央视频",
       "type": 0,
