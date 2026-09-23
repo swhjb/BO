@@ -115,7 +115,7 @@
             "url": "https://t.freetv.fun/m3u/playlist_all.txt"
         },
 	    {
-            "name": "🐬4GTV怡淳酒店(梯子台湾节点)720p",
+            "name": "🐬4GTV(台湾节点)",
             "type": 0,
             "ua": "okhttp",
             "url": "http://xtvantsc.xyz/4gtv.txt"
@@ -127,23 +127,18 @@
       "ua": "okHttp/Mod-1.5.0.0 "
     },
 
-    {
-      "name": "🐬帅锅专用",
-      "url": "https://d.kstore.dev/download/9368/%E5%B8%85%E9%94%85%E4%B8%93%E7%94%A8.txt",
-      "timeout": 10
-    },
-		{
+	{
 			"name": "🐬jackTV(梯子)",
 			"type": 0,
 			"ua": "okhttp",
 			"url": "https://php.946985.filegear-sg.me/jackTV.m3u"
 		},
-		{
-			"name": "🐬MYTV(翻)",
-			"type": 0,
-			"timeout": 10,
-			"url": "shturl.cc/vliZiUXa8p3bjcS9"
-		},
+      {
+            "name": "🐬Mytv(翻)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://cdn.qd.je/live.m3u"
+        },
 		{
 			"name": "🐬IPTV研究所(翻)",
 			"type": 0,
