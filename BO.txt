@@ -63,13 +63,6 @@
 "ua": "okhttp/5.3.2",
 "url": "http://www.52top.com.cn:678/downloads/migu.txt"
 },
-
-{
-"name": "🐬juli",
-"type": 0,
-"ua": "okhttp/5.3.2",
-"url": "https://files.catbox.moe/h3mb5a.txt"
-},
 {
 "name": "🐬国际 TV",
 "type": 0,
@@ -77,28 +70,10 @@
 "url": "https://gh-proxy.org/https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
 },
 {
-"name": "🐬Gather",
-"type": 0,
-"ua": "okhttp",
-"url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
-},
-{
-"name": "🐬飞扬源",
-"type": 0,
-"ua": "okhttp",
-"url": "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt"
-},
-{
 "name": "🐬港奥台国际",
 "type": 0,
 "ua": "okhttp",
 "url": "http://tv123.vvvv.ee/tv.m3u"
-},
-{
-"name": "🐬中港台直播源",
-"type": 0,
-"ua": "okhttp",
-"url": "https://t.freetv.fun/m3u/playlist_all.txt"
 },
 {
 "name": "🐬4GTV (台湾节点)",
