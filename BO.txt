@@ -19,7 +19,7 @@
 			"timeout": 10
 		},
 		{
-			"name": "🐬海豚综合直播",
+			"name": "🐬海豚综合",
 			"type": 0,
 			"playerType": 2,
 			"ua": "okhttp",
@@ -44,7 +44,7 @@
 			"url": "shturl.cc/xdhhzHW0gMzAtEOejOPozVl3RatTknPuLjeJVWemxNcTq47nsUlLh4oZDEfgSM4NPlSoGqNDU4xVkTPjehOvbaeVgA3VEAUPHw8fk0JZKMuYsBLI1SAgGOUVGa3Sd"
 		},
 		{
-			"name": "🐬4GTV(免梯子)1080p",
+			"name": "🐬4GTV(免梯子)",
 			"type": 0,
 			"ua": "okhttp",
 			"url": "http://4gtv.cnlive.club/4gtv.m3u"
