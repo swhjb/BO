@@ -1,5 +1,5 @@
 {
-  "lives": [
+  "urls": [
     {
       "name": "🚀饭太硬",
       "url": "https://www.饭太硬.cc/tv"
