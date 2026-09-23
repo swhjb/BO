@@ -6,126 +6,129 @@
 			"ua": "okhttp/5.3.2",
 			"url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
 		},
-    {
-      "name": "🐬易发源",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "🐬CATVOD",
-      "url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
-      "timeout": 10
-    },
-    {  
-            "name": "🐬海豚综合",
-            "type": 0,
-            "playerType": 2,
-            "ua": "okhttp",
+		{
+			"name": "🐬易发源",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "shturl.cc/ptT2lT1LMI0CRCgSDKe2puHD5LZQNMZc3ShXibuVOxBidgeDUEuZTGqPnIXEYVryuw2zD05wv3HU4t7eGnyxqNQh",
+			"playerType": 2,
+			"timeout": 10
+		},
+		{
+			"name": "🐬CATVOD",
+			"url": "shturl.cc/vt3f8DxPvuFme4yltnh7xNuhQJfBf2EQNOCM8cWByNSFHeTgNl",
+			"timeout": 10
+		},
+		{
+			"name": "🐬海豚综合",
+			"type": 0,
+			"playerType": 2,
+			"ua": "okhttp",
 			"url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"
-         },
+		},
 		{
-            "name": "🐬风云源",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://iptv.4666888.xyz/FYTV.txt"
-        },
+			"name": "🐬风云源",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "http://iptv.4666888.xyz/FYTV.txt"
+		},
 		{
-            "name": "🐬各大源合集",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
-        }, 	
-	     {
-            "name": "🐬电视家",
-            "type": 0,
-            "playerType": 2,
-             "ua": "okhttp",
-			 "url": "https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dsjcs.txt"
-         },	
-         {
-            "name": "🐬地方直播",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
-        },    
+			"name": "🐬各大源合集",
+			"type": 0,
+			"ua": "okhttp/5.3.2",
+			"url": "shturl.cc/kdUOnqlrtwgAvdhHnwMT9vdC0ciLyT20HC5xnb5OsWxYS7cVCyihkXKKwUdnpjMYnoIv1DuD9LlDvzTGm6"
+		},
 		{
-            "name": "🐬薄荷直播",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/bhmb.m3u"
-        },   
+			"name": "🐬电视家",
+			"type": 0,
+			"playerType": 2,
+			"ua": "okhttp",
+			"url": "shturl.cc/E3HWkb7lNpEJ72jws5hyuH7XwGlgZjVPMLgzW0Px4g9TrMN9Qw25FPihElsM"
+		},
 		{
-            "name": "🐬咪咕直播",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "http://www.52top.com.cn:678/downloads/migu.txt"
-        },
-		
+			"name": "🐬地方直播",
+			"type": 0,
+			"ua": "okhttp/5.3.2",
+			"url": "shturl.cc/Ok2uMxVRGK2jBI3f8NeKSmGr2sqT4wTySuCQsYlYjD72YdKypCmC3mW1CC3kK0LRhqdqpJLGLYyTIno3uWqjuv"
+		},
 		{
-            "name": "🐬juli",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://files.catbox.moe/h3mb5a.txt"
-        },	
-
-	    {
-            "name": "🐬国际TV",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
-        },
-        {
-            "name": "🐬Gather",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
-        },
-       {
-            "name": "🐬飞扬源",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt"
-        },
-	    {
-            "name": "🐬港奥台国际",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://tv123.vvvv.ee/tv.m3u"
-        },
-        {
-            "name": "🐬中港台直播源",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://t.freetv.fun/m3u/playlist_all.txt"
-        },
-	    {
-            "name": "🐬4GTV(台湾节点)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://xtvantsc.xyz/4gtv.txt"
-        },
-    {
-      "name": "🐬肥羊直播",
-      "url": "https://live.ottiptv.cc/iptv.m3u?userid=895642917&sign=6102d99131e6fccf4085964aa73e017dce6d0405546832c5a7464f7c26e8c792b1bfb7176171ba90696cb726d74e33c1f3ec7781dd30c5a6be699500a911714f2f5448278b88&auth_token=7bd68f589dd57be44397cae6e387d1a2",
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0 "
-    },
-
-	{
+			"name": "🐬薄荷直播",
+			"type": 0,
+			"ua": "okhttp/5.3.2",
+			"url": "shturl.cc/seU9MXOqh90bQXdXhxmR5cv2AMz2kn0j3gVZ3URmiCVp9Wtezncq0TngncksJTeSAGHt09HFSk8Zw9QgzWYSaXVRvE4YY"
+		},
+		{
+			"name": "🐬咪咕直播",
+			"type": 0,
+			"ua": "okhttp/5.3.2",
+			"url": "http://www.52top.com.cn:678/downloads/migu.txt"
+		},
+		{
+			"name": "🐬juli",
+			"type": 0,
+			"ua": "okhttp/5.3.2",
+			"url": "https://files.catbox.moe/h3mb5a.txt"
+		},
+		{
+			"name": "🐬国际TV",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "shturl.cc/6daEvJJ62ZZ6gyHmyD1E0CFFGa5iTlvLpsT1gCNazf8u3NJ72XhH7XT4vtwJqVcSKAJlPuyiKTStYGl5nPYhx"
+		},
+		{
+			"name": "🐬Gather",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
+		},
+		{
+			"name": "🐬Mytv",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "shturl.cc/aSkLjux9wjRi434L"
+		},
+		{
+			"name": "🐬新加坡(梯子)",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "http://xtvantsc.xyz/新加坡.m3u"
+		},
+		{
+			"name": "🐬飞扬源",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "shturl.cc/223cmDHuJmtcrwUmIT52jHH0Yc1VLwXY09buWVydBYwzTqibijve4CAlp8"
+		},
+		{
+			"name": "🐬港奥台国际",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "http://tv123.vvvv.ee/tv.m3u"
+		},
+		{
+			"name": "🐬中港台直播源",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "https://t.freetv.fun/m3u/playlist_all.txt"
+		},
+		{
+			"name": "🐬4GTV(台湾节点)",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "http://xtvantsc.xyz/4gtv.txt"
+		},
+		{
+			"name": "🐬肥羊直播",
+			"url": "https://live.ottiptv.cc/iptv.m3u?userid=895642917&sign=6102d99131e6fccf4085964aa73e017dce6d0405546832c5a7464f7c26e8c792b1bfb7176171ba90696cb726d74e33c1f3ec7781dd30c5a6be699500a911714f2f5448278b88&auth_token=7bd68f589dd57be44397cae6e387d1a2",
+			"timeout": 10,
+			"ua": "okHttp/Mod-1.5.0.0 "
+		},
+		{
 			"name": "🐬jackTV(梯子)",
 			"type": 0,
 			"ua": "okhttp",
 			"url": "https://php.946985.filegear-sg.me/jackTV.m3u"
 		},
-      {
-            "name": "🐬Mytv(翻)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://cdn.qd.je/live.m3u"
-        },
 		{
 			"name": "🐬IPTV研究所(翻)",
 			"type": 0,
@@ -142,12 +145,6 @@
 			"name": "🐬ACGF（翻）",
 			"ua": "okhttp",
 			"url": "https://iptv.852851.xyz/sub/bwQfdMcUYrjq/playlist.m3u"
-		},
-		{
-			"name": "🐬新加坡(梯子)",
-			"type": 0,
-			"ua": "okhttp",
-			"url": "http://xtvantsc.xyz/新加坡.m3u"
 		},
 		{
 			"name": "🐬央视频",
