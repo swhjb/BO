@@ -4,7 +4,7 @@
 			"name": "🐬iptv直播",
 			"type": 0,
 			"ua": "okhttp/5.3.2",
-			"url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
+			"url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"，
 		},
 		{
 			"name": "🐬易发源",
