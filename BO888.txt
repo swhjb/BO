@@ -37,6 +37,10 @@
       "url": "http://nn.4688888.xyz/common.json"
     },
     {
+      "name": "🚀潇洒",
+      "url": "https://qist.wyfc.qzz.io/xiaosa/api.json"
+    },
+    {
       "name": "👖盒子迷",
       "url": "https://盒子迷.top/禁止贩卖"
     },
