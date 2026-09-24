@@ -58,13 +58,7 @@
 "url": "http://www.52top.com.cn:678/downloads/migu.txt"
 },
 {
-"name": "🐬国际 TV",
-"type": 0,
-"ua": "okhttp",
-"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
-},
-{
-"name": "🐬港奥台国际",
+"name": "🐬港奥台国际（翻）",
 "type": 0,
 "ua": "okhttp",
 "url": "http://tv123.vvvv.ee/tv.m3u"
