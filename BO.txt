@@ -1,5 +1,11 @@
 {
 "lives": [
+
+{
+"name": "🐬CATVOD",
+"url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
+"timeout": 10
+},
 {
 "name": "🐬iptv 直播",
 "type": 0,
@@ -14,11 +20,7 @@
 "playerType": 2,
 "timeout": 10
 },
-{
-"name": "🐬CATVOD",
-"url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
-"timeout": 10
-},
+
 {
 "name": "🐬海豚综合",
 "type": 0,
