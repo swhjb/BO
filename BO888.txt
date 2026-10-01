@@ -9,6 +9,10 @@
       "url": "https://9280.kstore.vip/aiwex.json"
     },
     {
+      "name": "🚀蝴蝶",
+      "url": "https://sub.lytvs.top/get?token=cj_056b53bb"
+    },
+    {
       "name": "🚀肥猫",
       "url": "http://肥猫.net/tv"
     },
