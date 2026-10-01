@@ -123,6 +123,11 @@
 "type": 0,
 "timeout": 20,
 "url": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/yangshipin.m3u"
+},
+{
+"name": "🐬帅锅专用",
+"url": "https://dl.kstore.dev/download/9368/%E5%B8%85%E9%94%85%E4%B8%93%E7%94%A8.txt",
+"timeout": 10
 }
 ],
 "sites": [
