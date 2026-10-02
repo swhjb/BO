@@ -57,10 +57,6 @@
       "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
     },
     {
-      "name": "👖海豚",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/ok海豚常规663"
-    },
-    {
       "name": "👖香雅情",
       "url": "https://play.iptv365.org/香雅情/api.json"
     },
