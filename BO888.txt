@@ -5,21 +5,18 @@
       "url": "https://www.饭太硬.cc/tv"
     },
     {
-      "name": "🚀王二小",
-      "url": "https://9280.kstore.vip/aiwex.json"
-    },
-    {
       "name": "🚀蝴蝶",
       "url": "https://sub.lytvs.top/get?token=cj_056b53bb"
+    },
+    {
+      "name": "🚀王二小",
+      "url": "https://9280.kstore.vip/aiwex.json"
     },
     {
       "name": "🚀肥猫",
       "url": "http://肥猫.net/tv"
     },
-    {
-      "name": "🧙‍♀️莱妮丝",
-      "url": "https://tv.菜妮丝.top"
-    },
+
     {
       "name": "🚀裤佬",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg"
@@ -39,6 +36,10 @@
     {
       "name": "🚀牛马",
       "url": "http://nn.4688888.xyz/common.json"
+    },
+    {
+      "name": "🧙‍♀️莱妮丝",
+      "url": "https://tv.菜妮丝.top"
     },
     {
       "name": "🚀潇洒",
@@ -72,10 +73,7 @@
       "name": "👖软件小哥哥",
       "url": "http://47.96.82.41:5188/svip/svip.json"
     },
-    {
-      "name": "👖宝盒",
-      "url": "https://3043.kstore.space/bhvip/bh/bhkj.json "
-    },
+
     {
       "name": "🌨帅锅直播🌨",
       "url": "https://gh-proxy.org/https://github.com/swhjb/BO/blob/main/BO.txt"
