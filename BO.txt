@@ -134,6 +134,7 @@
       "api": "https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/gdtv.py",
       "timeZone": "Asia/Shanghai",
       "timeout": 30
+    },
 {
 "name": "🐬帅锅专用",
 "url": "https://dl.kstore.dev/download/9368/%E5%B8%85%E9%94%85%E4%B8%93%E7%94%A8.txt",
