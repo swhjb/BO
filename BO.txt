@@ -107,10 +107,10 @@
 "url": "https://iptv.852851.xyz/sub/bwQfdMcUYrjq/playlist.m3u"
 },
 {
-"name": "🐬新加坡 (梯子)",
+"name": "🐬网页源",
 "type": 0,
 "ua": "okhttp",
-"url": "http://xtvantsc.xyz/新加坡.m3u"
+"url": "https://gh-proxy.org/https://github.com/buhanzhe/webSourceM3U8/releases/latest/download/webview.txt"
 },
     {
       "name": "央视频",
