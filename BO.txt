@@ -104,7 +104,7 @@
 		{
 			"name": "🐬ACGF（翻）",
 			"ua": "okhttp",
-			"url": "https://iptv.852851.xyz/sub/bwQfdMcUYrjq/playlist.m3u"
+			"url": "https://good.852851.xyz/sub/rvk5DMk5AD0B/playlist.m3u"
 		},
 		{
 			"name": "🐬网页源",
