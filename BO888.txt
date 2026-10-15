@@ -16,7 +16,10 @@
       "name": "🚀肥猫",
       "url": "http://肥猫.net/tv"
     },
-
+    {
+      "name": "🚀catvod",
+      "url": "https://iptv.catvod.com/config.json"
+    },
     {
       "name": "🚀裤佬",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg"
