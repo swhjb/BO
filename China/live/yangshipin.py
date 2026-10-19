@@ -10,6 +10,7 @@ import tempfile
 import threading
 import time
 from collections import OrderedDict
+from contextlib import contextmanager, suppress
 from urllib.parse import quote, unquote, urlparse
 
 from Crypto.Cipher import AES
@@ -185,6 +186,23 @@ def _remaining(deadline, stage):
     if remaining <= 0:
         raise _ProxyError(504, stage + ": 取址逾時")
     return remaining
+
+
+@contextmanager
+def _timing(stage):
+    started = time.perf_counter()
+    success = False
+    try:
+        yield
+        success = True
+    finally:
+        record = json.dumps({
+            "stage": stage,
+            "ms": round((time.perf_counter() - started) * 1000, 1),
+            "ok": success,
+        }, separators=(",", ":"))
+        with suppress(OSError, ValueError):
+            print("YSP timing " + record)
 
 
 def _net_response(net, url, timeout, headers=None, params=None, buffer=0, data=None,
@@ -396,10 +414,12 @@ class _PlayerApi:
         _remaining(deadline, "簽名初始化")
 
     def resolve(self, pid, cnlid, deadline):
-        self._update_keygen(deadline)
+        with _timing("keygen"):
+            self._update_keygen(deadline)
         guid = "{}_{}".format(self._base36(int(time.time() * 1000)), _random_text(11))
         with self._session(guid) as session:
-            auth = self._auth(session, pid, guid, deadline)
+            with _timing("auth"):
+                auth = self._auth(session, pid, guid, deadline)
             timestamp = str(int(time.time() + 0.5))
             params = {
                 "cnlid": cnlid,
@@ -425,9 +445,10 @@ class _PlayerApi:
             headers["yspticket"] = _ticket(pid, str(auth["ts"]), guid)
             params["rand_str"] = _random_text()
             params["signature"] = _signature(params, REQUEST_SALT)
-            result = self._request_json(
-                session, PLAYER_URL + "get_live_info", deadline, "取得播放資訊", data=params, headers=headers
-            )
+            with _timing("play_info"):
+                result = self._request_json(
+                    session, PLAYER_URL + "get_live_info", deadline, "取得播放資訊", data=params, headers=headers
+                )
         if result.get("code") != 0:
             raise _ProxyError(502, "取得播放資訊: " + str(result.get("msg") or "play api rejected channel"))
         data = result.get("data") or {}
@@ -472,26 +493,29 @@ class _PlayerApi:
             "version": "v1",
             "query": "object",
         }
-        token_random = self.keygen.token_random(state)
-        result = self._request_json(
-            session, OPEN_TOKEN_URL, deadline, "簽名授權",
-            params={
-                "yspappid": YSP_APP_ID,
-                "guid": guid,
-                "vappid": OPEN_VAPP_ID,
-                "vsecret": OPEN_VSECRET,
-                "raw": 1,
-                "version": "v1",
-                "ts": state["ts"],
-                "rnd": token_random,
-            },
-        )
+        with _timing("token_random"):
+            token_random = self.keygen.token_random(state)
+        with _timing("open_token"):
+            result = self._request_json(
+                session, OPEN_TOKEN_URL, deadline, "簽名授權",
+                params={
+                    "yspappid": YSP_APP_ID,
+                    "guid": guid,
+                    "vappid": OPEN_VAPP_ID,
+                    "vsecret": OPEN_VSECRET,
+                    "raw": 1,
+                    "version": "v1",
+                    "ts": state["ts"],
+                    "rnd": token_random,
+                },
+            )
         data = result.get("data") or {}
         if not data.get("token"):
             raise _ProxyError(502, "簽名授權: " + str(result.get("msg") or "open token failed"))
         state["token"] = data["token"]
         state["input"] = composite
-        sdk_signature = self.keygen.signature(state) + "-" + composite
+        with _timing("signature"):
+            sdk_signature = self.keygen.signature(state) + "-" + composite
         return {
             "Content-Type": "application/json;charset=UTF-8",
             "yspsdkinput": sdk_input,
@@ -593,7 +617,8 @@ class Spider(BaseSpider):
 
     def _warm_player(self):
         try:
-            player = _PlayerApi(self.net, time.monotonic() + PLAYER_BUDGET)
+            with _timing("warmup"):
+                player = _PlayerApi(self.net, time.monotonic() + PLAYER_BUDGET)
             with self.player_lock:
                 if not self.destroyed:
                     self.player = player
@@ -696,23 +721,30 @@ class Spider(BaseSpider):
         key = "play:" + pid + ":" + cnlid
         if refresh:
             self.net.clearCache(key)
-        return self.net.cached(key,
-                               {"ttl": PLAY_CACHE_SECONDS * 1000, "stale": False},
-                               lambda: self._resolve_player(pid, cnlid, deadline))
+        with _timing("resolve"):
+            return self.net.cached(key,
+                                   {"ttl": PLAY_CACHE_SECONDS * 1000, "stale": False},
+                                   lambda: self._resolve_player(pid, cnlid, deadline))
 
     def _resolve_player(self, pid, cnlid, deadline):
-        if not self.player_ready.wait(_remaining(deadline, "簽名初始化")):
-            raise _ProxyError(504, "簽名初始化: 等待逾時")
-        if not self.player_lock.acquire(timeout=_remaining(deadline, "播放取址")):
-            raise _ProxyError(504, "播放取址: 等待逾時")
+        with _timing("warmup_wait"):
+            if not self.player_ready.wait(_remaining(deadline, "簽名初始化")):
+                raise _ProxyError(504, "簽名初始化: 等待逾時")
+        acquired = False
         try:
+            with _timing("lock_wait"):
+                acquired = self.player_lock.acquire(timeout=_remaining(deadline, "播放取址"))
+                if not acquired:
+                    raise _ProxyError(504, "播放取址: 等待逾時")
             if self.destroyed:
                 raise _ProxyError(503, "播放服務已關閉")
             if self.player is None:
-                self.player = _PlayerApi(self.net, deadline)
+                with _timing("initialize"):
+                    self.player = _PlayerApi(self.net, deadline)
             return self.player.resolve(pid, cnlid, deadline)
         finally:
-            self.player_lock.release()
+            if acquired:
+                self.player_lock.release()
 
     def _load_channels(self, url, snapshot_url):
         try:
