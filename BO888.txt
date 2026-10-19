@@ -17,6 +17,10 @@
       "url": "https://iptv.catvod.com/config.json"
     },
     {
+      "name": "🚀摸鱼",
+      "url": "http://www.y456y.com"
+    },
+    {
       "name": "🚀裤佬",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg"
     },
