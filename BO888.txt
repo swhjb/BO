@@ -13,10 +13,6 @@
       "url": "https://9280.kstore.vip/aiwex.json"
     },
     {
-      "name": "🚀肥猫",
-      "url": "http://肥猫.net/tv"
-    },
-    {
       "name": "🚀catvod",
       "url": "https://iptv.catvod.com/config.json"
     },
