@@ -14,6 +14,12 @@
 			"playerType": 2,
 			"timeout": 10
 		},
+		{
+			"name": "🐬GTP研究所",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "https://good.852851.xyz/sub/mg0W5fjbakYM/playlist.m3u"
+		},
 
 		{
 			"name": "🐬海豚综合",
