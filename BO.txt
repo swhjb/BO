@@ -15,12 +15,28 @@
 			"timeout": 10
 		},
 		{
-			"name": "🐬GTP研究所",
-			"type": 0,
-			"ua": "okhttp",
-			"url": "https://good.852851.xyz/sub/mg0W5fjbakYM/playlist.m3u"
+			"name": "央视频",
+			"url": "https://capi.yangshipin.cn/api/oms/pc/navigation/home_top_nav",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/yangshipin.py",
+			"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/yangshipin.json",
+			"epg": "https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz",
+			"timeZone": "Asia/Shanghai",
+			"timeout": 30
 		},
-
+		{
+			"name": "央视官网",
+			"url": "https://tv.cctv.com/live/",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/cctv.py",
+			"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/cctv.json",
+			"timeout": 20
+		},
+		{
+			"name": "广东广电",
+			"url": "https://gdtv-api.gdtv.cn/api/tv/v2/tvChannel?category=0",
+			"api": "https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/gdtv.py",
+			"timeZone": "Asia/Shanghai",
+			"timeout": 30
+		},
 		{
 			"name": "🐬海豚综合",
 			"type": 0,
@@ -112,35 +128,19 @@
 			"ua": "okhttp",
 			"url": "https://good.852851.xyz/sub/rvk5DMk5AD0B/playlist.m3u"
 		},
+{
+			"name": "🐬GTP研究所（翻）",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "https://good.852851.xyz/sub/mg0W5fjbakYM/playlist.m3u"
+		},
 		{
 			"name": "🐬网页源",
 			"type": 0,
 			"ua": "okhttp",
 			"url": "https://gh-proxy.org/https://github.com/buhanzhe/webSourceM3U8/releases/latest/download/webview.txt"
 		},
-		{
-			"name": "央视频",
-			"url": "https://capi.yangshipin.cn/api/oms/pc/navigation/home_top_nav",
-			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/yangshipin.py",
-			"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/yangshipin.json",
-			"epg": "https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz",
-			"timeZone": "Asia/Shanghai",
-			"timeout": 30
-		},
-		{
-			"name": "央视官网",
-			"url": "https://tv.cctv.com/live/",
-			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/cctv.py",
-			"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/cctv.json",
-			"timeout": 20
-		},
-		{
-			"name": "广东广电",
-			"url": "https://gdtv-api.gdtv.cn/api/tv/v2/tvChannel?category=0",
-			"api": "https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/gdtv.py",
-			"timeZone": "Asia/Shanghai",
-			"timeout": 30
-		},
+
 		{
 			"name": "🐬帅锅专用",
 			"url": "https://dl.kstore.dev/download/9368/%E5%B8%85%E9%94%85%E4%B8%93%E7%94%A8.txt",
