@@ -88,10 +88,6 @@
 			"url": "http://tv123.vvvv.ee/tv.m3u"
 		},
 		{
-			"name": "🐬4GTV (台湾节点)",
-			"type": 0,
-			"ua": "okhttp",
-			"url": "http://xtvantsc.xyz/4gtv.txt"
 		},
 		{
 			"name": "🐬肥羊直播",
