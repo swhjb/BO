@@ -38,13 +38,12 @@
 			"timeout": 30
 		},
 		{
-			"name": "🐬海豚综合",
-			"type": 0,
-			"playerType": 2,
-			"ua": "okhttp",
-			"url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"
+			"name": "🐬肥羊直播",
+			"url": "https://live.ottiptv.cc/iptv.m3u?userid=895642917&sign=6102d99131e6fccf4085964aa73e017dce6d0405546832c5a7464f7c26e8c792b1bfb7176171ba90696cb726d74e33c1f3ec7781dd30c5a6be699500a911714f2f5448278b88&auth_token=7bd68f589dd57be44397cae6e387d1a2",
+			"timeout": 10,
+			"ua": "okHttp/Mod-1.5.0.0"
 		},
-		{
+				{
 			"name": "🐬风云源",
 			"type": 0,
 			"ua": "okhttp",
@@ -56,7 +55,6 @@
 			"ua": "okhttp/5.3.2",
 			"url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
 		},
-
 		{
 			"name": "🐬地方直播",
 			"type": 0,
@@ -82,19 +80,6 @@
 			"url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
 		},
 		{
-			"name": "🐬港奥台国际（翻）",
-			"type": 0,
-			"ua": "okhttp",
-			"url": "http://tv123.vvvv.ee/tv.m3u"
-		},
-
-		{
-			"name": "🐬肥羊直播",
-			"url": "https://live.ottiptv.cc/iptv.m3u?userid=895642917&sign=6102d99131e6fccf4085964aa73e017dce6d0405546832c5a7464f7c26e8c792b1bfb7176171ba90696cb726d74e33c1f3ec7781dd30c5a6be699500a911714f2f5448278b88&auth_token=7bd68f589dd57be44397cae6e387d1a2",
-			"timeout": 10,
-			"ua": "okHttp/Mod-1.5.0.0"
-		},
-		{
 			"name": "🐬jackTV (梯子)",
 			"type": 0,
 			"ua": "okhttp",
@@ -106,19 +91,18 @@
 			"ua": "okhttp",
 			"url": "https://cdn.qd.je/live.m3u"
 		},
-
+		{
+			"name": "🐬港奥台国际（翻）",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "http://tv123.vvvv.ee/tv.m3u"
+		},
 		{
 			"name": "🐬网页源",
 			"type": 0,
 			"ua": "okhttp",
 			"url": "https://gh-proxy.org/https://github.com/buhanzhe/webSourceM3U8/releases/latest/download/webview.txt"
-		},
-
-		{
-			"name": "🐬帅锅专用",
-			"url": "https://dl.kstore.dev/download/9368/%E5%B8%85%E9%94%85%E4%B8%93%E7%94%A8.txt",
-			"timeout": 10
-		}
+           }
 	],
 	"sites": [{
 		"key": "只能直播",
