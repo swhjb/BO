@@ -161,13 +161,6 @@
 			"ua": "okhttp",
 			"url": "http://tv123.vvvv.ee/tv.m3u"
 		},
-        {
-			"name": "🦋 4GTV怡淳酒店(梯子台湾节点)720p",
-			"type": 0,
-			"timeout": 10,
-			"ua": "okhttp",
-			"url": "http://xtvantsc.xyz/4gtv.txt"
-		},
 		{
 			"name": "🦋 4GTV(免梯子)1080p",
 			"type": 0,
@@ -249,6 +242,13 @@
 			"timeout": 10,
 			"ua": "okhttp",
 			"url": "http://xtvantsc.xyz/新加坡.m3u"
+		},
+        {
+			"name": "🦋 4GTV怡淳酒店(梯子台湾节点)720p",
+			"type": 0,
+			"timeout": 10,
+			"ua": "okhttp",
+			"url": "http://xtvantsc.xyz/4gtv.txt"
 		}
 
 	],
