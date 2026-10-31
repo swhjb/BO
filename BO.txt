@@ -139,7 +139,7 @@
 			"type": 0,
 			"timeout": 10,
 			"ua": "okhttp",
-			"url": "https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
+			"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
 		},
 		{
 			"name": "🦋 裤TV",
@@ -219,18 +219,10 @@
 			"url": "https://php.946985.filegear-sg.me/jackTV.m3u"
 		},
 		{
-			"name": "🦋 综合直播",
-			"type": 0,
-			"timeout": 10,
-			"playerType": 2,
-			"url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-			"ua": "bingcha/1.1 (mianfeifenxiang) "
-		},
-		{
 			"name": "🦋 Kimentanm",
 			"type": 0,
 			"timeout": 10,
-			"url": "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+			"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
 			"playerType": 2
 		},
         {
@@ -238,7 +230,7 @@
 			"type": 0,
 			"timeout": 10,
 			"ua": "okhttp/5.3.2",
-			"url": "https://ghfast.top/https://raw.githubusercontent.com/GodLike631/test/refs/heads/main/datas/%E8%B6%85%E7%A8%B3%E5%AE%9A%E6%B5%81%E7%95%85.txt"
+			"url": "https://gh-proxy.org/https://raw.githubusercontent.com/GodLike631/test/refs/heads/main/datas/%E8%B6%85%E7%A8%B3%E5%AE%9A%E6%B5%81%E7%95%85.txt"
 		},
 		{
 			"name": "🦋 Gather「IPTV」(梯子）",
@@ -256,7 +248,7 @@
 			"timeout": 10,
 			"playerType": 2,
 			"ua": "okhttp",
-			"url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"
+			"url": "https://gh-proxy.org/https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"
 		},
 		{
 			"name": "🐬jackTV (梯子)",
