@@ -90,15 +90,6 @@
 			"timeout": 10,
 			"playerType": 2
 		},
-		{
-			"name": "🦋 裤佬TV",
-			"type": 0,
-			"timeout": 10,
-			"ua": "okhttp",
-			"url": "https://iptv.445569.xyz/live.m3u"
-		},
-
-
 
 		{
 			"name": "🦋 全球直播",
@@ -157,13 +148,6 @@
 			"ua": "okhttp",
 			"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
 		},
-        {
-			"name": "🦋 裤TV2",
-			"type": 0,
-			"timeout": 10,
-			"ua": "okhttp",
-			"url": "https://tv.tmxk.kdns.fr/ex64181y"
-		}, 
         {
 			"name": "🦋 live.m3u",
 			"type": 0,
@@ -272,13 +256,6 @@
 			"ua": "okhttp/3.8.1",
 			"timeout": 10,
 			"playerType": 2
-		},
-		{
-			"name": "🦋 最新电影",
-			"type": 0,
-			"timeout": 10,
-			"ua": "okhttp/5.3.2",
-			"url": "https://ghfast.top/https://raw.githubusercontent.com/GodLike631/Ly_live/refs/heads/main/datas/%E6%9C%80%E6%96%B0%E7%94%B5%E5%BD%B1.m3u"
 		},
 		{
 			"name": "综合直播 ",
