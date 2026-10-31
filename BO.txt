@@ -2,11 +2,6 @@
 	"lives": [
 
 		{
-			"name": "🐬CATVOD",
-			"url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
-			"timeout": 10
-		},
-		{
 			"name": "🐬易发源",
 			"type": 0,
 			"ua": "okhttp",
@@ -15,27 +10,9 @@
 			"timeout": 10
 		},
 		{
-			"name": "央视频",
-			"url": "https://capi.yangshipin.cn/api/oms/pc/navigation/home_top_nav",
-			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/yangshipin.py",
-			"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/yangshipin.json",
-			"epg": "https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz",
-			"timeZone": "Asia/Shanghai",
-			"timeout": 30
-		},
-		{
-			"name": "央视官网",
-			"url": "https://tv.cctv.com/live/",
-			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/cctv.py",
-			"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/cctv.json",
-			"timeout": 20
-		},
-		{
-			"name": "广东广电",
-			"url": "https://gdtv-api.gdtv.cn/api/tv/v2/tvChannel?category=0",
-			"api": "https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/China/live/gdtv.py",
-			"timeZone": "Asia/Shanghai",
-			"timeout": 30
+			"name": "🐬CATVOD",
+			"url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
+			"timeout": 10
 		},
 		{
 			"name": "🐬肥羊直播",
@@ -47,60 +24,70 @@
 			"name": "🐬风云源",
 			"type": 0,
 			"ua": "okhttp",
+			"timeout": 10,
 			"url": "http://iptv.4666888.xyz/FYTV.txt"
 		},
 		{
 			"name": "🐬各大源合集",
 			"type": 0,
 			"ua": "okhttp/5.3.2",
+			"timeout": 10,
 			"url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
 		},
 		{
 			"name": "🐬地方直播",
 			"type": 0,
 			"ua": "okhttp/5.3.2",
+			"timeout": 10,
 			"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
 		},
 		{
 			"name": "🐬薄荷直播",
 			"type": 0,
 			"ua": "okhttp/5.3.2",
+			"timeout": 10,
 			"url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/bhmb.m3u"
 		},
 		{
 			"name": "🐬咪咕直播",
 			"type": 0,
 			"ua": "okhttp/5.3.2",
+			"timeout": 10,
 			"url": "http://www.52top.com.cn:678/downloads/migu.txt"
 		},
 		{
 			"name": "🐬iptv 直播",
 			"type": 0,
 			"ua": "okhttp/5.3.2",
+			"timeout": 10,
 			"url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
 		},
 		{
 			"name": "🐬jackTV (梯子)",
 			"type": 0,
 			"ua": "okhttp",
+			"timeout": 10,
 			"url": "https://php.946985.filegear-sg.me/jackTV.m3u"
 		},
 		{
 			"name": "🐬Mytv (翻)",
 			"type": 0,
 			"ua": "okhttp",
+			"timeout": 10,
 			"url": "https://cdn.qd.je/live.m3u"
 		},
 		{
 			"name": "🐬港奥台国际（翻）",
 			"type": 0,
 			"ua": "okhttp",
+			"timeout": 10,
 			"url": "http://tv123.vvvv.ee/tv.m3u"
 		},
 		{
 			"name": "🐬网页源",
 			"type": 0,
 			"ua": "okhttp",
+			"timeout": 10,
 			"url": "https://gh-proxy.org/https://github.com/buhanzhe/webSourceM3U8/releases/latest/download/webview.txt"
            }
 	],
