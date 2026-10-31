@@ -212,13 +212,6 @@
 			"url": "http://4gtv.cnlive.club/4gtv.m3u"
 		},
 		{
-			"name": "🦋 jackTV(梯子)",
-			"type": 0,
-			"timeout": 10,
-			"ua": "okhttp",
-			"url": "https://php.946985.filegear-sg.me/jackTV.m3u"
-		},
-		{
 			"name": "🦋 Kimentanm",
 			"type": 0,
 			"timeout": 10,
