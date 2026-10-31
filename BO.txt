@@ -62,6 +62,13 @@
 			"url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
 		},
 		{
+			"name": "🐬网页源",
+			"type": 0,
+			"ua": "okhttp",
+			"timeout": 10,
+			"url": "https://gh-proxy.org/https://github.com/buhanzhe/webSourceM3U8/releases/latest/download/webview.txt"
+		},
+		{
 			"name": "🦋 蝴蝶影视",
 			"type": 0,
 			"timeout": 10,
@@ -105,14 +112,6 @@
 			"ua": "okhttp/5.3.2",
 			"url": "http://www.52top.com.cn:678/downloads/migu.txt"
 		},
-
-		{
-			"name": "🦋 juli",
-			"type": 0,
-			"timeout": 10,
-			"ua": "okhttp/5.3.2",
-			"url": "https://files.catbox.moe/h3mb5a.txt"
-		},
 		{
 			"name": "🦋 小新TV",
 			"type": 0,
@@ -142,20 +141,6 @@
 			"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
 		},
 		{
-			"name": "🦋 Gather",
-			"type": 0,
-			"timeout": 10,
-			"ua": "okhttp",
-			"url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
-		},
-		{
-			"name": "🦋 新加坡(梯子)",
-			"type": 0,
-			"timeout": 10,
-			"ua": "okhttp",
-			"url": "http://xtvantsc.xyz/新加坡.m3u"
-		},
-		{
 			"name": "🦋 黄蚂蚁先锋推流源",
 			"type": 0,
 			"timeout": 10,
@@ -175,13 +160,6 @@
 			"timeout": 10,
 			"ua": "okhttp",
 			"url": "http://tv123.vvvv.ee/tv.m3u"
-		},
-        {
-			"name": "🦋 中港台直播源",
-			"type": 0,
-			"timeout": 10,
-			"ua": "okhttp",
-			"url": "https://t.freetv.fun/m3u/playlist_all.txt"
 		},
         {
 			"name": "🦋 4GTV怡淳酒店(梯子台湾节点)720p",
@@ -237,6 +215,13 @@
 			"url": "https://php.946985.filegear-sg.me/jackTV.m3u"
 		},
 		{
+			"name": "🦋 Gather(翻)",
+			"type": 0,
+			"timeout": 10,
+			"ua": "okhttp",
+			"url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
+		},
+		{
 			"name": "🐬Mytv (翻)",
 			"type": 0,
 			"ua": "okhttp",
@@ -250,13 +235,22 @@
 			"timeout": 10,
 			"url": "http://tv123.vvvv.ee/tv.m3u"
 		},
+
 		{
-			"name": "🐬网页源",
+			"name": "🦋 juli（翻）",
 			"type": 0,
-			"ua": "okhttp",
 			"timeout": 10,
-			"url": "https://gh-proxy.org/https://github.com/buhanzhe/webSourceM3U8/releases/latest/download/webview.txt"
+			"ua": "okhttp/5.3.2",
+			"url": "https://files.catbox.moe/h3mb5a.txt"
+		},
+		{
+			"name": "🦋 新加坡(梯子)",
+			"type": 0,
+			"timeout": 10,
+			"ua": "okhttp",
+			"url": "http://xtvantsc.xyz/新加坡.m3u"
 		}
+
 	],
 	"sites": [{
 		"key": "只能直播",
