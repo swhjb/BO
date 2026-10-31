@@ -163,13 +163,6 @@
 			"url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
 		},
 		{
-			"name": "🦋 Mytv",
-			"type": 0,
-			"timeout": 10,
-			"ua": "okhttp",
-			"url": "https://cdn.qd.je/live.m3u"
-		},
-		{
 			"name": "🦋 新加坡(梯子)",
 			"type": 0,
 			"timeout": 10,
