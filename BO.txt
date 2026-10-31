@@ -142,20 +142,6 @@
 			"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
 		},
 		{
-			"name": "🦋 裤TV",
-			"type": 0,
-			"timeout": 10,
-			"ua": "okhttp",
-			"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
-		},
-        {
-			"name": "🦋 live.m3u",
-			"type": 0,
-			"timeout": 10,
-			"ua": "okhttp",
-			"url": "https://live.445569.xyz/live.m3u"
-		},
-		{
 			"name": "🦋 Gather",
 			"type": 0,
 			"timeout": 10,
