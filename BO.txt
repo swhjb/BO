@@ -2,7 +2,7 @@
 	"lives": [
 
 		{
-			"name": "易发源",
+			"name": "🐬易发源",
 			"type": 0,
 			"timeout": 10,
 			"ua": "okhttp",
@@ -27,14 +27,14 @@
 			"url": "http://iptv.4666888.xyz/FYTV.txt"
 		},
     {
-      "name": "央视官网",
+      "name": "🐬央视官网",
       "url": "https://tv.cctv.com/live/",
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/cctv.py",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/cctv.json",
       "timeout": 20
     },
     {
-      "name": "央视频",
+      "name": "🐬央视频",
       "url": "https://capi.yangshipin.cn/api/oms/pc/navigation/home_top_nav",
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/yangshipin.py",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/yangshipin.json",
@@ -43,7 +43,7 @@
       "timeout": 30
     },
     {
-      "name": "广东台",
+      "name": "🐬广东台",
       "url": "https://gdtv-api.gdtv.cn/api/tv/v2/tvChannel?category=0",
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/gdtv.py",
       "timeZone": "Asia/Shanghai",
