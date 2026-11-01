@@ -140,7 +140,7 @@
 			"timeout": 10,
 			"ua": "okhttp",
 			"url": "https://gh-proxy.org/https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
-		}
+		},
 		{
 			"name": "🦋 4GTV(免梯子)1080p",
 			"type": 0,
