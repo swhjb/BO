@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "🐬CATVOD",
-			"url": "https://live.catvod.com/playlist.m3u?tk=69ca3f46c1906920e75f2d0a08583f4bhttps://live.catvod.com/playlist.m3u?tk=69ca3f46c1906920e75f2d0a08583f4b",
+			"url": "https://live.catvod.com/playlist.m3u?tk=69ca3f46c1906920e75f2d0a08583f4b",
 			"timeout": 10
 		},
 		{
