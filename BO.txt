@@ -92,6 +92,13 @@
 			"url": "https://gh-proxy.org/https://github.com/buhanzhe/webSourceM3U8/releases/latest/download/webview.txt"
 		},
 		{
+			"name": "🚀裤佬",
+			"type": 0,
+			"timeout": 10,
+			"url": "https://iptv.445569.xyz/live.m3u",
+			"ua": "okhttp/5.3.2"
+		},
+		{
 			"name": "🦋 蝴蝶影视",
 			"type": 0,
 			"timeout": 10,
