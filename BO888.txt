@@ -25,8 +25,10 @@
       "name": "🚀嗷呜",
       "url": "http://www.英格里希嗷呜.top/tv"
     },
-    
-    
+        {
+      "name": "🚀 CatVod",
+      "url": "https://iptv.catvod.com"
+    },
     {
       "name": "🚀潇洒",
       "url": "https://qist.wyfc.qzz.io/xiaosa/api.json"
