@@ -1,28 +1,28 @@
 {
   "urls": [
     {
-      "name": "🚀饭太硬",
+      "name": "🐬饭太硬",
       "url": "https://www.饭太硬.cc/tv"
     },
 {
-      "name": ""🐬咖啡",
+      "name": "🐬咖啡",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
     },
     {
-      "name": "🚀王二小",
+      "name": "🐬",
       "url": "https://9280.kstore.vip/aiwex.json"
     },
 
     {
-      "name": ""🐬摸鱼",
+      "name": "🐬摸鱼",
       "url": "http://www.y456y.com"
     },
     {
-      "name": ""🐬裤佬",
+      "name": "🐬裤佬",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg"
     },
     {
-      "name": ""🐬嗷呜",
+      "name": "🐬嗷呜",
       "url": "http://www.英格里希嗷呜.top/tv"
     },
         {
