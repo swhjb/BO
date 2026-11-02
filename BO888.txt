@@ -9,7 +9,7 @@
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
     },
     {
-      "name": "🐬",
+      "name": "🐬唐三",
       "url": "https://9280.kstore.vip/aiwex.json"
     },
 
