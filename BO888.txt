@@ -34,6 +34,10 @@
       "url": "https://qist.wyfc.qzz.io/xiaosa/api.json"
     },
     {
+      "name": "🐬蝴蝶",
+      "url": "https://sub.lytvs.top/get?token=cj_056b53bb"
+    },
+    {
       "name": "🐬帅锅直播",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/BO.txt"
     }
