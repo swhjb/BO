@@ -37,12 +37,30 @@ PLAYER_BUDGET = 25
 KEYGEN_CACHE_SECONDS = 24 * 60 * 60
 EPG_CACHE_SECONDS = 60 * 60
 TAIPEI = datetime.timezone(datetime.timedelta(hours=8))
-LOGO_URL = "https://epg.112114.xyz/logo/{}.png"
+LOGO_URL = "https://gcore.jsdelivr.net/gh/fanmingming/live/tv/{}.png"
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
 )
-GROUP_NAMES = {"yangshi": "央視頻道", "weishi": "衛視頻道"}
+GROUP_NAMES = {"yangshi": "央视频道", "weishi": "卫视频道"}
+EXCLUDED_PIDS = frozenset({
+    "600099502",  # CCTV16 4K
+    "600084704",  # CGTN法语
+    "600084758",  # CGTN俄语
+    "600084782",  # CGTN阿拉伯语
+    "600084744",  # CGTN西班牙语
+    "600084781",  # CGTN纪录
+    "600099637",  # CCTV世界地理频道
+    "600099660",  # CCTV风云音乐频道
+    "600099649",  # CCTV兵器科技频道
+    "600099636",  # CCTV风云足球频道
+    "600099659",  # CCTV高尔夫·网球频道
+    "600099650",  # CCTV女性时尚频道
+    "600099653",  # CCTV央视文化精品频道
+    "600099652",  # CCTV央视台球频道
+    "600099656",  # CCTV电视指南频道
+    "600099651",  # CCTV卫生健康频道
+})
 XMLTV_NAMES = {
     "CCTV1": "CCTV-1 综合",
     "CCTV2": "CCTV-2 财经",
@@ -87,11 +105,11 @@ XMLTV_NAMES = {
 }
 LOGO_NAMES = {
     "CCTV16-HD": "CCTV16",
-    "CCTV16(4K）": "CCTV16-4K",
-    "CGTN阿拉伯语频道": "CGTN阿拉伯语",
-    "CGTN西班牙语频道": "CGTN西班牙语",
-    "CGTN外语纪录频道": "CGTN纪录",
-    "CCTV高尔夫·网球频道": "CCTV高尔夫网球",
+    "CCTV风云剧场频道": "风云剧场",
+    "CCTV第一剧场频道": "第一剧场",
+    "CCTV怀旧剧场频道": "怀旧剧场",
+    "中国教育电视台1频道":"CETV1",
+    "福建东南卫视":"东南卫视",
 }
 MIN_CHANNELS = 50
 YSP_APP_ID = "519748109"
@@ -967,7 +985,13 @@ class Spider(BaseSpider):
 
     def liveContent(self, url):
         self._assert_active()
-        channels = self._load_channels(url, self.snapshot_url)
+       
+        channels = [
+            channel
+            for channel in self._load_channels(url, self.snapshot_url)
+            if str(channel.get("pid")) not in EXCLUDED_PIDS
+        ]
+        
         self._assert_active()
         groups = OrderedDict()
         for number, channel in enumerate(channels, 1):
@@ -1394,19 +1418,21 @@ class Spider(BaseSpider):
         name = str(channel["name"])
         epg_id = _cntv_epg_id(name)
         item = {
-            "name": name,
+            "name": LOGO_NAMES.get(name, name),
             "tvgName": XMLTV_NAMES.get(name, name),
             "tvgId": pid,
             "number": "{:02d}".format(number),
             "logo": _logo(name, str(channel.get("logo") or "")),
             "format": HLS_MIME,
             "ua": USER_AGENT,
-            "urls": [self.proxyUrl({"type": "app", "pid": pid, "cnlid": cnlid,
-                                    "defn": "shd" if channel.get("vip") else "fhd"}) + "$手機",
-                     self.proxyUrl({"cmg": "1", "pid": pid, "cnlid": cnlid}) + "$網頁"],
+            "urls": [
+                     self.proxyUrl({"cmg": "1", "pid": pid, "cnlid": cnlid}) + "$网页",
+                     self.proxyUrl({"type": "app", "pid": pid, "cnlid": cnlid,
+                                    "defn": "shd" if channel.get("vip") else "fhd"}) + "$手机"
+                     ],
         }
         if pid in TV_CHANNELS:
-            item["urls"].insert(0, self.proxyUrl({"type": "tv", "pid": pid, "cnlid": cnlid}) + "$電視")
+            item["urls"].insert(1, self.proxyUrl({"type": "tv", "pid": pid, "cnlid": cnlid}) + "$电视")
         if epg_id:
             item["epg"] = self.proxyUrl({"type": "epg", "id": epg_id}) + "&date={date}"
         return item
