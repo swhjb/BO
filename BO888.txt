@@ -32,7 +32,11 @@
     {
       "name": "🚀潇洒",
       "url": "https://qist.wyfc.qzz.io/xiaosa/api.json"
-    }
+    },
 
+    {
+      "name": "🚀帅锅直播",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/BO.txt"
+    }
   ]
 }
