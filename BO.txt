@@ -43,10 +43,10 @@
     },
     {
       "name": "🐬广东台",
-      "url": "https://gdtv-api.gdtv.cn/api/tv/v2/tvChannel?category=0",
+      "url": "https://api.itouchtv.cn/liveservice/v7/tvCategoryList?pageSize=100&pageNumber=1",
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/gdtv.py",
       "timeZone": "Asia/Shanghai",
-      "timeout": 30
+      "timeout": 20
     },
     {
       "name": "🐬各大源合集",
