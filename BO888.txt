@@ -36,6 +36,14 @@
       "url": "https://qist.wyfc.qzz.io/xiaosa/api.json"
     },
     {
+      "name": "🐬小儿早教",
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
+    },
+    {
+      "name": "🐬测试源",
+      "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json"
+    },
+    {
       "name": "🐬蝴蝶",
       "url": "https://sub.lytvs.top/get?token=cj_056b53bb"
     },
