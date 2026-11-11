@@ -12,7 +12,7 @@
 
     {
       "name": "🐬咖啡",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
+      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
     },   
     {
       "name": "🐬摸鱼",
@@ -41,10 +41,6 @@
     {
       "name": "🐬测试源",
       "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json"
-    },
-    {
-     "name": "🐬屌丝咖啡”，
-      “URL”：“https://gh.dpik.top/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json”
     },
     {
       "name": "🐬蝴蝶",
