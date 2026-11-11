@@ -12,7 +12,7 @@
 
     {
       "name": "🐬咖啡",
-      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
     },   
     {
       "name": "🐬摸鱼",
