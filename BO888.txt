@@ -44,6 +44,10 @@
       "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json"
     },
     {
+“名字”：“🐬屌丝咖啡”，
+“URL”：“https://gh.dpik.top/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json”
+},
+    {
       "name": "🐬蝴蝶",
       "url": "https://sub.lytvs.top/get?token=cj_056b53bb"
     },
