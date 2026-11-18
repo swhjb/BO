@@ -5,7 +5,7 @@
       "type": 0,
       "timeout": 10,
       "ua": "okhttp",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
     },
     {
       "name": "🐬CATVOD",
@@ -28,15 +28,15 @@
     {
       "name": "🐬央视官网",
       "url": "https://tv.cctv.com/live/",
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/cctv.py",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/cctv.json",
+      "api": "https://gh.dpik.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/cctv.py",
+      "ext": "https://gh.dpik.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/cctv.json",
       "timeout": 20
     },
     {
       "name": "🐬央视频",
       "url": "https://capi.yangshipin.cn/api/oms/pc/navigation/home_top_nav",
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/yangshipin.py",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/yangshipin.json",
+      "api": "https://gh.dpik.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/yangshipin.py",
+      "ext": "https://gh.dpik.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/yangshipin.json",
       "epg": "https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz",
       "timeZone": "Asia/Shanghai",
       "timeout": 30
@@ -44,7 +44,7 @@
     {
       "name": "🐬广东台",
       "url": "https://api.itouchtv.cn/liveservice/v7/tvCategoryList?pageSize=100&pageNumber=1",
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/gdtv.py",
+      "api": "https://gh.dpik.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/live-python/live/gdtv.py",
       "timeZone": "Asia/Shanghai",
       "timeout": 20
     },
@@ -53,14 +53,14 @@
       "type": 0,
       "ua": "okhttp/5.3.2",
       "timeout": 10,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
+      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
     },
     {
       "name": "🐬地方直播",
       "type": 0,
       "ua": "okhttp/5.3.2",
       "timeout": 10,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
+      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
     },
     {
       "name": "🐬咪咕直播",
@@ -81,7 +81,7 @@
       "type": 0,
       "ua": "okhttp",
       "timeout": 10,
-      "url": "https://gh-proxy.org/https://github.com/buhanzhe/webSourceM3U8/releases/latest/download/webview.txt"
+      "url": "https://gh.dpik.top/https://github.com/buhanzhe/webSourceM3U8/releases/latest/download/webview.txt"
     },
     {
       "name": "🚀裤佬",
@@ -114,7 +114,7 @@
     {
       "name": "🦋 锋云直播",
       "type": 3,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/suale.txt",
+      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/suale.txt",
       "ua": "okhttp/5.3.2",
       "timeout": 10,
       "playerType": 2
@@ -124,20 +124,20 @@
       "type": 0,
       "ua": "okhttp/5.3.2",
       "timeout": 10,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/bhmb.m3u"
+      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/bhmb.m3u"
     },
     {
       "name": "🦋 全球直播",
       "type": 0,
       "timeout": 10,
       "ua": "okhttp/5.3.2",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/%E5%85%A8%E7%90%83%E7%9B%B4%E6%92%AD.m3u"
+      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/%E5%85%A8%E7%90%83%E7%9B%B4%E6%92%AD.m3u"
     },
     {
       "name": "🦋 Kimentanm",
       "type": 0,
       "timeout": 10,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     },
     {
@@ -146,7 +146,7 @@
       "timeout": 10,
       "playerType": 2,
       "ua": "okhttp",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"
+      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"
     },
     {
       "name": "🐬jackTV (梯子)",
