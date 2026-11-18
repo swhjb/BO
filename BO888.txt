@@ -12,7 +12,7 @@
 
     {
       "name": "🐬咖啡",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
+      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
     },   
     {
       "name": "🐬摸鱼",
@@ -20,7 +20,7 @@
     },
     {
       "name": "🐬裤佬",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg"
+      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg"
     },
     {
       "name": "🐬嗷呜",
@@ -48,7 +48,7 @@
     },
     {
       "name": "🐬帅锅直播",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/BO.txt"
+      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/swhjb/BO/refs/heads/main/BO.txt"
     }
   ]
 }
