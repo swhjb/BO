@@ -60,7 +60,7 @@
       "type": 0,
       "ua": "okhttp/5.3.2",
       "timeout": 10,
-      "url": "https://gh.dpik.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
     },
     {
       "name": "🐬咪咕直播",
